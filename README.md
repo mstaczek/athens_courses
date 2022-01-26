@@ -1,8 +1,10 @@
-# Search all Athens Courses for the next session in a single page!
+# Search and filter Athens Courses in one place!
 
 As you may know, page [https://register.athensnetwork.eu/courses](https://register.athensnetwork.eu/courses) is not too user-friendly. It does not allow to filter available courses by the year of study or language for example. That's exactly why I scrapped all course description pages and gathered them in one place.
 
-## Check out this: [Athens Exchange Courses March 2022](https://mstaczek.github.io/athens_courses/)
+## Athens Exchange Courses March 2022:   
+My webpage (with sorting and filters): [https://mstaczek.github.io/athens_courses/](https://mstaczek.github.io/athens_courses/)  
+Official webpage: [https://register.athensnetwork.eu/courses](https://register.athensnetwork.eu/courses)
 
 ## Features:  
 - all courses information gathered in a single webpage!
