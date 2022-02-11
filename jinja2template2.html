@@ -229,15 +229,11 @@
 
 <!-- counter of courses at the top of the page -->
 <script>
-    const targetNode = document.getElementById("athens_table").children[2];
+    const targetNode = document.getElementById("accordion");
     const contOutput = document.getElementById("countOutput");
 
     function updateCount() {
-        let visible_rows_count = 0;
-        for (let child of targetNode.children) {
-            visible_rows_count += 1 - child.attributeStyleMap.size
-        }
-        contOutput.innerHTML = visible_rows_count;
+        contOutput.innerHTML = targetNode.childElementCount;
     }
 
     // Options for the observer (which mutations to observe)
