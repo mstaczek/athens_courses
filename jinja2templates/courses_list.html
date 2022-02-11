@@ -1,0 +1,46 @@
+<div class="container-fluid px-1">
+    <div id="accordion">
+        {% for idx, row in courses_data.iterrows() %}
+        <div class="card">
+            <div class="card-header" id="header_{{idx}}" data-toggle="collapse"
+                data-target="#collapse_{{idx}}" aria-expanded="true"
+                aria-controls="collapse_{{idx}}">
+                <h5 class="mb-0">
+                    <button class="btn btn-link text-left" data-toggle="collapse"
+                        data-target="#collapse_{{idx}}" aria-expanded="true"
+                        aria-controls="collapse_{{idx}}">
+                        {{idx+1}}: {{card_titles[idx]}}
+                    </button>
+                </h5>
+            </div>
+            <div id="collapse_{{idx}}" class="collapse" aria-labelledby="header_{{idx}}"
+                data-parent="#accordion">
+                <div class="card-body">
+                    {% for colname in colnames_for_card_body %}
+                    <p><b>{{colname}}</b>: {{ row[colname]}}</p>
+                    {% endfor %}
+                    <p>
+                        <button class="btn btn-link text-left" data-toggle="collapse"
+                            data-target="#collapse_{{idx}}_details" aria-expanded="true"
+                            aria-controls="collapse_{{idx}}_details">
+                            Show details
+                        </button>
+                    </p>
+                    <div class="collapse" id="collapse_{{idx}}_details">
+                        <div class="card card-body">
+                            {% for colname in colnames_for_card_desc %}
+                            <p><b>{{colname}}</b>: {{ row[colname]}}</p>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <p>
+                        <a class="btn btn-primary" type="button" href="{{row[colname_for_link]}}">
+                            Open at athensnetwork.eu
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

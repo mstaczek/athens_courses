@@ -12,11 +12,12 @@ def csv_to_html(input_csv_path, output_html_path):
         fh.write(output)
     print("New html table is in " + output_html_path)
 
-def csv_to_html2(input_csv_path, output_html_path):
+
+def csv_to_html3(input_csv_path, output_html_path):
     print("Creating pretty html webpage from csv ;)")
-    loader = jinja2.FileSystemLoader('jinja2template2.html')
+    loader = jinja2.FileSystemLoader('jinja2templates/')
     env = jinja2.Environment(loader=loader)
-    template = env.get_template('')
+    template = env.get_template('jinja2template3.html')
     input_df = pd.read_csv(input_csv_path, na_filter=False)
     card_titles = input_df['What']
     colnames_for_card_body = ['Where','Prerequisites','Objectives','Programme','Exam']
@@ -30,5 +31,5 @@ def csv_to_html2(input_csv_path, output_html_path):
 
 if __name__ == '__main__':
     # csv_to_html(input_csv_path='results_2022_1.csv', output_html_path='results_2022_1.html')
-    csv_to_html2(input_csv_path='results_2022_1.csv', output_html_path='results_2022_1_new.html')
+    csv_to_html3(input_csv_path='results_2022_1.csv', output_html_path='results_2022_1_new.html')
     
