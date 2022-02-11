@@ -19,11 +19,15 @@ def csv_to_html3(input_csv_path, output_html_path):
     env = jinja2.Environment(loader=loader)
     template = env.get_template('jinja2template3.html')
     input_df = pd.read_csv(input_csv_path, na_filter=False)
-    card_titles = input_df['What']
-    colnames_for_card_body = ['Where','Prerequisites','Objectives','Programme','Exam']
-    colname_for_link = 'Link'
-    colnames_for_card_desc = ['Min. year','Language','How','Might be online?','Tags','Professor','Other professors','Address','When','Code']
-    params = {'courses_data':input_df, 'year':2022, 'card_titles':card_titles, 'colnames_for_card_body':colnames_for_card_body, 'colnames_for_card_desc':colnames_for_card_desc, 'colname_for_link':colname_for_link} 
+    params = {}
+    params['courses_data'] = input_df
+    params['colname_for_title'] = 'What'
+    params['colname_for_subtitle'] = ['How','Code']
+    params['colnames_for_card_body'] = ['Where','Prerequisites','Objectives','Programme','Exam']
+    params['colname_for_link'] = 'Link'
+    params['colnames_for_card_desc'] = ['Min. year','Language','How','Might be online?','Tags','Professor','Other professors','Address','When','Code']
+    params['js_dict'] = input_df.to_dict(orient='records')
+    params['colnames_dropdown_filters'] = ['Language','How','Might be online?','Min. year','Where']
     output = template.render(params)
     with open(output_html_path, "w", encoding='utf-8') as fh:
         fh.write(output)

@@ -19,19 +19,16 @@
 <body style="background-color: rgb(68, 184, 77);">
     <div class="container" style="background-color: rgb(221, 252, 223);">
         <div class="container-fluid ">
-            <h1>Athens Courses {{year}} March</h1>
-            <p>
-            <h4>Courses matching filters: <span id="countOutput">0</span></h4>
-            </p>
+            <h1 class="text-center py-4">Athens Courses {{year}} March</h1>
         </div>
         <div class="container-fluid">
             <div class="row pb-3">
                 <div class="col-lg-3 p-2" style="background-color:  hsl(0, 0%, 95%);">
-                    <h3>Filters</h3>
+                    <h4 class="text-center">Filters</h4>
                     {% include 'filters.html' %}
                 </div>
                 <div class="col-lg-9 p-2" style="background-color: hsl(0, 0%, 95%);">
-                    <h3>Courses</h3>
+                    <h4 class="text-center">Courses (matching: <span id="countOutput">0</span>)</h4> 
                     {% include 'courses_list.html' %}
                 </div>
             </div>
@@ -71,6 +68,17 @@
     observer.observe(targetNode, config);
     updateCount();
 
+</script>
+
+<!-- filters -->
+<script>
+    var data = {{js_dict | safe }};
+    console.log(data);
+
+    var cards = document.querySelectorAll('[id^="course_card_"]');
+    console.log(cards);
+
+    // cards[0].style.display = "none";
 </script>
 
 
