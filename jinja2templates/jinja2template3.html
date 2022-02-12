@@ -28,14 +28,38 @@
                     {% include 'filters.html' %}
                 </div>
                 <div class="col-lg-9 p-2" style="background-color: hsl(0, 0%, 95%);">
-                    <h4 class="text-center">Courses (matching: <span id="countOutput">0</span>)</h4> 
-                    {% include 'courses_list.html' %}
+                    <h4 class="text-center">Courses (matching: <span id="countOutput">0</span>)</h4>
+                    <div class="container-fluid pb-2 px-0">
+                        <div class="row px-3">
+                            <span class="pt-2"> Sort by: </span>
+                            <form action="" id="sort_dropdown_column">
+                                <div class="form-group pl-1">
+                                    <select class="form-control" id="sort_dropdown_selection_column" onchange="on_sort_change()">
+                                        {% for value in columns_sort_by %}
+                                        <option> {{value}}
+                                        </option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </form>
+                            <form action="" id="sort_dropdown_asc_desc">
+                                <div class="form-group pl-1">
+                                    <select class="form-control" id="sort_dropdown_selection_asc_desc" onchange="on_sort_change()">
+                                        <option value="0"> Ascending
+                                        </option>
+                                        <option value="1"> Descending
+                                        </option>
+                                    </select>
+                                </div>
+                            </form>
+                        </div>
+                        {% include 'courses_list.html' %}
+                    </div>
                 </div>
             </div>
+
+
         </div>
-
-
-    </div>
 </body>
 
 <!-- jQuery first, then Popper.js, then Bootstrap JS - copied from mozilla-->
@@ -54,26 +78,35 @@
     const targetNode = document.getElementById("accordion");
     const contOutput = document.getElementById("countOutput");
 
-    function updateCount() {
-        contOutput.innerHTML = targetNode.childElementCount;
+    function updateCount(mutationsList) {
+        contOutput.innerHTML = targetNode.childElementCount - targetNode.querySelectorAll('.hidden_card').length;
     }
 
     // Options for the observer (which mutations to observe)
     let config = { attributes: true, childList: true, subtree: true };
     let callback = function (mutationsList, observer) {
-        updateCount();
+        updateCount(mutationsList);
     };
     let observer = new MutationObserver(callback);
     // Start observing the target node for configured mutations
     observer.observe(targetNode, config);
-    updateCount();
+    updateCount([]);
 
 </script>
 
-<!-- filters -->
 <script>
     {% include 'filters.js' %}
+    {% include 'sorting.js' %}
 </script>
+<style>
+    .hidden_card {
+        display: none;
+    }
+
+    .not_hidden_card {
+        display: flex;
+    }
+</style>
 
 
 </html>

@@ -1,7 +1,7 @@
-<div class="container-fluid px-1">
+<div class="container-fluid px-0">
     <div id="accordion" role="tablist">
         {% for idx, row in courses_data.iterrows() %}
-        <div class="card courses-info" id="course_card_{{idx}}">
+        <div class="card courses-info not_hidden_card" id="course_card_{{idx}}">
             <div class="card-header" id="header_{{idx}}" data-toggle="collapse" data-target="#collapse_{{idx}}"
                 aria-expanded="true" aria-controls="collapse_{{idx}}" role="button">
                 <span style="cursor:pointer;">

@@ -9,22 +9,24 @@
                 {% for value in courses_data[column] | unique %}
                 <option> {{value}} ({{ courses_data[column] |list | select("equalto", value) | list | count }})
                 </option>
+                {% endfor %}
             </select>
         </div>
-        {% endfor %}
     </form>
 </div>
 {% endfor %}
 
 {% for column in colnames_checkbox_filters %}
 <div class="container mt-2 m rounded" style="background-color: #d9dddf;">
-    <p class="m-0">
-        <b>{{column}}</b>
-    </p>
+    <b>{{column}}</b>
+    <button type="button" class="btn btn-light p-0 m-0"
+        onclick="onclick_reset_filter('filter_{{column}}')">Reset</button>
+
     <form action="" id="filter_{{column}}">
         {% for value in courses_data[column] | unique %}
         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="{{value}}" id="form_field_{{column}}_{{value}}" onchange="on_filters_change()">
+            <input class="form-check-input" type="checkbox" value="{{value}}" id="form_field_{{column}}_{{value}}"
+                onchange="on_filters_change()">
             <label class="form-check-label" for="form_field_{{column}}_{{value}}">
                 {{value}} ({{ courses_data[column] |list | select("equalto", value) | list | count }})
             </label>

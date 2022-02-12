@@ -40,10 +40,12 @@ function hide_cards_not_in_active_filters(dict) {
             }
         }
         if (hide) {
-            card.style.display = "none";
+            card.classList.add("hidden_card"); 
+            card.classList.remove("not_hidden_card");
         }
         else {
-            card.style.display = "flex";
+            card.classList.add("not_hidden_card");
+            card.classList.remove("hidden_card"); 
         }
     }
 }
@@ -52,3 +54,8 @@ function on_filters_change() {
     var dict = get_dict_of_all_filters();
     hide_cards_not_in_active_filters(dict);
 }
+
+function onclick_reset_filter(filter_id){
+    document.getElementById(filter_id).reset();
+    on_filters_change();
+}   
