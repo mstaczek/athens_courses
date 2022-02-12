@@ -275,33 +275,46 @@
                     <h4 class="text-center">Courses (matching: <span id="countOutput">0</span>)</h4>
                     <div class="container-fluid pb-2 px-0">
                         <div class="row px-3">
-                            <span class="pt-2"> Sort by: </span>
-                            <form action="" id="sort_dropdown_column">
-                                <div class="form-group pl-1">
-                                    <select class="form-control" id="sort_dropdown_selection_column" onchange="on_sort_change()">
-                                        
-                                        <option> What
-                                        </option>
-                                        
-                                        <option> Code
-                                        </option>
-                                        
-                                        <option> Min. year
-                                        </option>
-                                        
-                                    </select>
-                                </div>
-                            </form>
-                            <form action="" id="sort_dropdown_asc_desc">
-                                <div class="form-group pl-1">
-                                    <select class="form-control" id="sort_dropdown_selection_asc_desc" onchange="on_sort_change()">
-                                        <option value="0"> Ascending
-                                        </option>
-                                        <option value="1"> Descending
-                                        </option>
-                                    </select>
-                                </div>
-                            </form>
+                            <div class="col-sm">
+                                <span class="pt-2"> Sort by: </span>
+                                <form id="sort_dropdown_column">
+                                    <div class="form-group pl-1">
+                                        <select class="form-control" id="sort_dropdown_selection_column"
+                                            onchange="on_sort_change()">
+                                            
+                                            <option> What
+                                            </option>
+                                            
+                                            <option> Code
+                                            </option>
+                                            
+                                            <option> Min. year
+                                            </option>
+                                            
+                                        </select>
+                                    </div>
+                                </form>
+                                <form id="sort_dropdown_asc_desc">
+                                    <div class="form-group pl-1">
+                                        <select class="form-control" id="sort_dropdown_selection_asc_desc"
+                                            onchange="on_sort_change()">
+                                            <option value="0"> Ascending
+                                            </option>
+                                            <option value="1"> Descending
+                                            </option>
+                                        </select>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="col-sm">
+                                <span class="pt-2 pl-4"> Search: </span>
+                                <form id="search_txt_filter" onsubmit="on_filters_change();return false;">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="search_txt_filter_input"
+                                            placeholder="Code or Title" oninput="on_filters_change();return false;">
+                                    </div>
+                                </form>
+                            </div>
                         </div>
                         <div class="container-fluid px-0">
     <div id="accordion" role="tablist">
@@ -3128,6 +3141,8 @@ function get_dict_of_all_filters() {
 }
 
 function hide_cards_not_in_active_filters(dict) {
+    let input_search_txt = document.getElementById('search_txt_filter').elements[0].value;
+
     for (let card of cards) {
         var card_id = card.id.split("_").pop();
         var card_data = data[card_id];
@@ -3137,15 +3152,33 @@ function hide_cards_not_in_active_filters(dict) {
                 hide = true;
             }
         }
+
+        hide = hide || check_card_for_txt_search(card_data, input_search_txt)
+
         if (hide) {
-            card.classList.add("hidden_card"); 
+            card.classList.add("hidden_card");
             card.classList.remove("not_hidden_card");
         }
         else {
             card.classList.add("not_hidden_card");
-            card.classList.remove("hidden_card"); 
+            card.classList.remove("hidden_card");
         }
     }
+}
+
+function check_card_for_txt_search(card_data,input_search_txt) {
+    var hide = false;
+    if (
+        
+            !card_data['What'].toLowerCase().includes(input_search_txt.toLowerCase()) &&
+        
+            !card_data['Code'].toLowerCase().includes(input_search_txt.toLowerCase()) &&
+         true
+        )
+    {
+        hide = true;
+    }
+    return hide;
 }
 
 function on_filters_change() {
@@ -3153,7 +3186,8 @@ function on_filters_change() {
     hide_cards_not_in_active_filters(dict);
 }
 
-function onclick_reset_filter(filter_id){
+
+function onclick_reset_filter(filter_id) {
     document.getElementById(filter_id).reset();
     on_filters_change();
 }   

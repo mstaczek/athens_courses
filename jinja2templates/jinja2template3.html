@@ -31,27 +31,40 @@
                     <h4 class="text-center">Courses (matching: <span id="countOutput">0</span>)</h4>
                     <div class="container-fluid pb-2 px-0">
                         <div class="row px-3">
-                            <span class="pt-2"> Sort by: </span>
-                            <form action="" id="sort_dropdown_column">
-                                <div class="form-group pl-1">
-                                    <select class="form-control" id="sort_dropdown_selection_column" onchange="on_sort_change()">
-                                        {% for value in columns_sort_by %}
-                                        <option> {{value}}
-                                        </option>
-                                        {% endfor %}
-                                    </select>
-                                </div>
-                            </form>
-                            <form action="" id="sort_dropdown_asc_desc">
-                                <div class="form-group pl-1">
-                                    <select class="form-control" id="sort_dropdown_selection_asc_desc" onchange="on_sort_change()">
-                                        <option value="0"> Ascending
-                                        </option>
-                                        <option value="1"> Descending
-                                        </option>
-                                    </select>
-                                </div>
-                            </form>
+                            <div class="col-sm">
+                                <span class="pt-2"> Sort by: </span>
+                                <form id="sort_dropdown_column">
+                                    <div class="form-group pl-1">
+                                        <select class="form-control" id="sort_dropdown_selection_column"
+                                            onchange="on_sort_change()">
+                                            {% for value in columns_sort_by %}
+                                            <option> {{value}}
+                                            </option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </form>
+                                <form id="sort_dropdown_asc_desc">
+                                    <div class="form-group pl-1">
+                                        <select class="form-control" id="sort_dropdown_selection_asc_desc"
+                                            onchange="on_sort_change()">
+                                            <option value="0"> Ascending
+                                            </option>
+                                            <option value="1"> Descending
+                                            </option>
+                                        </select>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="col-sm">
+                                <span class="pt-2 pl-4"> Search: </span>
+                                <form id="search_txt_filter" onsubmit="on_filters_change();return false;">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="search_txt_filter_input"
+                                            placeholder="Code or Title" oninput="on_filters_change();return false;">
+                                    </div>
+                                </form>
+                            </div>
                         </div>
                         {% include 'courses_list.html' %}
                     </div>

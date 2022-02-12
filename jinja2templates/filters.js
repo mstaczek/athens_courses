@@ -30,6 +30,8 @@ function get_dict_of_all_filters() {
 }
 
 function hide_cards_not_in_active_filters(dict) {
+    let input_search_txt = document.getElementById('search_txt_filter').elements[0].value;
+
     for (let card of cards) {
         var card_id = card.id.split("_").pop();
         var card_data = data[card_id];
@@ -39,15 +41,31 @@ function hide_cards_not_in_active_filters(dict) {
                 hide = true;
             }
         }
+
+        hide = hide || check_card_for_txt_search(card_data, input_search_txt)
+
         if (hide) {
-            card.classList.add("hidden_card"); 
+            card.classList.add("hidden_card");
             card.classList.remove("not_hidden_card");
         }
         else {
             card.classList.add("not_hidden_card");
-            card.classList.remove("hidden_card"); 
+            card.classList.remove("hidden_card");
         }
     }
+}
+
+function check_card_for_txt_search(card_data,input_search_txt) {
+    var hide = false;
+    if (
+        {% for column in columns_to_be_searched %}
+            !card_data['{{column}}'].toLowerCase().includes(input_search_txt.toLowerCase()) &&
+        {% endfor %} true
+        )
+    {
+        hide = true;
+    }
+    return hide;
 }
 
 function on_filters_change() {
@@ -55,7 +73,8 @@ function on_filters_change() {
     hide_cards_not_in_active_filters(dict);
 }
 
-function onclick_reset_filter(filter_id){
+
+function onclick_reset_filter(filter_id) {
     document.getElementById(filter_id).reset();
     on_filters_change();
 }   
