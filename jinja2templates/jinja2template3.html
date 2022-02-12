@@ -19,7 +19,7 @@
 <body style="background-color: rgb(68, 184, 77);">
     <div class="container" style="background-color: rgb(221, 252, 223);">
         <div class="container-fluid ">
-            <h1 class="text-center py-4">Athens Courses {{year}} March</h1>
+            <h1 class="text-center py-4">Athens Courses</h1>
         </div>
         <div class="container-fluid">
             <div class="row pb-3">
@@ -72,13 +72,7 @@
 
 <!-- filters -->
 <script>
-    var data = {{js_dict | safe }};
-    console.log(data);
-
-    var cards = document.querySelectorAll('[id^="course_card_"]');
-    console.log(cards);
-
-    // cards[0].style.display = "none";
+    {% include 'filters.js' %}
 </script>
 
 

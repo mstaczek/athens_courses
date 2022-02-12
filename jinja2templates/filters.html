@@ -3,9 +3,9 @@
     <p class="m-0">
         <b>{{column}}</b>
     </p>
-    <form action="" id="{{column}}">
+    <form action="" id="filter_{{column}}">
         <div class="form-group pb-2">
-            <select class="form-control" id="dropdown_{{column}}">
+            <select class="form-control" id="dropdown_{{column}}" onchange="on_filters_change()">
                 {% for value in courses_data[column] | unique %}
                 <option> {{value}} ({{ courses_data[column] |list | select("equalto", value) | list | count }})
                 </option>
@@ -21,11 +21,11 @@
     <p class="m-0">
         <b>{{column}}</b>
     </p>
-    <form action="" id="{{column}}">
+    <form action="" id="filter_{{column}}">
         {% for value in courses_data[column] | unique %}
         <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="{{value}}">
-            <label class="form-check-label" for="{{value}}">
+            <input class="form-check-input" type="checkbox" value="{{value}}" id="form_field_{{column}}_{{value}}" onchange="on_filters_change()">
+            <label class="form-check-label" for="form_field_{{column}}_{{value}}">
                 {{value}} ({{ courses_data[column] |list | select("equalto", value) | list | count }})
             </label>
         </div>
