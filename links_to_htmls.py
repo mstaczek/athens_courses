@@ -46,5 +46,5 @@ def links_to_htmls(input_urls_txt, output_htmls_folder):
     print("Downloading finished!")
 
 if __name__ == '__main__':
-    links_to_htmls(input_urls_txt="bugged.txt", output_htmls_folder="html_downloads_all")
+    links_to_htmls(input_urls_txt="links_all.txt", output_htmls_folder="html_downloads_all")
 
