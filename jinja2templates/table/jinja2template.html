@@ -37,8 +37,10 @@
                 <thead class="thead-light">
                     <tr>
                         <!-- last column is Link-->
-                        {% for column in df.columns[:-1] %}
+                        {% for column in df.columns %}
+                        {% if column != "Link" %}
                         <th>{{ column }}</th>
+                        {% endif %}
                         {% endfor %}
                     </tr>
                 </thead>

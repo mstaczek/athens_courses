@@ -3,7 +3,7 @@ import jinja2
 
 def csv_to_html_table(input_csv_path, output_html_path):
     print("Creating pretty html table from csv ;)")
-    loader = jinja2.FileSystemLoader('jinja2templates/webpage/')
+    loader = jinja2.FileSystemLoader('jinja2templates/table/')
     env = jinja2.Environment(loader=loader)
     template = env.get_template('jinja2template.html')
     input_df = pd.read_csv(input_csv_path, na_filter=False)
@@ -22,7 +22,7 @@ def csv_to_html_web(input_csv_path, output_html_path):
     params = {}
     params['courses_data'] = input_df
     params['colname_for_title'] = 'What'
-    params['colname_for_subtitle'] = ['How','Code']
+    params['colname_for_subtitle'] = ['How','Code','Countries']
     params['colnames_for_card_body'] = ['Where','Prerequisites','Objectives','Programme','Exam']
     params['colname_for_link'] = 'Link'
     params['colnames_for_card_desc'] = ['Min. year','Language','How','Might be online?','Tags','Professor','Other professors','Address','When','Code']
