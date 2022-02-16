@@ -5,7 +5,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-
 def get_urls(path_to_txt):
     with open(path_to_txt) as urls_file:
         lines = urls_file.readlines()
@@ -21,12 +20,20 @@ def download_htmls(urls, download_folder):
     for i, url in enumerate(urls):
         print(f"Link {i+1}: {url}")
         driver.get(url)
-        WebDriverWait(driver, 3).until(EC.text_to_be_present_in_element((By.TAG_NAME,'app-course-show'), "20"))
-        html_source = driver.page_source
-        html_filename = url[-4:]+".html"
-        path_to_html = os.path.join(download_folder,html_filename)
-        with open(path_to_html, 'w', encoding="utf-8") as f:
-            f.write(html_source)
+        try:
+            WebDriverWait(driver, 5).until(EC.text_to_be_present_in_element((By.TAG_NAME,'app-course-show'), "20"))
+        except Exception as e:
+            print(f"Error downloading link {i+1}: {url}")
+            print(f"Error: {e}")
+            with open("bugged2.txt", 'a', encoding="utf-8") as f:
+                f.write(url)
+                f.write('\n')
+        else:
+            html_source = driver.page_source
+            html_filename = url[54:-1]+".html"
+            path_to_html = os.path.join(download_folder,html_filename)
+            with open(path_to_html, 'w', encoding="utf-8") as f:
+                f.write(html_source)
     driver.quit()
     return
 
@@ -39,5 +46,5 @@ def links_to_htmls(input_urls_txt, output_htmls_folder):
     print("Downloading finished!")
 
 if __name__ == '__main__':
-    links_to_htmls(input_urls_txt="links_2022_1.txt", output_htmls_folder="html_downloads_2022_1")
+    links_to_htmls(input_urls_txt="bugged.txt", output_htmls_folder="html_downloads_all")
 
