@@ -5,6 +5,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+PATH_PREFIX = "GenerateCsv/"
+
 def get_urls(path_to_txt):
     with open(path_to_txt) as urls_file:
         lines = urls_file.readlines()
@@ -12,7 +14,7 @@ def get_urls(path_to_txt):
     return lines
 
 def download_htmls(urls, download_folder):
-    driver_path = "GenerateCsv/chromedriver.exe"
+    driver_path = PATH_PREFIX + "chromedriver.exe"
     options = Options()
     options.headless = True
     options.add_argument("--window-size=1920,1200")
@@ -25,7 +27,7 @@ def download_htmls(urls, download_folder):
         except Exception as e:
             print(f"Error downloading link {i+1}: {url}")
             print(f"Error: {e}")
-            with open("bugged2.txt", 'a', encoding="utf-8") as f:
+            with open(PATH_PREFIX + "failed_to_download.txt", 'a', encoding="utf-8") as f:
                 f.write(url)
                 f.write('\n')
         else:
@@ -46,5 +48,7 @@ def links_to_htmls(input_urls_txt, output_htmls_folder):
     print("Downloading finished!")
 
 if __name__ == '__main__':
-    links_to_htmls(input_urls_txt="links_all.txt", output_htmls_folder="html_downloads_all")
+    input_path = PATH_PREFIX + "links_2022_1.txt"
+    output_path = PATH_PREFIX + "html_downloads_2022_1"
+    links_to_htmls(input_urls_txt=input_path, output_htmls_folder=output_path)
 

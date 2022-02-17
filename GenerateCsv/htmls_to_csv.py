@@ -1,8 +1,9 @@
 import os
 import bs4
 import pandas as pd
-from .html_to_csv_helper import addCountries
+from .html_to_csv_helper import addCountries # remove dot if running this file
 
+PATH_PREFIX = "GenerateCsv/"
 
 def clean_values(value):
     return value.replace('\xa0','').replace('\n',' ').replace(' ','').strip()
@@ -83,5 +84,7 @@ def htmls_to_csv(input_htmls_folder,output_csv_path):
     print("Finished htmls to csv conversion.")
 
 if __name__ == '__main__':
-    htmls_to_csv(input_htmls_folder="html_downloads_2022_1", output_csv_path="results_2022_1.csv")
+    input_path = PATH_PREFIX + "html_downloads_2022_1"
+    output_path = PATH_PREFIX + "results_2022_1.csv"
+    htmls_to_csv(input_htmls_folder=input_path, output_csv_path=output_path)
 
