@@ -32,6 +32,10 @@ From 2006 until today (March 2022) there were more than 2500 courses in total. S
 - in [a nice looking webpage](https://mstaczek.github.io/athens_courses/web_big) (WIP, long loading time)
 - in [a single html table](https://mstaczek.github.io/athens_courses/table_big) (laggy, long loading time)
 
+#### Kaggle
+
+[https://www.kaggle.com/stillsky/athens-network-students-exchange-courses-20062022](https://www.kaggle.com/stillsky/athens-network-students-exchange-courses-20062022)
+
 ### How to run locally
 
 Gather links to course pages and run `run.py`. To get all links to courses currently listed at `https://register.athensnetwork.eu/courses` you may run script `js_scrapper.js` in web browser terminal. Note, that downloading all data uses selenium and in my case [chromedriver.exe](https://sites.google.com/chromium.org/driver/) which is not included in this repo.
