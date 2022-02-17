@@ -1,7 +1,7 @@
 import os
 import bs4
 import pandas as pd
-from html_to_csv_helper import addCountries
+from .html_to_csv_helper import addCountries
 
 
 def clean_values(value):

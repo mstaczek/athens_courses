@@ -12,7 +12,7 @@ def get_urls(path_to_txt):
     return lines
 
 def download_htmls(urls, download_folder):
-    driver_path = "chromedriver.exe"
+    driver_path = "GenerateCsv/chromedriver.exe"
     options = Options()
     options.headless = True
     options.add_argument("--window-size=1920,1200")
