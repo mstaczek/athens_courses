@@ -28,7 +28,7 @@ def csv_to_html3(input_csv_path, output_html_path):
     params['colnames_for_card_desc'] = ['Min. year','Language','How','Might be online?','Tags','Professor','Other professors','Address','When','Code']
     params['js_dict'] = input_df.to_dict(orient='records')
     params['colnames_dropdown_filters'] = ['When']
-    params['colnames_checkbox_filters'] = ['Language','How','Might be online?','Min. year','Where']
+    params['colnames_checkbox_filters'] = ['Language','How','Might be online?','Min. year','Countries','Where']
     params['columns_sort_by'] = ['What','Code','Min. year']
     params['columns_to_be_searched'] = ['What','Code']
     output = template.render(params)
