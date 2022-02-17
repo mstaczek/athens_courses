@@ -3,7 +3,10 @@
 As you may know, page [https://register.athensnetwork.eu/courses](https://register.athensnetwork.eu/courses) is not too user-friendly. It does not allow to filter available courses by the year of study or language for example. That's exactly why I scrapped all course description pages and gathered them in one place. Have a look [here](https://mstaczek.github.io/athens_courses/)!
   
 ## Athens Exchange Courses March 2022:  
-[Unofficial list (My webpage)](https://mstaczek.github.io/athens_courses/)  
+Unofficial pages (mine):
+
+- [Nice webpage with filters etc](https://mstaczek.github.io/athens_courses/)  
+- [Simple tabular view of data](https://mstaczek.github.io/athens_courses/table)  
 
 [Official webpage](https://register.athensnetwork.eu/courses)  
 
@@ -28,4 +31,4 @@ Remember to always use the official data available at https://register.athensnet
 
 ### How to run locally
 
-Open .js file, read instruction, then open and run `run.py`.
+Gather links to course pages and run `run.py`. To get all links to courses currently listed at `https://register.athensnetwork.eu/courses` you may run script `js_scrapper.js` in web browser terminal. Note, that downloading all data uses selenium and in my case [chromedriver.exe](https://sites.google.com/chromium.org/driver/) which is not included in this repo.
