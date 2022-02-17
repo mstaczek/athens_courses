@@ -1,6 +1,7 @@
 import os
 import bs4
 import pandas as pd
+from html_to_csv_helper import addCountries
 
 
 def clean_values(value):
@@ -75,6 +76,9 @@ def htmls_to_csv(input_htmls_folder,output_csv_path):
             dfs_list += [extract_data_from_html(html_file, course_no=os.path.splitext(file)[0])]
     df = pd.concat(dfs_list)
     df = clean_df_befor_saving(df)
+    df.to_csv(output_csv_path, index=False)
+    print("Finished reading htmls. Start adding countries...")
+    df = addCountries(df)
     df.to_csv(output_csv_path, index=False)
     print("Finished htmls to csv conversion.")
 
