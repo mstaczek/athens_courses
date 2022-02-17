@@ -23,7 +23,7 @@
         onclick="onclick_reset_filter('filter_{{column}}')">Reset</button>
 
     <form action="" id="filter_{{column}}">
-        {% for value in courses_data[column] | unique %}
+        {% for value in courses_data[column] | unique  | sort %}
         <div class="form-check">
             <input class="form-check-input" type="checkbox" value="{{value}}" id="form_field_{{column}}_{{value}}"
                 onchange="on_filters_change()">

@@ -29,7 +29,7 @@ def csv_to_html_web(input_csv_path, output_html_path):
     params['js_dict'] = input_df.to_dict(orient='records')
     params['colnames_dropdown_filters'] = ['When']
     params['colnames_checkbox_filters'] = ['Language','How','Might be online?','Min. year','Countries','Where']
-    params['columns_sort_by'] = ['What','Code','Min. year']
+    params['columns_sort_by'] = ['What','Code','Min. year','Countries']
     params['columns_to_be_searched'] = ['What','Code']
     output = template.render(params)
     with open(output_html_path, "w", encoding='utf-8') as fh:
