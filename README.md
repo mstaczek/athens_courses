@@ -26,8 +26,15 @@ I did [this webpage](https://mstaczek.github.io/athens_courses/) to facilitate l
 
 Remember to always use the official data available at https://register.athensnetwork.eu/courses when planning your trip!
 
+## Historical data   
+From 2006 until today (March 2022) there were more than 2500 courses in total. Scrapped data is available:  
+- as csv in [`results_all.csv`](https://raw.githubusercontent.com/mstaczek/athens_courses/main/results_all.csv)
+- in [a nice looking webpage](https://mstaczek.github.io/athens_courses/web_big) (WIP, long loading time)
+- in [a single html table](https://mstaczek.github.io/athens_courses/table_big) (laggy, long loading time)
 
+#### Kaggle
 
+[https://www.kaggle.com/stillsky/athens-network-students-exchange-courses-20062022](https://www.kaggle.com/stillsky/athens-network-students-exchange-courses-20062022)
 
 ### How to run locally
 
