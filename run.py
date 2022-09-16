@@ -11,9 +11,9 @@ def create_html_webpage_from_links(links, htmls, csv, result, result_table):
 
 
 if __name__ == '__main__':
-    links = "GenerateCsv/links_2022_1.txt"
-    htmls = "GenerateCsv/html_downloads_2022_1"
-    csv = "results_2022_1.csv"
-    result = "results_2022_1_web.html"
-    result_table = "results_2022_1_table.html"
+    links = "GenerateCsv/links_2022_2.txt"
+    htmls = "GenerateCsv/html_downloads_2022_2"
+    csv = "results_2022_2.csv"
+    result = "results_2022_2_web.html"
+    result_table = "results_2022_2_table.html"
     create_html_webpage_from_links(links, htmls, csv, result, result_table)

@@ -14,6 +14,7 @@ def get_urls(path_to_txt):
     return lines
 
 def download_htmls(urls, download_folder):
+    os.makedirs(download_folder, exist_ok=True)
     driver_path = PATH_PREFIX + "chromedriver.exe"
     options = Options()
     options.headless = True
@@ -23,7 +24,7 @@ def download_htmls(urls, download_folder):
         print(f"Link {i+1}: {url}")
         driver.get(url)
         try:
-            WebDriverWait(driver, 5).until(EC.text_to_be_present_in_element((By.TAG_NAME,'app-course-show'), "20"))
+            WebDriverWait(driver, 10).until(EC.text_to_be_present_in_element((By.TAG_NAME,'app-course-show'), "20"))
         except Exception as e:
             print(f"Error downloading link {i+1}: {url}")
             print(f"Error: {e}")
@@ -32,7 +33,7 @@ def download_htmls(urls, download_folder):
                 f.write('\n')
         else:
             html_source = driver.page_source
-            html_filename = url[54:-1]+".html"
+            html_filename = url[54:]+".html"
             path_to_html = os.path.join(download_folder,html_filename)
             with open(path_to_html, 'w', encoding="utf-8") as f:
                 f.write(html_source)

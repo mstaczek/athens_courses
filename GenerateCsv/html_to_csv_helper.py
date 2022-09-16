@@ -16,7 +16,7 @@ def addCountries(input_df):
     geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
 
     def get_raw_address(ad):
-        sleep(randint(1 * 100, 2 * 100) / 100)
+        sleep(randint(1 * 100, 2 * 100) / 10)
         location = geocode(ad)
         if location is not None:
             solved_queries_places[ad] = location.raw

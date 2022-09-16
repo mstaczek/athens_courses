@@ -12,13 +12,18 @@
 (async function() {
     const delay = ms => new Promise(res => setTimeout(res, ms));
     let out = ""
+    let n = document.querySelectorAll("accordion-group button").length
     for(i=0;i<document.querySelectorAll("accordion-group button").length;i++) {
         document.querySelectorAll("accordion-group button")[i].click()
-        await delay(2000);
+        await delay(1000);
         out += window.location.href + "\n"
         history.back()
-        await delay(2000)
+        await delay(1000)
+        while(document.querySelectorAll("accordion-group button").length != n) {
+            await delay(1000)
+        }
     }
     console.log(out)
+    console.log("Length: " + out.length)
     return out
 })()

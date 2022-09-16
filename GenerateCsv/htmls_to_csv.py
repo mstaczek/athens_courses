@@ -6,7 +6,7 @@ from .html_to_csv_helper import addCountries # remove dot if running this file
 PATH_PREFIX = "GenerateCsv/"
 
 def clean_values(value):
-    return value.replace('\xa0','').replace('\n',' ').replace(' ','').strip()
+    return value.replace(' ','\n').strip()
 
 def extract_data_from_html(html_file, course_no):
     soup = bs4.BeautifulSoup(html_file, features="html.parser")
