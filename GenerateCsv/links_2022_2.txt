@@ -33,6 +33,7 @@ https://register.athensnetwork.eu/courses/course-show/2596
 https://register.athensnetwork.eu/courses/course-show/2648
 https://register.athensnetwork.eu/courses/course-show/2600
 https://register.athensnetwork.eu/courses/course-show/2607
+https://register.athensnetwork.eu/courses/course-show/2676
 https://register.athensnetwork.eu/courses/course-show/2662
 https://register.athensnetwork.eu/courses/course-show/2608
 https://register.athensnetwork.eu/courses/course-show/2618
@@ -70,6 +71,8 @@ https://register.athensnetwork.eu/courses/course-show/2631
 https://register.athensnetwork.eu/courses/course-show/2657
 https://register.athensnetwork.eu/courses/course-show/2623
 https://register.athensnetwork.eu/courses/course-show/2629
+https://register.athensnetwork.eu/courses/course-show/2675
+https://register.athensnetwork.eu/courses/course-show/2678
 https://register.athensnetwork.eu/courses/course-show/2674
 https://register.athensnetwork.eu/courses/course-show/2650
 https://register.athensnetwork.eu/courses/course-show/2592
@@ -79,9 +82,10 @@ https://register.athensnetwork.eu/courses/course-show/2655
 https://register.athensnetwork.eu/courses/course-show/2646
 https://register.athensnetwork.eu/courses/course-show/2642
 https://register.athensnetwork.eu/courses/course-show/2591
-https://register.athensnetwork.eu/courses/course-show/2616
 https://register.athensnetwork.eu/courses/course-show/2615
+https://register.athensnetwork.eu/courses/course-show/2616
 https://register.athensnetwork.eu/courses/course-show/2637
+https://register.athensnetwork.eu/courses/course-show/2677
 https://register.athensnetwork.eu/courses/course-show/2670
 https://register.athensnetwork.eu/courses/course-show/2647
 https://register.athensnetwork.eu/courses/course-show/2666

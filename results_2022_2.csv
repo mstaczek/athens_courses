@@ -1,0 +1,1588 @@
+No.,Where,What,Prerequisites,Objectives,Programme,Exam,How,Language,Min. year,Professor,Other professors,Address,Tags,Might be online?,When,Code,Link,Countries
+1,Technische Universität Wien,Flow Simulation in Turbomachinery,"Basics
+of fluid dynamics.","Numerical simulations are
+essential to understand the flow phenomena occurring in the harsh environments
+of turbomachinery. Further, the computation of efficiencies and global
+performance parameters is crucial at the design stage and allows the optimisation
+of the shape geometry. Therefore, numerical flow simulations are indispensable
+for any engineer designing turbines. 
+The lecture shows the practical work process of flow simulators using
+application examples and provides the theoretical background. When explaining
+the individual work steps of the flow simulation process in the lecture,
+special attention is paid to conveying the conceptual understanding of the
+physical principles. The theoretical knowledge is applied in a simulation
+environment in the afternoon sections. Several models are employed, and the
+results are compared to each other.","Governing
+     equations,
+ Finite-volume
+     method,
+ Grid
+     generation,
+ Boundary
+     conditions,
+ Interface
+     conditions,
+ Turbulence
+     models,
+ Rotation
+     modelling,
+ Postprocessing
+     and presentation of results,
+ Quality
+     and trust evaluation.",Evaluation of work outs.,on-site,English,3,Bernhard Semlitsch,none,"Franz Grill Strasse 2-4, 1030 WienVienna",Electricity and energyMathematicsPhysics,,November 2022,TUW16,https://register.athensnetwork.eu/courses/course-show/2578,Austria
+2,Chimie ParisTech,Drug design strategies,Basic knowledge in organic chemistry and biology,"This week will give students an overview of the pharmaceutical industry, and of the new conepts used for the design of potential drugs.Except for one single lecture in french,  lectures will be in english. Of course, no question about the lecture in French will be asked at the terminal examLectures will be peformed by industrial partners (60%) and academic teachers (40%).","The program will be close,to the following 2021 programPresentation
+of Chimie ParisTechStrategies
+for Drug Discovery: New paradigms in Oncology & eADMET properties
+optimization. PerspectivesOligonucleotides as therapeutic drugsThe role
+of medicinal chemistry in drug discovery. recherche pharmaceutique.Regulatory IssuesBiotechnology
+input in human medicine.Antibody
+Drug Conjugates (ADCs) : The best of two worlds ?RNA interference : siRNADéveloppement
+des procédés de formulation des médicaments.Importance
+of the knowledge of drug metabolism in the choice of molecules for developmentQuality control / Informal discussion with an industrial
+partner",written,on-site,english,4,Dr Pascal BIGEY,"Mostly industriel partners, and some academic professors","ENSCP, 11 rue Pierre et Marie Curie 75231 Paris cedex 05Paris",BiochemistryBiologyChemistry,,November 2022,CPT3,https://register.athensnetwork.eu/courses/course-show/2579,France
+3,Chimie ParisTech,Dermatologie et Cosmétologie,"Chimie, physique, biologie, analyse",Aborder les stratégies cosmétologiques et thérapeutiques basées sur les connaissances scientifiques et technologiques actuelles - Décrire différentes approches développées dans les laboratoires industriels pour obtenir des produits nouveaux innovants - Informer sur la complexité biologique de la peau et ses liens avec l'environnement,Introduction : dermatologie et cosmétologie : impact des nouvelles connaissances scientifiques et technologiquesDescription de la physiologie de la peauPathologies dues au rayonnement solairePhysiopathologiesTraitement,Écrit,on-site,French,4,Professeur Michel MINIER,à définir,"ENSCP, 11 rue Pierre et Marie Curie 75231 Paris cedex 05Paris",BiologyChemistryPhysics,,November 2022,CPT4,https://register.athensnetwork.eu/courses/course-show/2580,France
+4,Budapest University of Technology and Economics,Danube Bridges in Budapest,"General knowledge in Structural Mechanics, use of computer programs. The course is recommended for at least 3rd year BSc, and MSc, PhD students.You need to bring your own laptop.","The students of BME do not need an introduction to the shape, role or importance of steel bridges: the bridges of Budapest offer a unique opportunity for everyone. Constructing bridges requires a wide range of engineering knowledge from foundations and superstructure to the planning of bridge traffic. In this course the subject of steel and iron bridges is presented, summarizing the problems of design, detailing, construction, maintenance and refurbishment. This requires a detailed treatment of aspects of both traditional and modern bridges, as modern bridges are to be built and traditional bridges are to be repaired or reconstructed.","Seven 2-hour lectures:History
+of Budapest Danube bridgesDesign, construction, maintenance and refurbishment of the bridges of BudapestTypes of bridgesBridge aestheticsLoad testing of bridgesTiszavirág
+bridge – pedestrian imposed vibrationPentele
+Danube bridge in DunaújvárosThree 2-hour exercisesUsing a program from the Internet to design a bridge for given conditionsOne-day visit to Budapest bridges (8 hours)",- Answering test questions- Evaluation of the bridge made by computer program,on-site,English,3,Prof. László DUNAI,"Prof. György FARKAS (BME), Prof. Adrián HORVÁTH (Főmterv/BME), Assoc. Prof. Nauzika Kovács (BME), Assoc. Prof. Balázs Kövesdi (BME), Assoc. Prof. László Gergely Vigh (BME), Asst. Prof. Péter Hegyi (BME)","1111 Budapest, Muegyetem rakpart 3.Budapest",Building and civil engineering,,November 2022,BME4,https://register.athensnetwork.eu/courses/course-show/2581,Hungary
+5,Budapest University of Technology and Economics,Efficient Energy Supply of Buildings,No prerequisites needed,"The objective of the course is
+to introduce students into energy efficient building design, focusing on
+innovative heat production using renewable energy sources and waste heat utilization.
+Energy management in town-scale energy communities will be explained on the
+example of modern district heating. Building service engineering systems, fit
+for nearly zero energy buildings will be explained as well as intelligent
+building automation systems in order to create smart buildings.","Solar thermal systemsSolar air heatingPhotovoltaicsMeteorologyEnergy output of solar thermal
+systemsSmart buildingsHeat pump technologyDistrict heatingThermal Energy CommunitiesBiomass firingCondensing boilersElectric heatingPumping strategies.",Multiple choice test,on-site,English,1,Dr. Balázs Bokor,"Dr. Balázs Bokor, Dr. Miklós Horváth, Dr. Balázs András-Tövissi, Norbert Érces, László Gergely","1111 Budapest, Muegyetem rakpart 3.",Electricity and energyEnvironmental protection technology,,November 2022,BME12,https://register.athensnetwork.eu/courses/course-show/2583,Hungary
+6,Instituto Superior Tecnico Lisboa,Plasma Science and Technology,"Physics, mathematics or engineering degree students; the students should have collected at least 36 ECTS on maths and physics courses.","This
+introductory course to Plasma Physics and Technology deals with the basic
+properties of weakly and fully ionized plasmas, and with the basic concepts and
+mathematical tools needed to understand such media. The notions acquired
+provide the necessary background for further studies in the fields of gaseous
+electronics, fusion plasmas, space plasmas, lasers/laser-plasma interactions and
+plasmonics.The course includes theoretical lectures,
+problem solving classes, as well as laboratory and numerical simulation
+workshops.","- Plasma definition and
+  its occurrence in Nature- Collective
+  effects: Debye shielding and plasma frequency- Motion of charged
+  particles in E and B fields- Introduction to
+  kinetic theory: Vlasov and Boltzmann equations- Introduction to
+  magnetohydrodynamics fluid approach- Electromagnetic waves
+  in plasmas- Laser plasma
+  interactions- Applications of
+  plasmas",2 hours written exam and homework assignments.,on-site,English,3,Artur Malaquias,"Vasco Guerra, Nuno Pinhão, Humberto Figueiredo, Marta Fajardo, Gonçalo Figueira, Oscar Amaro, Pedro Viegas, Rui Coelho, Bruno Gonçalves, Tiago Silva, Marija Vranic, Bertrand Martinez, Carlos Silva, Bernardo Brotas, Horácio Fernandes, Pedro Rossa, José Figueiredo, and Jorge Vieira.","Av. Rovisco Pais, 1049-001 Lisboa, PortugalLisbon",Physics,,November 2022,IST10,https://register.athensnetwork.eu/courses/course-show/2584,Portugal
+7,Instituto Superior Tecnico Lisboa,Modern Neighbourhoods: Reinventing spaces and places in the city of Lisbon,"Students from different fields of studies are welcome expecting their interest and engagement to the discussion between architecture, built environment and cities. Digital communication skills (graphic design and presentations), teamwork orientation and active participation is expected. The students are required to bring a laptop and a digital camera/smartphone for the course.","The course aims at discussing the renovation of modern urban neighbourhoods focusing on the relationship between built environment and public space, their potential to respond to current social, economic and sustainable challenges while preserving their modern values and cultural identity and significance. The course is committed to develop? a broad basis of critically debate on the principles and strategies that should support the redesign of modern urban areas, their qualities and vulnerabilities, spatial-social values and technical-aesthetical aspects. To achieve that discussion the course will promote the understanding of concepts such as “modern values”, “cultural identity” and “significance” as well as the current urban challenges. 
+The involvement of students from different fields of studies (architecture, urban planning, engineering, science, sociology, history, economics, arts, etc.) intends to stimulate an interdisciplinary approach on discussion about modern urban environments. The methodology is based on the analysis and interpretation of cases studies from the city of Lisbon.","A one-week studio based programme focused on theoretical modules, site visits, city walks, study of international case studies, and critical thinking of Lisbon’s case studies. The studio work methodology will be based on field work in the city of Lisbon, discussion based on presentations, films/documentaries and text readings.
+Students from different fields and backgrounds will be arranged in multidisciplinary groups to discuss urban regeneration experiences and processes and propose potential scenarios to change the nature of deprived areas and improve their competitiveness.
+The course follows a learning-centred problem solving and experimentation approach rather than purely teacher-centered learning mode. It explicitly calls for students’ engagement, participation and interaction.",Evaluation will be focused on the participation and outcomes produced by students during the course. The parameters of evaluation during the course will be divided in: 1) case study analysis; 2) critical analysis and synthesis; 3) final proposal; 4) class participation; 5) communication. Proactivity is valued.,on-site,English,3,Francisco Teixeira Bastos,"Alexandra Alegre, Daniela Arnaut","Av. Rovisco Pais, 1049-001 Lisboa, PortugalLisbon",Architecture and town planning,,November 2022,IST17,https://register.athensnetwork.eu/courses/course-show/2587,Portugal
+8,Instituto Superior Tecnico Lisboa,Advanced course on Microbial MultiOmics,"Knowledge
+on Biochemistry, Molecular Biology, Genetics and Genomics","A deluge of information originating from the use
+of high-throughput sequencing methods and other genomic scale technologies has
+been deposited in specialized databases over the last years. Mining of
+biological information from databases is critical to understand living
+organisms, to predict their behavior, and to exploit them. The course aims to
+introduce students on the use of bioinformatics tools to study the biology of
+microorganisms at a genome-wide scale, in an integrative perspective, and
+focused on the use of various Omics approaches including Genomics,Metagenomics, RNomics and Proteomics","Genomes structure
+and organization. Genome sequencing methods and strategies. Genome annotation.Metagenomics.Genome-wide
+expression analysis: transcriptomics, proteomics. RNomics.Functional
+genomics toolsPractical classes
+will focus on the use of bioinformatics tools for Genome annotation and
+comparative genomics; Metagenomics; Non-coding RNA secondary structure and
+target prediction; Transcriptomics; Quantitative analysis of 2-dimensional
+protein gels; Interpretation of the biological meaning of genome-wide data.","Practical
+class reports and final examination quiz",on-site,English,3,Jorge Humberto Gomes Leitão,"Miguel Nobre Parreira Cacho Teixeira, Nuno Gonçalo Pereira Mira, Tina Keller","Av. Rovisco Pais, 1049-001 Lisboa, PortugalLisbon",BiochemistryBiologyEnvironmental sciencesSoftware and applications development and analysis,,November 2022,IST16,https://register.athensnetwork.eu/courses/course-show/2588,Portugal
+9,Warsaw University of Technology,"Energy Sources, Conversion and Storage",Basic thermodynamics,"After the course the student should be able to evaluate energy resources, construct energy scenarios, make evaluation of implementation possibilities for new energy technologies, evaluation of environmental threats related to energy conversion processes, feasibility of individual technologies for certain geographical areas (esp. EU). Higher emphasis will be put on alternative energy sources; presenting new and prospective energy conversion and storage technologies.","Basic terms related to energy conversion processes. World’s energy resources (organic fossil fuels, nuclear fuels, renewable sources): documented and possible. Selected scenarios for world’s energy development. Threats related to energy conversion processes. Energy conversion efficiency for selected processes and devices. Issues of energy accumulation in various forms. Possibility of energy storage. Environmental footprint of energy conversion processes: local and global. Fossil fuels technologies. Renewable sources: sun as an energy source, conversion of solar radiation energy (heat and electricity). Biomass and biofuels. Wind power, energy of waters and oceans. Geothermy – geothermal systems, prospective hot dry rock technologies. Nuclear reactions, nuclear fission, fusion, nuclear threats. Heat pumps, examples of application. Hydrogen as an energy carrier, hydrogen production and storage. Fuel cells in power industry and transportation. Prospective power generation technologies. Rationalization of energy consumption, increase of energy conversion efficiencies.",Multi choice test (about 30 questions),on-site,English,2,"Prof. Tomasz Wiśniewski, Ph.D., D.Sc.","Prof. Tomasz Wiśniewski, Prof. Roman Domański, Prof. Piotr Łapka, M.Sc. Łukasz Cieślikiewicz, M.Sc. Michał Wasik, M.Sc. Adam Rajewski","Warsaw University of Technology, Faculty of Power and Aeronautical Engineering, Institute of Heat Engineering, ul. Nowowiejska 21/25Warsaw",Electricity and energy,,November 2022,WUT11,https://register.athensnetwork.eu/courses/course-show/2589,Poland
+10,Delft University of Technology,Finite Element Modeling of Vibrating Elastic Structures,"Bachelor courses in calculus, linear
+algebra, differential equations and computer programming;For this course a basic knowledge of English is indispensable.","The objective of this course is to
+introduce students to the mathematical modelling and numerical simulation of
+vibrations of structures. The finite element method will be introduced on a set
+of problems of increasing complexity.","Day 1: mass-spring-damper system, sets
+of interconnected points massesDay 2: rigid body mechanism;Day 3: linear elastic medium;Day 4: finite element modeling;Day 5: company visit and student
+presentations;","Course assessment is
+based on active participation in the course",on-site,English,3,Dr. Domenico Lahaye,Dr. D. Lahaye,Numerical Analysis Group - Delft Institute of Applied Mathematics (DIAM) - TU DelftDelft,Software and applications development and analysis,,November 2022,TUD01,https://register.athensnetwork.eu/courses/course-show/2590,Netherlands
+11,KU Leuven,"Sports, Building and City Aerodynamics","NoneBringing your laptop is not requiredThis course is not
+open for KU Leuven students !","·Recapitulate basic
+aspects of fluid flow·Understand how wind
+tunnel testing is performed, and what are the most important quality issues·Describe what
+Computational Fluid Dynamics (CFD) simulations are about.·Understand how CFD
+simulations are performed, and what are the most important quality issues.·Explain the importance
+of aerodynamics in the 100 m sprint·Analyze and calculate
+the effects of wind and altitude on 100 m sprint records·Understand the
+potential impact of the stadium design on 100 m sprint records·Explain the importance
+of aerodynamics in cycling·Analyze the effects of
+wind and altitude on world hour cycling records·Understand the
+aerodynamic effects between drafting cyclists·Understand the
+aerodynamic effect of a following car or motorcycle on cyclist drag·Explain how wind flows
+around buildings and in cities and what problems this entails·Explain whether the
+venturi-effect is present between buildings, and why or why not.·Demonstrate how
+misconceptions about fluid flow can affect the performance of wind energy systems
+integrated in buildings·Describe potential
+climate adaptation measures for buildings and cities·Discriminate between
+effective and non-effective adaptation measures·Understand how air
+pollution is dispersed around buildings and in cities·Explain the detrimental
+effects of particulate matter air pollution on human health·Understand remedial
+measures for particulate matter air pollution·Understand how SARS-CoV-2
+spreads by aerosol transfer·Explain how
+ventilation and aircleaning can be engaged to reduce infection risk","MondayBasic
+aspects of fluid flowTuesdayWind
+tunnel testing100 m sprint aerodynamicsWednesdayComputational Fluid DynamicsCycling aerodynamicsThursdayBuilding & city
+aerodynamicsClimate adaptationAir
+pollutionCOVID19, ventilation and aircleaningFridayFree morning to study+  exam in afternoon",Multiple-choice exam covering all topics,on-site,English,3,Prof. dr. ir. Bert Blocken,Prof. dr. ir. Bert Blocken,"Department of Civil Engineering, Kasteelpark Arenberg 403001 Leuven",Building and civil engineeringElectricity and energyEnvironmental protection technologyEnvironmental sciences,,November 2022,KUL27,https://register.athensnetwork.eu/courses/course-show/2591,Belgium
+12,KU Leuven,Small Scale Modeling Techniques for Materials,"Background in materials science, solid state
+physiscs or chemistry.Some experience with programming
+(matlab, C, C++, Fortran, python, or another programming language) and/or using
+simulation software.Bringing your laptop is required.This course is
+not open for KU Leuven students !","More and more, modeling and simulation techniques are used to predict
+materials properties and behaviour and reduce the number of expensive and time
+consuming experiments in the development of new materials.In
+this course, the students get an introduction in two commonly used modelling
+and simulation techniques for phenomena on the nano- and microscale in
+materials science.After a brief introduction into
+fundamental aspects of representing real systems in models, a couple of widely
+used modelling and simulation techniques are discussed.Molecular Dynamics is introduced not only as a powerful
+tool to investigate properties at the nanoscale but also as a mean to
+parameterize coarse-grained approaches allowing larger systems sizes to be
+tackled. Some examples of coarse-grained techniques will also be discussed. Phase
+Field Modelling is discussed as examples of kinetic modelling that can be
+applied to microstructure phenomena such as crystallization,
+re-crystallization, grain growth and solid-solid phase transitions. We will
+also introduce the CALPHAD technique to obtain thermodynamic and diffusion
+properties of multi-component phases and discuss how it is introduced in
+microstructure simulations.As a common
+topic, the different modeling techniques will be applied to study different
+aspects of wetting phenomena.",Lectures in the morning ; computer lab in the afternoon.Please bring your laptop !,"Presentation of the group
+work performed in the computer labs",on-site,English,4,Prof. Nele Moelans,Prof. David Seveno,"Department of Materials Engineering, Kasteelpark Arenberg 443001 Leuven","Materials (glass, paper, plastic and wood)",,November 2022,KUL24,https://register.athensnetwork.eu/courses/course-show/2592,Belgium
+13,Czech Technical University in Prague,Metrology of Electrical Quantities,Basic course of applied physics and electric circuit theory.,"To present an overview of modern and
+perspective methods for precision measurements of electrical quantities, to
+demonstrate various techniques used in calibrations of electrical measurement
+instruments and standards.After a brief introduction devoted to fundamental problems of metrology,
+the explanation is focused on facilities and methods for precision
+measurements of electrical quantities.Possibilities of application of
+Josephson arrays and quantum Hall effect devices to precision measurements of
+current, voltage, resistance and capacitance are discussed.","Four 4-hour lectures:1. ""Convention du Metre"""". Measurement units and measurement
+standards. Quantum standards of voltage and resistance. Thompson-Lampard's
+capacitance standard. Transfer standards.2. Voltage and current inductive ratio devices and optimization of their
+metrological parameters.3.
+Methods for precision measurement of dc current and dc voltage. Josephson
+potentiometers. Measurements of voltage, power and energy in the audiofrequency
+range.4. Measurement of resistence, capacitance and inductance (bridges and
+three-voltage method). Metrological applications of the quantum Hall
+effect (QHE).Three 2-hour laboratory demonstrations:1. Thompson-Lampard's capacitance standard.2. Frequency performance of resistance standards.3. Calibration of capacitance boxes.4-hour visit to the Czech Metrology Institute:Calibration of digital multimeters, QHE-based calibrations of resistance
+standards.",Continuous evaluation through laboratory exercises and an evaluation test at the end of the course.,on-site,English,4,Radek Sedlacek,"Radek Sedlacek, Martin Simunek, Jan Kucera, Jakub Svatos","Czech Technical University, Faculty of Electrical Engineering, Technicka 2, CZ-166 27 Prague 6, Czech RepublicPrague",Electricity and energy,,November 2022,CTU01,https://register.athensnetwork.eu/courses/course-show/2593,Czechia
+14,Czech Technical University in Prague,Digital Signal and Image Processing with Applications,"Basic knowledge of numerical mathematics.It is supposed that course participants will be able to use the MATLAB
+environment to solve selected problems of the interdisciplinary area of signal
+and image processing, to use its visualization tools, and to study selected
+applications of digital signal processing methods.","The main goal of the course is to:1. present selected mathematical and algorithmic structures in MATLABenvironment used for signal analysis and processing2. study fundamentals of discrete Fourier transform and its properties in
+connection with signal and image analysis and discretization3. analyse principles if digital filtering in the time (FIR, IIR) andfrequency domains for signal de-noising and image enhancement4. discuss selected mathematical methods of signal analysis and topresent fundamentals of wavelet transform in signal decomposition,modification and reconstruction with applications5. summarize basic principles of signal modelling, pattern recognition and
+computational intelligence using both linear and nonlinear methods including
+neural networks6. present selected applications of signal processing in environmentalengineering, biomedical signal and image processsing, and energyconsumption data prediction","Five 3-hour lectures:1. Signal and system modelling, algorithmization in the MATLAB environment,
+visualization, programming tools2. Principles of the discrete Fourier transform, properties, applications3. Digital filtering using difference equations and frequency domain analysis4. Approximation of functions, discrete wavelet transform, basicdefinitions, signal decomposition, de-noising, reconstruction5. Computational intelligence, neural networkds, pattern recognitionThree 1 hour case studies:1. DSP in environmental engineering (air pollution data modelling)2. DSP in prediction (modelling
+of energy consumption data)3. DSP in biomedical signal and image processingFour 2-hour seminar work:1. Programming in MATLAB, structured data, computer graphics2. Application of DSP and optimization in pattern recognition3. Application of DSP in sleep, breathing and motion analysis4. Colloquium with presentation of selected case studiesExcursions:Czech Institute of Informatics, Robotics and Cybernetics, Digital Signal
+Processing Laboratory, Technical Museum","Continuous evaluation through laboratory exercises and an evaluation
+during the final colloquium.",on-site,English,3,Ales PROCHAZKA,,"University of Chemistry and Technology, Faculty of Chemical Engineering, Technicka 5, CZ-166 28 Prague 6, Czech RepublicPrague",Software and applications development and analysis,,November 2022,CTU15,https://register.athensnetwork.eu/courses/course-show/2594,Czechia
+15,Czech Technical University in Prague,Environmental Technology,Basic knowledge of chemistry and environmental sciences.,"The main
+goals of the course are to:1. summarize basic principles of environmental technology in water and
+wastewater treatment, water and soilcontamination removal and solid waste treatment2. study of
+fundamentals of biochemical transformations of pollutants3. discuss economical, energetical and social acpects of environmental
+protection4.
+analyse the main problems of environmental protection in Czech Republic and EU5. present selected technological methods used in environmental
+protection","Five 3-hour lectures:1. Life Cycle Assessment – Environmental Assessment of Products2. Drinking Water
+Quality in Europe and Czech Republic3. Biological
+Wastewater Treatment as a Part of Environmental Protection in the Czech
+Republic4. Energy Production
+from Wastewaters and Biowastes by Anaerobic Digestion5. Soil and
+Groundwater Contamination in the Czech Republic (History, Most Polluted Sites,
+Development of Technological Tools)Three 3-hour case
+studies:1.Biological Wastewater
+Treatment under Aerobic Conditions, Biodegradability2.Biological Wastewater Treatment under
+Anaerobic Conditions3.Solid Waste TreatmentOne 2-hour excursion:Old Waste Water Treatment Plant","Continuous
+evaluation through laboratory exercises and an evaluation test at the end
+of the course.",on-site,English,3,Pavla Šmejkalová,"Lenka Mcgachy, Václav Janda, Pavel Jeníček, Vladimír Kočí, Jiří Wanner","University of Chemistry and Technology, Faculty of Environmental Technology, Technicka 5, 166 28 Prague, Czech RepublicPrague",BiochemistryEnvironmental protection technologyEnvironmental sciences,,November 2022,CTU16,https://register.athensnetwork.eu/courses/course-show/2595,Czechia
+16,Czech Technical University in Prague,Game Theory,Basic undergraduate calculus and algebra.,"Game is a mathematical model of any decision situation, the result of which depends on the decision of at least two different individuals. Since such situations can be found in almost all fields related to our lives, the domain of applications of game theory is exceptionally broad and rich. It covers economics, industry, political and social sciences, transportation, warfare, biology, ethics and many other branches. Game theory not only represents  an outstanding opportunity to persuade a wide audience of the importance, usefulness and even attractiveness of mathematics, it also leads mathematicians and technicians to such fields as ethology, evolutionary biology, social sciences, etc., that would otherwise remain marginal for many of them. The aim of the course is to provide the survey of game theory and its fascinating applications.","The course covers:1. Classification and mathematical models of decision situations, history2. Utility theory, rational choice theory3. Explicit form games4. Normal form games5. Bimatrix games, methods for equilibrium strategies search6. Repeated games7. Antagonistic conflict, theory of matrix games8. Two-person cooperative games without transferable payoffs9. N-person cooperative games10. Power indices11. Decisions under risk and uncertainty12. Decisions in conflicts against p-intelligent players",Written,on-site,English,3,Magdalena Hyksova,,"Czech Technical University, Faculty of Transportation Sciences, Na Florenci 25, 110 00 Prague 1, Czech RepublicPrague",Mathematics,,November 2022,CTU08,https://register.athensnetwork.eu/courses/course-show/2596,Czechia
+17,Czech Technical University in Prague,PC Based DAQ in Fluid Dynamics and Thermodynamics,"General
+knowledge of fluid mechanics and thermodynamics. Basic knowledge of any
+programming language.","Research in Fluid Dynamics and Thermodynamics is
+highly supported by experimental measurements. This course provides an introduction
+to the fundamentals of the PC based DAQ of experimental measurements in Fluid
+Dynamics and Thermodynamics. Participants will learn how to plan, set up and
+run automatic measurements. The participants will use modern DAQ HW and SW, and
+will develop own codes to obtain, store and analyze measured data. In the
+practical part of this course, participants will be able to prepare small
+experimental measurements.","The theoretical part of the course includes a
+brief history of measurement, an introduction to physical properties, and an introduction
+to analog and digital measurement devices. The fundamentals of signal
+conditioning and processing is also discussed.The
+participants will be divided into groups of 3. The following practical part of
+the programme is to prepare and test different applied measurement tasks.1.Measurement and control of the waterflow
+in a pipeline2.Measurement of thermodynamic
+properties of moist air3.Measurement of air propeller characteristics
+in a wind tunnel4.Measurement of basic aerodynamic
+properties of a solid body in a steady airflow in a wind tunnel","The evaluation
+is based on the presentation of the completed applied task at the end of each
+day and a small quiz regarding the theoretical part of the programme.",on-site,English,3,"Ing. Michal Schmirler, Ph.D.",michal.schmirler@fs.cvut.cz,"Czech Technical University, Faculty of Mechanical Engineering, Technicka 4, CZ-166 07 Prague 6, Czech Republic, Prague 6Prague",Physics,,November 2022,CTU10,https://register.athensnetwork.eu/courses/course-show/2597,Czechia
+18,Czech Technical University in Prague,Introduction to the Management of Industrial Companies,None,"The objective of this
+course is to acquaint students with the basics of business management from different
+perspectives such as Project Management, Risk Management and Budgeting with a
+main overview of Lean Management.","The course will be composed of lectures and practical
+sessions.Lectures will include:·         Introduction
+to Risk Management·         Introduction
+to Project Management·         Introduction
+to Cost Control and Budgeting·         Introduction
+and intermediate lecture on Lean Management",Quiz,on-site,English,2,Patrik Budsky,"Patrik Budsky, Olga Dobrovolschi, Vaclav Michalec, Miroslav Zilka","Czech Technical University, Faculty of Mechanical Engineering, Department of Management and Economics, Karlovo náměstí 13, 121 35, Praha 2, Prague, Czech Republic.Prague",Management and administrationWork skills,,November 2022,CTU12,https://register.athensnetwork.eu/courses/course-show/2598,Czechia
+19,Czech Technical University in Prague,Company Crisis,"Basic knowledge ofFinancial Management, Accounting, Microeconomics, and
+Macroeconomics.","To deepen the knowledge of a
+business crisis - from identifying, evaluating possible solutions, executing
+the solution, to evaluating the outcome.","1.Introduction to company crisis2.Causes of company crisis3.Crisis identification4.Crisis solutions1)Pre-insolvency solutions (preventive restructuring
+and prior transformations)2)Insolvency solutions - reorganization, liquidation",Presentation of a group case study,on-site,English,3,Patrik Budsky,Patrik Budsky (Czech Technical University in Prague) and Lukas Valenta (Prague University of Economics and Business),"Czech Technical University, Faculty of Mechanical Engineering, Department of Management and Economics, Karlovo náměstí 13, 121 35, Praha 2, Prague, Czech Republic.Prague","Accounting and taxationFinance, banking and insuranceManagement and administration",,November 2022,CTU13,https://register.athensnetwork.eu/courses/course-show/2599,Czechia
+20,Czech Technical University in Prague,Geometrical Aspects of Spectral Theory,"Mastery of elementary notions of linear algebra in
+finite-dimensional spaces and calculus.","The goal of the course is to acquaint the students
+with spectral methods in the theory of linear differential operators coming
+both from modern physics and from classical physics, with special emphasis put
+on geometrically induced spectral properties. We give an overview of classical
+results and also recent developments in the field, and we always attempt to do this
+by providing a physical interpretation of the mathematical theorems.","Spectral theory is an extremely rich
+field, which has found applications in many areas of physics and mathematics.
+One reason why it is so attractive on the formal level is that it provides a unifying
+framework for problems in various branches of mathematics, for example partial
+differential equations, calculus of variations, geometry, stochastic analysis,
+etc.1. Motivations. Differential
+  equations in physics. Unifying framework of spectral theory. Geometrical
+  aspects.2. Preliminaries. Glazman's
+  classification of Euclidean domains. Elements of functional analysis. The
+  point and continuous spectra. Self-adjointness. Quadratic forms. Sobolev
+  spaces.3. Quasi-conical domains. Location of
+  propagating modes. Dimensional features of the Euclidean space. The Hardy
+  inequality. Stability of matter. The crisis of classical physics and the rise
+  of quantum mechanics. Mathematical formulation of quantum theory. Virtual
+  bound states.4. Quasi-bounded domains. Discrete and
+essential spectra. Compactness. Vibrational systems. Spectral isoperimetric
+inequalities. The symmetric rearrangement and the Faber-Krahn inequality for
+the principal frequency. Optimality of a disk in physics.5. Quasi-cylindrical domains. Tubes.
+  Elements of differential geometry of curves and its moving frames. Quantum
+  waveguides. Geometrically induced bound states and Hardy-type inequalities.Applications to nanostructure devices and stochastic
+  processes.","Solving specific exercises related to the topic of
+the course based on the acquired knowledge.",on-site,English,2,David Krejčiřík,,"Czech Technical University, Faculty of Nuclear Sciences and Physical Engineering, Trojanova 13, 120 00 Praha 2, Czech RepublicPrague",MathematicsPhysics,,November 2022,CTU22,https://register.athensnetwork.eu/courses/course-show/2600,Czechia
+21,Czech Technical University in Prague,3D Measuring Methods in Transportation,Basic usage of AutoCAD and Excel software,"The aim of the course is to present the application of
+modern measuring methods for the transportation and road engineering purposes.
+Theoretical lectures are accompanied by practical field measurements and
+processing of the acquired data. The general aim is to show the strengths and
+limitations of various methods for spatial measurements. Various measuring
+devices are presented together with data acquisition, processing and
+comparison. Furthermore, the focus is on practical experience to enable
+subsequent application and implementation of the geodetic measuring methods,
+terrestrial laser scanning or photogrammetry in various areas.","The course covers:Examples and practical implementation of
+     measuring methods in road engineering (planning, design, construction,
+     operation, and maintenance)Geodetic principles and tachymetric surveyingLaser scanningClose-range and aerial photogrammetryField measurements and acquisition of dataData processing, cleaning and validationComparison of obtained results (quality, range,
+     accuracy)",Reviewed laboratory report,on-site,English,0,Zdeněk Svatý,"Zdeněk Svatý, Michal Frydrýn","Czech Technical University, Faculty of Transportation Sciences, Horská 2040/3, 128 00 Prague, Czech RepublicPrague",Building and civil engineering,,November 2022,CTU25,https://register.athensnetwork.eu/courses/course-show/2601,Czechia
+22,Czech Technical University in Prague,Publicly owned private spaces (POPS) in Prague - BIP,"Interest in urban development including on site
+exploration – walking, cycling, public transport.General knowledge of working with digital data (maps)
+and visuals.Curiosity, good humour and teamwork orientation.Urban analysis as such is most useful for architects, urbanist, planners
+and geographers, nevertheless students of various (however remotely) related
+disciplines are welcome to explore its potential.","(1) Learning to identify basic patterns and elements
+of urban structure and interpret them in the context of urban development.(2) Exploring various urban analysis techniques and
+tools in a process combining practical and theoretical inputs.(3) Getting to know (and enjoying!) Prague form the
+urbanists´perspective.","The course includes:•	one-week on-site course in Prague (Nov 12-19) including all Athens activities•	12 hours of on-line program (Nov 21-Dec 9)The participation in both parts of the course is mandatory. Please check your availability for the online sessions before applying for this course (see below).After 1990, the
+nature of public spaces in post-socialist cities began to expand. With the new
+economic model of urban development, in addition to classic streets, squares
+and public green spaces in modernist housing estates, we also have gated
+communities, shopping centres and privately owned public spaces (POPS). Most
+often, POPS are part of new office and commercial projects.At the
+workshop, we will discuss the nature of public space and its development and
+analyze some examples of POPS in Prague. In groups, students will investigate
+POPS urban and architectural characteristics, the form of behavioural control,
+and see if and how POPS affects people and their activities in the place. At
+the end of the workshop, each group will present one selected POPS in Prague.With this
+knowledge, in the second phase of the workshop, students will identify and
+describe selected POPS in the city where they are studying. They will perform a
+similar analysis as they learned at the Prague workshop. For the next three
+weeks after the Prague workshop, there will be twice-a-week a two-hour
+consultation at which the students will present the following outcomes:1. identified
+POPS in their city2. explain its
+history and development3. describe its
+urban and architectural features in comparison with the public space in the
+vicinity4. describe the
+activities that take place in POPS and the forms of control present in POPS.At the end of
+the online part of the course, everyone submits a presentation of one selected
+POPS in one of the European cities. This way, we will learn about the various
+urban forms of POPS, forms of control and activities that take place there. We
+can also learn how European policies address the inclusion of the whole society
+in the urban space.Virtual
+meetings schedule – six two-hour sessions, always 5:00 – 7:00pm (UTC+2):Monday,
+November 21Friday,
+November 25Monday,
+November 28Friday,
+December 2Monday, December
+5Friday,
+December 9","At the end of
+the online part of the course, everyone submits a presentation of one selected
+POPS in one of the European cities.",on-site,English,3,"Ing. Arch. Jana Zdráhalová, Ph.D. ,","Ing. Arch. Jana Zdráhalová, Ph.D.","Czech Technical University, Faculty of Architecture, Department of Urbanism, Thákurova 9, 166 34, Praha 6, Czech RepublicPrague",Architecture and town planning,,November 2022,CTU24BIP,https://register.athensnetwork.eu/courses/course-show/2602,Czechia
+23,Czech Technical University in Prague,Design Sprint,None,"Give students the
+opportunity to experience real Design Sprint in realistic project situations.
+Show them several design methods that can be used as a part of Design Sprint or
+separately.","Each day
+consists of intro to methodology and practical workshop part with hands on
+experience working on the project of choice.Day 1. Discovery and
+     problem definitionDay 2. Proposal and
+     designDay 3. Decision makingDay 4. PrototypingDay 5. Testing","Team pitch of the final
+version of the project in front of an expert jury, delivery of project
+prototype/report the last day of the course.",on-site,English,,Ondřej Brém,David Pešek,"Czech Technical University, Faculty of Information Technology, Thákurova 9, CZ-166 27 Prague 6, Czech RepublicPrague",Management and administrationSoftware and applications development and analysis,,November 2022,CTU04,https://register.athensnetwork.eu/courses/course-show/2603,Czechia
+24,AgroParisTech,Biodépollution,aucun,"La biodépollution ou bioremédiation a pour objectif d'utiliser les organismes vivants (plantes, champignons, bactéries...) pour éliminer les polluants de divers milieux tels que les eaux, les sols ou l'air. Ce module se compose de différentes conférences, d'une visite et d'un travail de groupe.- Faire le point sur les connaissances 
+relatives aux différents critères conditionnant tout processus de 
+décontamination par voie biologique-
+ Présenter les différentes techniques avec une description de leur mise 
+en oeuvre, leurs performances, leur état de développement, leurs coûts, 
+les domaines d'application et leurs limites- Rencontrer des professionnels du domaine","- Potentiel des organismes vivants pour stabiliser ou éliminer les 
+substances polluantes dans l'environnement - Utilisation et valorisation-
+ Devenir des polluants dans les produits résiduaires organiques au cours
+ de traitements biologiques (compostage, méthanisation) et après 
+épandage sur les sols- Traitements biologiques des effluents urbains- Utilisation des plantes supérieures dans le traitement des effluents- Phytoremédiation- Bioremédiation des effluents gazeux",Travail personnel bibliographique et exposé,on-site,français,3,"Jean-Luc CACAS, Laure VIEUBLE GONOD",DAVILA-GAY Anne Marie,"22, place de l'Agronomie 91120 PalaiseauPalaiseau",Environmental sciences,,November 2022,AGROPT02,https://register.athensnetwork.eu/courses/course-show/2604,France
+25,AgroParisTech,Bioraffinerie : nouvelles stratégies d'utilisation du végétal,"Cet enseignement s’adresse à un public varié ayant des connaissances de 
+bases en chimie, biochimie ou procédés. Il permettra aux étudiants 
+engagés dans un parcours « Bioraffinerie Chimie verte » de compléter 
+leur formation par une approche de terrain, nécessaire pour mieux 
+appréhender les spécificités des nouvelles stratégies de transformations
+ industrielles du végétal.Les étudiants hors parcours, qu'ils soient
+ d'AgroParisTech ou d'une autre école du réseau ATHENS, pourront 
+découvrir à l'occasion de cette semaine une illustration du concept de 
+bioraffinerie et, de façon plus précise, la mise en oeuvre d'un large 
+éventail de procédés de transformation de la biomasse (hydrolyse 
+enzymatique, extraction par solvant, fermentation, ...).","- Montrer comment des stratégies de valorisation innovantes de la 
+biomasse végétale se mettent en place à partir des procédés 
+agro-industriels traditionnels- Evaluer l’impact de ses stratégies 
+sur les ressources humaines, l’environnement et l’organisation de 
+l’outil de production, la recherche (niveau régional, national et 
+européen)- Illustrer le concept de bioraffinerie et ses spécificités à travers l’étude d’un cas concret de terrain- Conduire un travail en équipe pour analyser le fonctionnement d’un écosystème industriel","Cours-conférences sur sites + 1 séance d’appui au travail personnel (TD) + visites de sites (4 à 5 demi-journées).UC prise en charge dans le cadre de la chaire ABI (frais de logement et de déplacement).conférences, visites de sites industriels, rélfexion en groupes","Participation à 
+l’enseignement + réalisation d’un dossier synthétique sur les 
+entreprises visitées et leurs interactions (chaque étudiant enquêtera 
+plus spécifiquement sur un thème transversal de son choix lors des 
+visites). Une séance de travaux dirigés est prévue à mi-parcours afin 
+d’aider les étudiants dans la préparation de ces dossiers.",on-site,français,3,Florian Pion et Claire SAULOU,Mme ATHES-DUTOUR Violaine,"22, place de l'Agronomie 91120 Palaiseau et déplacement à ReimsPalaiseau / Reims",Biochemistry,,November 2022,AGROPT03,https://register.athensnetwork.eu/courses/course-show/2605,France
+26,AgroParisTech,Changement climatique - enjeux d'une transition vers une société faible en carbone,,"L'objectif de ce module est tout d'abord i) de transmettre un contenu scientifique articulé autour des problématiques de l'économie du changement climatique qui couvre une diversité de domaines (systèmes énergétique, ville, eau, agriculture, usage des sols) ii) de mettre en évidence les enjeux socio-économiques du problème, iii) d'identifier les controverses scientifiques majeures et les besoins futurs de recherche pour comprendre les mécanismes à l'½uvre, iv) enfin de cerner les marges de man½uvre et les modalités éventuelles de l'intervention publique. Ce module vise également à donner aux étudiants une vision intégrée des problématiques et des mécanismes qui sont au coeur de la transition vers une société bas carbone en privilégiant une démarche prospective. Dans ce but, il s'accompagnera d'une initiation à la modélisation prospective dans le domaine énergie/climat qui a pris une place importante dans les processus de décisions publics et privés. Le module s'appuie à la fois sur des ressources provenant du milieu des scientifiques-experts et des intervenants des sphères politique et administrative.","1. Connaissances et incertitudes sur le climat Les fluctuations et 
+évolutions du climat terrestre : déterminants, échelles de temps, 
+techniques de mesure. Les bases pour comprendre le cycle du carbone. La 
+modélisation du Climat à l'échelle du siècle : quels objectifs ? quelles
+ possibilités ? quelles limites ? Les controverses autour du climat de 
+demain. 2. Enjeux et Dommages potentiels d'un changement climatique. 
+Introduction aux dommages : définitions, typologie, prospective, 
+incertitudes. Changement climatique et régime des eaux. Changement 
+climatique et productivité agricole, prospective des marchés agricoles. 
+Changement climatique et biodiversité. 3. Les politiques climatiques : 
+intervention publique et marges de manoeuvre Suivi des émissions, 
+fiabilité des mesures (monitoring), déterminants. Les institutions 
+encadrant les politiques de lutte contre le CC, le PNLCCC en France. 
+Décision séquentielle et Timing de l'action.. Coordination par les prix 
+ou par les quantités ? Survol de l'outillage économique. Politiques de 
+séquestration biologique du carbone. La réduction des émissions au 
+niveau de l'entreprise (un exemple dans le secteur des transports ou de 
+l'énergie). Histoire des négociations et challenges politiques futurs. 
+Coordination internationale et PED : des liens entre changements 
+climatique et développement. Changement climatique et équité : les 
+chausse-trappes éthiques de la coordination et du partage des efforts. 
+4- initiation à la modélisation prospective évaluation technico 
+économique des politiques climatiques et de la transition vers une 
+société bas carbone Panorama des enjeux de la modélisation technico 
+économique",La validation du module s’effectuera sous la forme du traitement d’une question transversale aux différentes interventions du module.,on-site,français,3,"M Christophe CASSEN, M. LECOCQ Franck, Mme Ameline VALLET",,"22, place de l'Agronomie 91120 PalaiseauPalaiseau",Environmental sciences,,November 2022,AGROPT04,https://register.athensnetwork.eu/courses/course-show/2606,France
+27,AgroParisTech,Gérer l'eau : problématiques régionales et planétaires,"Il n'y a pas de prérequis particuliers. Le module s'adresse aux 
+étudiants qui souhaitent avoir une vision large, combinant des sciences 
+géopolitiques à des sciences plus techniques, pour comprendre la 
+complexité de la gestion de l'eau.","Penser dès à présent une gestion prospective de l'eau : maîtriser la 
+ressource et sa qualité, programmer une utilisation durable, partager 
+entre les différentes activités économiques, gérer de façon plus propre 
+et économe les utilisations agricoles, réhabiliter l'environnement et 
+les espaces (sols, écosystèmes, zones écologiques, plans d'eau, etc.), 
+limiter les effets des évènements catastrophiques. L'enseignement 
+cherche à délivrer, à partir de quelques bases théoriques, les éléments 
+de connaissance utile pour analyser les situations actuelles, pour 
+prévoir, compte tenu des pressions anthropiques, le sens des évolutions 
+probables et finalement proposer des modes de gestion plus durables.","L'enseignement comprendra les principaux point suivants : - Les bases 
+relatives au cycle de l'eau et à l'évaluation des ressources 
+renouvelables, dans un contexte régional donné et dans une perspective 
+de changements globaux. - Les bases d'une réflexion régionale comprenant
+ la mobilisation de ressources internes propres à la zone ou ou 
+transportées d'une zone externe largement bénéficiaire, la gestion des 
+divers usages et leurs aspects socio-économiques : principalement la 
+gestion de l'irrigation à des fins de production alimentaire, les usages
+ domestiques, les besoins environnementaux en particulier dus aux divers
+ systèmes écologiques. - Une analyse diagnostique basée sur différents 
+cas nationaux (Beauce, Coteaux de Gascogne,…) et internationaux (Mer 
+d'Aral, Egypte…) - La modélisation d'un large bassin (fleuve) avec 
+diverses approches : (i) analyse et amélioration de la qualité, et (ii) 
+analyse, aménagement et gestion des risques. - Les aménagements de 
+l'espace pour maîtriser les ressources (qualité, quantité) et les 
+risques (érosion, inondation,…)",,on-site,français,3,M. PERSONNE Erwan,M. MARTIN Philippe,"22, place de l'Agronomie 91120 PalaiseauPalaiseau",Environmental sciences,,November 2022,AGROPT11,https://register.athensnetwork.eu/courses/course-show/2607,France
+28,AgroParisTech,Imagerie spatiale et surveillance géographique de l'environnement,,"Cet enseignement vise  à : 1/ présenter le contexte et les enjeux de
+ l'imagerie spatiale ; 2/ développer les concepts et les méthodes 
+d'analyse spatiale inhérents à la surveillance géographique de 
+l'environnement ; 3/ aborder les méthodes de traitement numérique et 
+d'interprétation des données d'imagerie spatiale.","- L'imagerie spatiale : historique, acquisitions, état de l'art. Acteurs
+ de l'imagerie spatiale aux échelons local, national et international. 
+Bases physiques et comportement spectral des objets. La couleur, la 
+vision, les émulsions. - Surveillance géographique de l'environnement : 
+l'imagerie spatiale dans les systèmes d'information à référence spatiale
+ et sa répétitivité temporelle. Concepts et méthodes d'analyse spatiale.
+ Mise en oeuvre des zonages. Validité des zonages, qualité des données 
+et prise de décision. Les exemples donnés seront variés, et en 
+particulier relatifs à la gestion des ressources naturelles et agricoles
+ : on peut citer, notamment, le suivi du réchauffement climatique sur 
+les régions de glaciers, la mise en évidence de l'assèchement de la mer 
+d'Aral depuis 1972, la surveillance des inondations, ou la cartographie 
+des risques d'incendies de forêts. - Géotraçabilité. Définitions, enjeux
+ et exemples. - Traitement numérique des images, classifications, 
+interprétations.",,on-site,français,3,Mme VAUDOUR-DUPUIS Emmanuelle,Mme CERNESSON Flavie,"22, place de l'Agronomie 91120 PalaiseauPalaiseau",Environmental protection technology,,November 2022,AGROPT12,https://register.athensnetwork.eu/courses/course-show/2608,France
+29,AgroParisTech,Les enjeux de l'embryon,Aucun pré-requis,"Grâce à l'intervention de chercheurs, médecins, juristes et philosophes,
+ on dressera sous plusieurs angles un état des lieux des biotechnologies
+ appliquées à l'embryon humain et animal: procréation médicalement 
+assistée, cryoconservation, génotypage, cellules souches embryonnaires, 
+voire clonage et transgenèse. On s'interrogera sur les multiples enjeux 
+de ces nouvelles biotechnologies.","L'UC apportera des connaissances biologiques tout autant qu'un regard 
+critique sur ces connaissances. Parmi les apports techniques : FIV, 
+ICSI, cryoconservation, diagnostic pré-implantatoire, génomique 
+fonctionnelle appliquée à l'embryon, cellules souches, transplantation. 
+Pour l'analyse critique : table ronde autour de philosophes, juristes et
+ acteurs de la recherche et de la réflexion bioéthique sur l'embryon.",,on-site,français,3,M. CALVEL Pierre;   M. HEAMS Thomas,Mme RICROCH Agnès,"22, place de l'Agronomie 91120 PalaiseauPalaiseau",Biology,,November 2022,AGROPT15,https://register.athensnetwork.eu/courses/course-show/2609,France
+30,AgroParisTech,Les marchés financiers,"Cette UC s'adresse principalement à des étudiants de formation 
+scientifique qui n'ont pas de connaissance préalable dans le domaine de 
+la finance. Quelques notions de base en économie sont bienvenues mais 
+pas strictement indispensables. Les mathématiques utilisées dans cet 
+enseignement sont élémentaires pour des élèves ingénieurs.","Cette UC permet de comprendre les principes de base de tous les marchés 
+financiers (marchés sous-jacents et marchés dérivés, organisés ou de 
+gré-à-gré).","1)Les principes généraux d'organisation des marchés financiers2)Les 
+marchés ""sous-jacents"": marchés d'actions, marchés obligataires, marchés
+ monétaires, marchés des changes3)Les marchés dérivés: marchés à terme,
+ marchés d'options, marchés des swaps",Examen sur table sous forme de questionnaire,on-site,français,3,M. PRIOLON Joë,"M. NAKHLA Michel
+  
+M. DOURSAT Christophe","22, place de l'Agronomie 91120 PalaiseauPalaiseau","Finance, banking and insurance",,November 2022,AGROPT16,https://register.athensnetwork.eu/courses/course-show/2610,France
+31,AgroParisTech,Neurones: des modèles à la conscience,Données de biologie sur le fonctionnement général du système nerveux; elles seront rappelées en début de module.,"Les cours sont destinés à familiariser les élèves avec les connaissances
+ récentes en neurobiologie des systèmes sensoriels et cognitifs et les 
+modèles théoriques développés pour décrire leur fonctionnement.","En prenant pour point de départ la connaissance du fonctionnement des 
+systèmes sensoriels comme l'olfaction, le goût et la vision, nous 
+étudierons comment l'information est intégrée dans les centres 
+supérieurs du système nerveux central, en mettant l'accent sur les 
+méthodes et les approches expérimentales. Ces données expérimentales 
+seront mises en perspective en explicitant quelques modèles théoriques 
+du fonctionnement du système nerveux central. Enfin, nous explorerons 
+les conséquences de ces connaissances sur les conceptions que nous avons
+ de la conscience en confrontant le point de vue du neurobiologiste avec
+ ceux de la médecine et de la philosophie.",,on-site,français,3,M. MARION-POLL Frédéric,,"22, place de l'Agronomie 91120 PalaiseauPalaiseau",Biology,,November 2022,AGROPT21,https://register.athensnetwork.eu/courses/course-show/2611,France
+32,AgroParisTech,Animals in Science: Today's Challenges,"Good level of English.  Lay-people, students uninitiated in animal science, who want to discover new fields via current issues.","The objectives of this course are: - to illustrate and discuss the 
+curent challenges for animals in science (biomedical research, 
+husbandry, production ...) notably nutritional and health aspects of 
+products, alternative methods in animal medicine, antibiotic resistance,
+ animal welfare, protection of biodiversity, use of new biotechnology 
+tools... - to provide basic information on the different aspects of 
+animal production - to acquire the basic vocabulary of animal husbandry","Topics and issues studied will reflect the main current challenges 
+facing animals in science (Research + Production) : - To optimize health
+ and productivity of animals while protecting and enhancing human health
+ - To produce animal proteins in an economically, environmentally and 
+socially acceptable manner that meets the demands of an increasing 
+population. - To develop strategies that allow to better respond to and 
+to better adapt animals to climate change - To develop intervention and 
+control strategies for foodborne contaminants along the entire animal 
+production chain and enhance detection of pathogens to ensure a safe 
+food supply. - To optimize animal well-being in a socially acceptable 
+and sustainable manner. A friendly meal will be organised between 
+students and teachers.","Students
+ will in small groups prepare a poster based on a scientific article or a
+ current topic, and present it at the end of the module. Six hours are 
+considered for the preparation, three of which are included in the time 
+table. TThe evaluation is based on :- Motivation and participation of the student during the moduleEnthusiasm and participation- The poster and it presentation",on-site,english,3,Mme SEMENOVSKAYA Ksenia;   M. ERHARD Hans,Mme BERTHELOT Valérie,"22, place de l'Agronomie 91120 PalaiseauPalaiseau",Crop and livestock production,,November 2022,AGROPT22,https://register.athensnetwork.eu/courses/course-show/2612,France
+33,AgroParisTech,Nutrition en Conditions Extrêmes,Connaissances de bases en biologie,"L'objectif de cette UC est de comparer chez l'homme et chez l'animal les
+ différents processus d'homéostasie permettant à l'organisme de 
+s'adapter à des situations particulières ou critiques, telles que les 
+situations d'effort, de synthèse intense ou de la sous alimentation et 
+du jeûne. Dans ces situations la disponibilité des substrats devient 
+limitante par rapport aux besoins et leur valorisation ainsi que leur 
+distribution doit être optimisée. Certaines stratégies nutritionnelles 
+sont alors susceptibles de favoriser cette optimisation.","Cours magistraux sur le métabolisme et la nutrition de l'Homme et des ruminants et les adaptations à des conditions difficiles
+Interventions extérieures sur l'alimentation en autonomie chez l'homme (raids, treck, vol spatial)
+Cas spécifiques du chien travailleur et des espèces migrantes ou hibernantes",Evaluation écrite individuelle: questions de cours avec documents,on-site,français,3,Mme BERTHELOT Valérie;   Mme GAUDICHON Claire,"Mme AZZOUT MARNICHE Dalila;  
+M. SCHMIDELY Philippe","22, place de l'Agronomie 91120 PalaiseauPalaiseau",Biology,,November 2022,AGROPT23,https://register.athensnetwork.eu/courses/course-show/2613,France
+34,AgroParisTech,Politique agricole en Europe et aux Etats-Unis. Evolution et perspectives.,,"Comprendre les justifications économiques et politiques des soutiens 
+publics à l'agriculture et la logique des réformes des politiques 
+agricoles entreprises en Europe et aux Etats-Unis.","- La PAC dans la construction européenne (historique). - Les principes 
+fondateurs de la PAC et l'organisation des marchés agricoles.- 
+L'évolution structurelle et productive de l'agriculture française et 
+européenne, place sur les marchés agro-alimentaires mondiaux.- Les 
+réformes de la PAC : quotas laitiers en 1984, réforme de 1992 (baisse 
+des prix et aides directes compensatoires) et de 2003 (découplage et 
+conditionnalité des aides) et leurs résultats.- Les enjeux actuels : 
+intégration des pays de l'Est et négociations à l'OMC.-Historique de la
+ politique agricole américaine outils et résultats- Les perspectives de
+ la PAC après 2013 et les enjeux pour l'agriculture française et 
+européenne.",,on-site,français,3,Mme TROUVE Aurélie;   Mme DEVIENNE Sophie,,"22, place de l'Agronomie 91120 PalaiseauPalaiseau",Political science and civics,,November 2022,AGROPT24,https://register.athensnetwork.eu/courses/course-show/2614,France
+35,AgroParisTech,Structuration des Matériaux Alimentaires et Technologie,,"- Initier à l'approche « matériau alimentaire » lorsque l'on fait 
+référence au produit alimentaire- Savoir définir un « matériau » 
+alimentaire en terme de structure- Comprendre le rôle des 
+caractéristiques de structure : apparence, texture, stabilité…- 
+Apprendre à identifier les relations entre paramètres de composition et 
+du procédé, d'une part, structure des produits, d'autre part.","Cours (2 h) présentant les différents types de structure des matériaux 
+alimentaires selon les familles de produits, les ingrédients et les 
+procédés utilisés. Cas concrets menés dans le cadre de l'horaire réservé
+ à l'enseignement :- Etude bibliographique (7 h) : chaque binôme traite
+ le cas de la structuration d'un produit type (par ex : sauce salade, 
+fromage frais, produit extrudé, pâte à pain…)- Travaux expérimentaux (9
+ h) : fabrication d'un produit au laboratoire (par ex : génoise, crème 
+dessert) et discussion sur la contribution de chaque ingrédient et des 
+différentes étapes du procédé de fabrication sur la Food structuration.",,on-site,français,3,Mme HUC Delphine,"Mme MICHON Camille
+ Mme MARSSET-BAGLIERI Agnès
+ M. CUVELIER Gérard","22, place de l'Agronomie 91120 PalaiseauPalaiseau",BiologyFood processing,,November 2022,AGROPT27,https://register.athensnetwork.eu/courses/course-show/2615,France
+36,AgroParisTech,Structuration des Matériaux Alimentaires et Technologie,,"- Initier à l'approche « matériau alimentaire » lorsque l'on fait 
+référence au produit alimentaire- Savoir définir un « matériau » 
+alimentaire en terme de structure- Comprendre le rôle des 
+caractéristiques de structure : apparence, texture, stabilité…- 
+Apprendre à identifier les relations entre paramètres de composition et 
+du procédé, d'une part, structure des produits, d'autre part.","Cours (2 h) présentant les différents types de structure des matériaux 
+alimentaires selon les familles de produits, les ingrédients et les 
+procédés utilisés. Cas concrets menés dans le cadre de l'horaire réservé
+ à l'enseignement :- Etude bibliographique (7 h) : chaque binôme traite
+ le cas de la structuration d'un produit type (par ex : sauce salade, 
+fromage frais, produit extrudé, pâte à pain…)- Travaux expérimentaux (9
+ h) : fabrication d'un produit au laboratoire (par ex : génoise, crème 
+dessert) et discussion sur la contribution de chaque ingrédient et des 
+différentes étapes du procédé de fabrication sur la Food structuration.",,on-site,français,3,Mme HUC Delphine,"Mme MICHON Camille
+ Mme MARSSET-BAGLIERI Agnès
+ M. CUVELIER Gérard","22, place de l'Agronomie 91120 PalaiseauPalaiseau",BiologyFood processing,,November 2022,AGROPT27,https://register.athensnetwork.eu/courses/course-show/2616,France
+37,AgroParisTech,Modélisation moléculaire,Ne pas avoir peur d'utiliser un ordinateur,"Sensibiliser au développement et à l'intérêt des méthodes de 
+modélisation moléculaire, en insistant sur la mécanique moléculaire.",Initiation à quelques méthodes de la modélisation moléculaire :- représentation des molécules- champs de force- dynamique molécullaire- docking,La plupart des notions sont abordées pendant un rapide exposé théorique puis immédiatement appliquées en salle informatique.L'évaluation tient compte de la participation et de la réalisation d'une simulation confiée à chaque étudiant.,on-site,français,3,M. EVELEIGH Luc,,"22, place de l'Agronomie 91120 PalaiseauPalaiseau",Chemistry,,November 2022,AGROPT30,https://register.athensnetwork.eu/courses/course-show/2617,France
+38,Institut d'Optique Graduate School,Ingénieur en Transition,"Une bonne culture scientifique est souhaitable
+mais pas indispensable.Le cours est enseigné en français.","Comprendre
+la crise environnementale actuelle et penser le rôle de l’ingénieur dans la
+transition écologique et énergétique à venir.","Comprendre·      
+Les bases physiques du changement climatique·      
+Cours sur l’anthropocène : climats passés de la Terre, évolution du
+rapport des sociétés humaines à leur environnement dans l’HistoireRéfléchir·       Les sciences cognitives et le
+climat : réussir à changer nos comportements·      
+Etude de cas :Les origines et motivations du climatoscepticisme·      
+Vérifier l'information : fact checking, méthode scientifique, croisement des
+sourcesAgir·      
+Évaluer et limiter son impact environnemental individuel (bilan carbone &
+feuille de route personnalisée)·      
+Sessions projet : réalisation d’un projet pratique ou bibliographique
+autour de solutions possibles face à la crise écologique.","Projet évalué par une soutenance à la fin de la
+semaine.",on-site,French,3,"Charles BOURASSIN-BOUCHET, IOGS",,"Institut d'Optique Graduate School, 2 avenue Augustin Fresnel, 91120 Palaiseau, France, Palaiseau (Campus Paris-Saclay)Palaiseau (South of Paris)",Environmental protection technologyEnvironmental sciences,,November 2022,IOGS1,https://register.athensnetwork.eu/courses/course-show/2618,France
+39,Delft University of Technology,Computer aided analysis and optimization of sustainable electrical power systems,"Solid background in calculus, linear algebra,
+elementary physics, and electric circuits.","At the end of the course the students will be able to:·Describe the working
+principles of the main components of interconnected sustainable electrical power
+systems.·Perform power flow
+analysis of interconnected power systems with respect to their behavior in
+steady-state conditions.·Develop and apply
+probabilistic power flow algorithms for evaluating high number of
+uncertainties.·Formulate and solve
+optimal power flow for operational problems.","Lecture 1: Complex power and per-unit calculationLecture 2: Modelling of transmission, generation, and
+consumptionLecture 3: Balancing and power system controlLecture 4: Deterministic and probabilistic power flowLecture 5: Optimal power flow","Written exam (2 hours) with open questions and
+numerical problems.",on-site,English,4,dr.ir J.L. Rueda Torres,,"Faculty of Electrical Engineering, Mathematics and Computer ScienceDelft",Software and applications development and analysis,,November 2022,TUD14,https://register.athensnetwork.eu/courses/course-show/2619,Netherlands
+40,AgroParisTech,Initiation à l'entrepreunariat dans le vivant,,"Cet enseignement vise à donner aux étudiants les démarches de base pour démarrer un projet entrepreneurial. Elle repose sur la présentation d'outils, concepts et méthodes et leur mise en oeuvre pour la structuration d'un projet fictif ou réel en petits groupes",Etudes de cas entrepreneuriauxSéance de créativité pour faire émerger des idées de projetsSimulations entrepreneuriales en équipes à l'aide de l'outil et de la démarche VianeoPréparation au pitch entreprneurialDes témoignages de porteures de projets et échantes avec eux,Ponctualité et présence aux séancesparticipation - implication pendant le séancesQualité du pitch final,on-site,Français,3,Mme LECOMTE Catherine,,22 place de l'agronomie 91120 PalaiseauPalaiseau,Management and administration,,November 2022,AGROPT31,https://register.athensnetwork.eu/courses/course-show/2620,France
+41,University Politehnica of Bucharest,Energy scenario and Climate Protection,Basic knowledge in energy fields,"In this
+course different primary energy sources will be analyzed for replacing the
+fossil fuels. The main objective of the course consists to analyze different
+energy scenario from economic, technical, technological, and environmental
+point of view. Thus, economic, environmental and technical criteria will be
+proposed for creating a multi-criteria model used to choose the optimal energy
+scenario.","1.Commercial and Non-Commercial Energy,2.Primary Energy Resources,3.Commercial Energy Production,4.Final Energy Consumption,5.Energy Needs of Growing Economy6.Renewable energy sources7.Long Term Energy Scenario,8.Energy Pricing,9.Energy Sector Reforms,10.Energy and Environment11.Air Pollution,12.Climate Change,13.Energy Security,14.Energy Conservation and its Importance,15.Energy Strategy for the Future","Multiple
+choice test",hybrid,English,4,Cristian DINCA,,"On-site (UPB- Bucharest, Romania)Bucharest",Electricity and energy,Yes,November 2022,UPB2,https://register.athensnetwork.eu/courses/course-show/2621,Romania
+42,University Politehnica of Bucharest,Regenerative energy systems,"Basic
+knowledge in chemistry and thermodynamics","Fuel to energy
+conversion processes. Thermodynamic cycles. Types of power plants and
+operation. Variables that influence fuel to energy conversion chain.
+Environmental impact issues.","renewable energy
+general aspectsbiomass and waste fuels propertiesthermochemical
+processesbio-chemical and
+physical-chemical processesthermodynamic
+cyclesthermal power
+plantssolar and wind
+power plantsenvironmental
+impact","Joint
+Project to be prepared",on-site,English or French,4,Cosmin Marculescu,,"On-site (UPB- Bucharest, Romania)Bucharest","Architecture and town planningBuilding and civil engineeringChemical engineering and processesElectricity and energyElectronics and automationEnvironmental protection technologyFood processingMaterials (glass, paper, plastic and wood)Mechanics and metal tradesMining and extractionMotor vehicles, ships and aircraft",,November 2022,UPB4,https://register.athensnetwork.eu/courses/course-show/2623,Romania
+43,University Politehnica of Bucharest,Water quality monitoring and control in distribution networks,"Fluid mechanics, Numerical methods, Transport Phenomena","The course covers topics from the traditional theory ofWater
+Distribution Networks (WDN) (e.g. fluid flow in pressurized pipes, design of
+WDS, water quality assessment and management) to the up-to-date smart water
+network, leakage detection and energy recovery.The course makes extensive use of simulation software EPANET, a free
+software available at the US Environmental Protection Agency (https://www.epa.gov/water-research/epanet), used
+worldwide for hydraulic analysis and water quality analysis in water supply
+systems.During the computer simulation practice hours, and under the constant
+supervision and guidance from professors, the students will develop an EPANET
+model for a given WDN test-case, to analyze it (hydraulically) and finally to
+perform a water quality analysis, including the necessary modification of
+operation program in order to attain a better quality to consumers, minimizing
+the risk of consumers exposure to disinfection by-products, assessing the
+system vulnerability to external contamination.Students will also have to pass a final three-hour test, designing and
+performing analysis in EPANET for a given WDN; computer aided (documentation is
+allowed).","The five-day course consists of:Lectures: 2h per day with interactive discussion and
+questionsComputer simulation practice, 4h per day, with EPANET1.Introduction
+to Water qualityin Water Distribution Networks (WDN)-Water resources& temporal and spatial distribution-Water sources and demand-Water quality standards, water pollution &treatment
+(unit operation and unit processes), drinking water contaminants and their
+removal-Fundamentals of Hydraulic Analysis-Hydraulic design of pipe networks2.Analysis
+of drinking Water Distribution Networks (WDN) using EPANET-Water supply systems-Smart water networks (WDN requirements for a smart
+city)-Modelling water quality in WDS: water age, chlorine
+decay, contamination injection and spread, water trace-Monitoring water quality in WDN-Urban drinking WDN test-case: WDN design; hydraulic
+analysis in EPANET; water quality analysis (water age, chlorination, water/contaminant
+trace) in EPANET;energy recovery in WDN","3 hours, computer-assisted (documentation allowed)",on-site,English,3,Assoc. Prof. Liana Ioana Vuta,"Assoc. Prof. Liana Ioana Vuta, Assoc. Prof. Gabriela Elena Dumitran, Prof.Lacramioara Diana Robescu,  Assoc. Prof. Bogdan Popa","UPB, Splaiul Independentei, 313Bucharest",BiochemistryBiologyChemistryEarth SciencesEnvironmental sciencesMathematicsNatural environments and wildlifePhysicsStatistics,,November 2022,UPB012,https://register.athensnetwork.eu/courses/course-show/2624,Romania
+44,University Politehnica of Bucharest,Virtual Reality - technology support for industry,Basic knowledge in Computers Programming (High Fidelity or Maya) and CAD 3D.,"All over the world, VR/AR technologies are used today for training
+applications in a variety of process industries, and enables personnel
+subjection to simulated hazardous situation in a safe, highly visual and
+interactive way. Customized simulations of plants layouts, dynamic processes
+and comprehensive virtual environments can be set up, thing that enables users
+to move within the virtual plants or systems, making operational decisions and
+investigating processes at a glance.The course aim is to couple activity of lab AVRENG (Augmented &
+Virtual Reality for ENGineering), from University POLITEHNICA of Bucharest,
+with the virtual reality and virtual environments applications for future
+industrial workspaces. The practical activity within the course aims to gather
+expertise from partner members and determine the future research agenda for the
+development and use of VR/AR technologies.","-  Object
+Oriented Programming-  Image
+Processing-  Electronics
+and Rapid Prototyping-  Computer
+Aided Design (3D)-  3D
+Digitalization-  Augmented
+Reality-  Virtual
+Immersion- Design and Innovation","A
+project developed on one of the studied topics.",on-site,English,3,Mihai GHINEA,George Deac (IMPROMEDIA srl Bucharest),"Building CB, Room CB110 (lab. AVRENG), Splaiul Independentei, st. 313, sector 6, 060042Bucharest",Computer useDatabase and network design and administrationSoftware and applications development and analysis,,November 2022,UPB1,https://register.athensnetwork.eu/courses/course-show/2625,Romania
+45,University Politehnica of Bucharest,Software Reliability,"Basic
+knowledge in  statistics.see:http://www.imm.dtu.dk/~popen/pec/pec.html/","ObjectivesMotto: “Prediction is very difficult especially
+of the future” ( Niels Bohr)- The objectives of this course is to answer the following questions:- What is software reliability?- Why are the statistical methods necessary?- How do you measure and predict the software reliability?- A computer is a deterministic machine - why can’t we predict when it will
+fail next ?- If software is such a problem why not build it in hardware?- There is evidence that defects have their origin in design errors. It becomes
+difficult or impossible to ensure that software contains no faults. The
+software reliability is currently a very sensitive area in telecommunications
+for example the introduction of new services.The course
+presents opportunities in the field of prediction of software reliability and
+the tools allowing to characterize the accuracy and quality forecasts.This is a University “ Politehnica “UniversityMaster course offeredat theFaculty ofAutomatic Control and Computer Science.Various methods and
+techniques that we approach based on collected data: the software reliability
+growth models, statistical tests, among which trend tests (graphic and statistics
+methods). The
+course is focused on practical applications using software reliability toolkits
+on real world projects.","Day 1: Key
+features of software systems; Trustworthy software; Forensics Software.Day 2: Operational profiling and reliability modelling;   Measuring
+software reliability.Day 3: Models for analysis of the software reliability growth; Reliability of
+Web services.Day 4: Reliability assessment; Evaluation of
+software reliability predictions.Day 5: Improving software quality   by new computational intelligence approaches.Case
+studies.Exercises: The students will experience teamwork. Project:
+Development of a software project by teams of students (usually five of them).Methodological
+ReferencesAlternation
+of the exposed paper based on the course support under electronic format with
+the involvement of the students into debates. The copy of transparencies on
+CD-ROM and the Web pageshttp://www.imm.dtu.dk/~popen/pec/pec.html/. Also the support of the course is
+accompanied by video illustrations and case studies with software tools.",Exam based on a mini-project programmed during the computer based sessions.,on-site,English,3,Prof. Florin Popentiu- Vladicescu-  http://www.staff.city.ac.uk/~pop/,Prof. Florin Popentiu-  Vladicescu - http://imm.dtu.dk/~popen/,"On-site (UPB- Bucharest, Romania),Bucharest",Computer useDatabase and network design and administrationSoftware and applications development and analysis,,November 2022,UPB07,https://register.athensnetwork.eu/courses/course-show/2627,Romania
+46,Istanbul Technical University,Problem Solving Techniques and Innovation Culture Management,"Materials Science and
+Design and Materials Selection or related classes.","Problem
+Solving Techniques and Design course is an important engineering course for
+engineers in order to differentiate, understand and solve engineering problems.
+This course will emphasize on;Understanding
+of engineering problems,Finding
+engineering solutions to the problems and design product/process in light of
+the solutions,Importance of
+innovative thinkingLearning and
+applying tools & techniques for problem solvingTeam workProject
+proposal writing and managing projects according to the proposalsProject
+ManagementLearning a
+model for Innovation Culture Management (Ivalue7)Improvement of
+students’ written and oral communication","Importance of thinking and concurrent engineeringDefinition of problems; open and closed ended problemsDefinition of design and design & materials & process
+selection in engineering problemsInnovative problem solution techniques (5Whys, 5Whys-2Hows,
+TRIZ, 8D)Proposal writingProject managementInnovation Culture Management (Ivalue7)Presentations","Team presentations at the
+end of the course.During the course some other in class teamwork.",on-site,English,4,Prof. Dr. Özgül Keleş,Assoc. Prof. Dr. Deniz Karahan,ITU Ayazağa Campusİstanbul,Chemical engineering and processesManagement and administrationPersonal skills and developmentWork skills,,November 2022,ITU01,https://register.athensnetwork.eu/courses/course-show/2628,Turkey
+47,Mines Paris - PSL,Regional oceanography of the Planetary Ocean,"No prerequisites, except an interest in how works the ocean",The aim of this course is to describe how the ocean works under the solar radiation and the continuous exchanges with the atmosphere indissociably linked with it.,"Generalities on the ocean, the peculiar characteristics of water and sea-water; The different the exchanges with the atmosphere; The concept of water mass and the hydrological analysis; The general structure of the ocean ;  The principal origins of the ocean circulation, the geostrophic balance, the Ekman balance and the Coriolis force, the thermohaline circulation ; The role of wind, the general surface circulation, convergence, divergence ; Then, the specific hydrology of each ocean with the origin, formation, movement and mixing of the various water masses encountered, leading to the global thermohaline circulation. At the end, the role of the ocean on the climate system is briefly approached as well as examples of variability.","on the last day, Friday 18th of November",on-site,English,3,Michèle Fieux,,"MINES Paris, 60 Boulevard Saint Michel - 75272 PARIS Cedex 06Paris",BiochemistryBiologyEarth SciencesEnvironmental sciencesMathematicsNatural environments and wildlifePhysics,,November 2022,MP07,https://register.athensnetwork.eu/courses/course-show/2629,France
+48,Mines Paris - PSL,Circular economy and ecodesign. The urban mine case,Engineering background,"Acquiring knowledge of issues, policies, techniques, methods on circular economy and ecodesign","(preliminary programme)MondayCircular Economy (all sectors);Extended Producer Responsibility 5EPR) policiy: the WEEE caseNew circular business modelsRepair and repairability: policies, practices and business modelCase study introductionTuesdayA French WEEE take back systemEcodesignmethods, tools and practicesRecyled material standardPlastic ecodesign: introductionLCA for end-of life systems: LCI for recycled plasticsRecycled plastic use in electronics productsCase study meetingWednesdayVisit of Paprec treatment plantCase studyThursdayInnovation within strategic metals recycling from WEEERecycling of LEDRecovery of critical and precious metals from Printed Circuit BoardTechnological innovations within plastics sortingDepolluton technological innovations : Plastics containing Brominated Flame Retardants (RFB)Technological innovations within plastic recycling for recycled material usesFree time or case studyFridayCase studyCase study presentation",group work on a case study (oral presentation),on-site,English,4,Franck AGGERI,Vincent SEMETEY (Chimie ParisTech) and Carole CHARBUILLET (Arts et Métiers ParisTech),"MINES ParisTech, 60 Boulevard Saint Michel - 75272 PARIS Cedex 06PARIS",Electricity and energyElectronics and automationMining and extraction,,November 2022,MP20,https://register.athensnetwork.eu/courses/course-show/2630,France
+49,Istanbul Technical University,Quality Engineering,"Materials Science,
+Materials Selection, Design or related classes.","The main
+objectives of this course are;to introduce the philosophy of quality
+engineering and the gurus.to provide information about the Quality
+concept, its philosophy, its structure, strategies and its assurance system.to discuss the basic management tools, quality
+tools and quality techniques that enable setting the quality from the beginning
+of design, throughout production, and the final step of the process.to use statistical tools to summarize quality
+data and make and interpret control charts for quality surveillance and
+improvements.to conduct research in teams for designing
+experiments to improve product properties
+and process performance. to write scientific reports and present these results.","Understanding 'quality' concept and philosophy,Principles of TQM, development of TQM, Gurus of TQM,Principles of leadership, communication, organization,
+communication skills,Quality system and
+documentation, cost of qualityData collection, sampling, statistical
+process control (X-R, X-S, np, p, c, u charts)","1 midterm on statistical
+process control and 1 team project as final exam.",on-site,English,4,Assoc. Prof. Dr. Deniz Karahan,Prof. Dr. Özgül Keleş,ITU Ayazağa Campusİstanbul,Management and administrationPersonal skills and developmentWork skills,,November 2022,ITU02,https://register.athensnetwork.eu/courses/course-show/2631,Turkey
+50,Mines Paris - PSL,Operations Research in the airline industry,"Background in mathematics (notations, matrices, graphs,…). Programming notions is a good thing to have too","Show what Operations Research is and what it can bring to an airline, from optimizing the revenue to scheduling the crew or improving maintenance.",Day 1 morning - Linear programming & dualityDay 1 afternoon - Advanced linear programmingDay 2 morning - Graph TheoryDay 2 afternoon -  Ressource optimizationDay 3 morning - Case study : crew schedulingDay 3 afternoon -  Case study : crew schedulingDay 4 morning -  Data analytics & Advanced statisticsDay 4 afternoon - Network optimization & Dynamic ProgrammingDay 5 morning -  Revenue managementDay 5 afternoon - Exam,Oral exam,on-site,English,3,Léo Pallud,Léo Pallud and others (to be determined),"MINES Paris, 60 Boulevard Saint Michel - 75272 PARIS Cedex 06Paris",BiochemistryBiologyChemistryEarth SciencesEnvironmental sciencesMathematicsNatural environments and wildlifePhysicsStatistics,,November 2022,MP19,https://register.athensnetwork.eu/courses/course-show/2632,France
+51,Mines Paris - PSL,"Musique, Science et Histoire",Know how to read a score. It is essential to review an elementary music theory textbook before the beginning of the course.,"Linking scientific, engineering and historical aspects of music theory, musical instruments and music perception. It combines (psycho)acoustics, mechanics, material sciences, history of musical instruments, history of tonal and modal music and includes visits of the Museum of Cité de la Musique.",https://moodle.psl.eu/course/view.php?id=8218,180s video to be produced on a theme to be chosen from a list imposed at the beginning of the week,on-site,French,4,Samuel Forest et Marie-Hélène Berger,"Samuel Forest, Marie-Hélène Berger, Sébastien Joannes, Aude Camus, Sylvain Lamesch, Thierry Maniguet, Adrien Mamou-Mani, Marguerite Jossic, Antoine Hennion, Sebastian Kirsch, Geoffroy Peeters","MINES ParisTech, 60 Boulevard Saint Michel - 75272 PARIS Cedex 06PARIS",History and archaeologyPhilosophy and ethics,,November 2022,MP12,https://register.athensnetwork.eu/courses/course-show/2633,France
+52,Mines Paris - PSL,Physics and Mechanics of Random Media,"Basic knowledge in probability theory, physics and mechanics of solids.","Many solid media and materials (composites, granular media, metals, biomaterials, porous media, soils, rocks, etc.) encountered in materials sciences, geophysics, environmental sciences, energetics, hydrogeology,... display microstructures and structures of several length scales, showing often a non-deterministic disorder. A better understanding and prediction of the resulting multiscale and random nature of materials' mesoscopic and/or macroscopic properties requires a modeling approach based on a combination of probabilistic concepts with methods of physics and mechanics. The course, which aims to provide an introduction to this subject, will be given in a self-contained series of lectures and training sessions on computers. First, motivated by a review of advanced experimental techniques for the microstructure description, and by typical results involving fluctuations present in plasticity, damage, fracture, and flows phenomena in porous media, basic tools of applied probability and random processes are recalled. Then, probabilistic tools for the description random media and models together with their simulation are introduced. At the second stage, physics and mechanics of random media are presented from the standpoint of approximate solutions of partial differential equations with random coefficients. For example, linear electrostatics problems in random media are studied by means of perturbation expansion of the random electric and displacement fields, while bounds on the effective permittivitty and of elastic moduli are derived from variational principles. This approach of homogenization, which can be applied to other physical properties like the composition of permeability, or of the thermal conductivity, is illustrated by third order bounds. The third area of focus concerns the use of numerical techniques and especially FFT-based computations to provide estimates of homogenized properties of random media from Monte Carlo type simulations. Bounds and numerical techniques are then extended to non linear behaviours, like the plasticity of polycrystals. Given the importance of reliability problems in a multitude of engineering applications, several fracture statistics models (brittle, ductile, fatigue) are worked out from a probabilistic approach.",See https://people.cmm.minesparis.psl.eu/users/willot/ESPRM/,Report,on-site,English,3,François WILLOT,"Anne-Françoise Gourgues Lorenzon, Christian Lantuéjoul, Benoit Noetinger, Yves-Patrick Pellegrini, Jesus Angulo, Bruno Figliuzzi, François Willot","MINES ParisTech, 60 Boulevard Saint Michel - 75272 PARIS Cedex 06PARIS",MathematicsMechanics and metal trades,,November 2022,MP08,https://register.athensnetwork.eu/courses/course-show/2634,France
+53,Mines Paris - PSL,"Design, Processing and Functionality of Polymeric Materials (in Sophia Antipolis - South of France)","Needs basic knowledge in continuum mechanics, heat transfer, thermodynamics and crystallography, and more generally materials science or/and notions in chemistry, physics and biomedical scienceSpecific conditions:This course takes
+place in Sophia Antipolis, South of France, on the French Riviera, 950km from Paris
+and 30 km from Nice. SeeGoogle
+Maps linkTransport (from Paris to Nice) and accommodation amounts toaround 350
+euros.ATHENSstudents coming from partner
+universities abroad should go directly to Sophia Antipolis(they
+do not participate in the Paris activities; they will not be accommodated in
+Paris, only in Sophia Antipolis).",1. To design and prepare functional polymeric materials;2. To establish processing-structure-properties relationships focusing on application to directed-sciences with a pedagogic aspect;3. To see how functional polymeric materials can help to solve societal challenges,Can be adjusted / 2 days lectures/theoretical classes & industrial partner conference to understand the fundamentals ; 2.5 days for Poster project on specific topics (and demonstration in the lab of experiments by professsors) ; 0.5 day presentation & debriefing,Report presentation using PowerPoint followed by open discussions on the last day,on-site,English,4,Severine A.E. BOYER & Sijtze BUWALDA,"Lectures/theoretical courses to understand the fundamentals 
+T1- Polymer chemistry + biomaterials (Sytze BUWALDA)
+T2- Biopolymers (Tatiana BUDTOVA)
+T3- Rheology (Rudy VALETTE)
+T4- Solidification/Phase transitions (Severine A.E. BOYER)
+T5- Mechanical properties (Jean-Luc BOUVARD)
+T6- Environmental impact vision (Paula PEREZ LOPEZ)
+T7- 3D printing (Alain BURR) 
+T8 - Nano-composites (Edith PEUVREL-DISDIER) 
+T9 - Functionality in materials (Karim INAL)
+&amp; others
+C1-to be confirmed/announced","Centre for Materials Forming (CEMEF), MINES ParisTech/PSL - CNRS UMR 7635, Sophia Antipolis (south of France on the French Riviera, 950 km from Paris and 30 km from Nice), FranceSOPHIA-ANTIPOLIS (Southern of France on the French Riviera, 950km from PARIS and 30 km from Nice)","Chemical engineering and processesMaterials (glass, paper, plastic and wood)",,November 2022,MP13,https://register.athensnetwork.eu/courses/course-show/2635,France
+54,Mines Paris - PSL,Complex analysis and applications,"Notions of topology, differential calculus (differential of a function, partial derivative)","The first part of the course is an introduction that is designed to expose the theory of complex analysis in a short amount of time. The attempts to solve the pain points experienced by attending students over the years explain most of the deviations from standard expositions. We will skip some technical proofs (that will still be available for the most motivated students), focusing on the meaning of the different concepts. The second part of the course focuses on use cases of complex analysis in engineering. Numerous modern problems in many unrelated fields (scientific computing, image editing, signal processing, control problems) can be solved by complex analysis even though their statements have nothing to do with this theory.","During the first part of the course (~3 days), we will alternate 1h20 lectures with 1h20 exercise sessions.During the second part of the course, we will focus on several applications. They will be presented as guided problems (half a day for each application), and the students will work together in small groups. The professor will regularly correct the different steps. Alternatively, extended theoretical exercise sessions could also be offered to volunteers.Provisional schedule:Day 1: General introduction, complex-differentiability (Cauchy-Riemann equations), holomorphic functions, line integrals, primitives, concepts of topologyDay 2: topology (path-connected/ connected sets, set operations, components), winding number, Cauchy's integral theorem, and corollaries.Day 3: Power series (Laurent series), Zeros & Poles, isolated singularities, computation of residues, application to integrals of functions of a real variableDay 4: Morning-Application to image editing
+Afternoon- Application to control theory (Laplace transform, stability criteria).Day 5: Morning-Application to signal processing. 
+Afternoon-Exam + debriefing.","Three short quizzes will be proposed during the week. They will count for 50% of the final mark. The questions will be straightforward applications of the definitions seen during the class. 
+A final exam will take place on the last afternoon. It will count for 50% of the final mark.",on-site,English,4,Jean AURIOL,"J. AURIOL, S. BOISGERAULT, L. BRIVADIS","MINES Paris, 60 Boulevard Saint Michel - 75272 PARIS Cedex 06Paris",Mathematics,,November 2022,MP31,https://register.athensnetwork.eu/courses/course-show/2636,France
+55,Mines Paris - PSL,Technology and Innovation Strategy,,"This course applies concepts covered in managerial economics and strategy classes to a variety of competitive interactions faced by firms in innovative industries or those affected by technological changes. We begin by exploring when and which firms have incentives (and superior ability) to innovate, the growth of markets for technology and the importance of collaborative strategies. We then discuss strategic uses of intellectual property and two-sided (networked) markets.",Overview of R&D Competition & Organization; Technology Adoption; Markets for Technology and Standards; Intellectual Property Competition; Competition and Two-Sided Markets.,None,on-site,English,,Margaret KYLE,,"MINES Paris, 60 Boulevard Saint Michel - 75272 PARIS Cedex 06Paris",Economics,,November 2022,MP32,https://register.athensnetwork.eu/courses/course-show/2637,France
+56,University Politehnica of Bucharest,Biopolymers and Biocomposites,"Organic
+Chemistry","The
+course Biopolymers and Biocomposites aims to introduce the students in the
+wonderful world of polymeric biomaterials for medical use. After the
+introduction in the field of biopolymers and biocomposites, the lecture follows
+the presentation of naturally occurring polymers (proteins, polysaccharides).
+An important topic of the lecture is dedicated to hydrogels and hydrogel-based
+biocomposites and their main biomedical applications. The next chapter focuses
+on the chemistry and uses of synthetic polymers for bioenegineering. The
+lecture ends with the presentation of the main methods for polymer processing
+to manufacture various medical devices: extrusion and injection molding, 3D
+printing and electrospinning. Everything is planned to be interactive and
+dynamic so that the students could ask questions, and discuss some hot topics
+they are interested in. Every day some interesting practical activities are
+performed to better understand the field of biopolymers and biocomposites for
+bioengineering. Finally, the students will have to pass a two-hours examination
+from the topics discussed during the five days lecture.","The
+five-day course consists of:-Lectures:
+2 h/ daily with interactive discussions and questions-Practical
+application (lab activities focused on biopolymers and biocomposites)1.Introduction to Biopolymers and
+biocomposites (Professor Horia Iovu).Biopolymers/Biocomposites.
+Definitions. Classifications. Chemical and physical properties of biopolymers
+for biomedical use. Applications of biocomposites for bioengineering.2.Naturally occurring polymers (Professor
+Horia Iovu/Professor Catalin Zaharia)Chemistry of PROTEINS:
+animal & plant-based proteins; chemistry of POLYSACCHARIDES:
+vegetal-derived polysaccharides (plant & algal); microbial polysaccharides;
+polysaccharides in living organism3.Hydrogels and hydrogel - based biocomposites (Professor Izabela Stancu)Hydrogels: classification;
+synthesis; properties; applications; Hydrogel-based biocomposites:
+classification; preparative methods; applications4.Synthetic polymers for biomedical applications (Assistant professor Iuliana Biru)Definitions and
+classifications. Chemical and physical properties of synthetic polymers for
+biomedical use. Cell-biomaterial interactions. Toxicity. Applications of
+synthetic polymers for bioengineering.5.Processing methods for
+biopolymers and biocomposites (Professor Catalin Zaharia)Basic notions on extrusion
+and injection molding. Principle of 3D printing and electrospinning as modern
+techniques for the manufacture of medical devices.",2-hour written exam,on-site,English,3,Prof. Horia Iovu/ Prof. Catalin Zaharia,,"UPB, Faculty of Chemical Industry and BiotechnologiesBucharest, Romania",Chemical engineering and processes,,November 2022,UPB015,https://register.athensnetwork.eu/courses/course-show/2639,Romania
+57,Istanbul Technical University,Management of Technology,"Basic
+knowledge of management and organization, Marketing, Process management.","To provide an integrated and strategic approach
+to technology and innovation management by introducing concepts, methods,
+techniques and cases on management of technology and innovation to students.Create an awareness and possess basic skills and
+approaches  
+to deal with macro and micro problems and issues about management of innovation and technology.","Basic concepts of technology and
+innovation managementStrategic
+Technology Management, Innovation Strategyand
+competitive advantageTechnology Planning,
+Identification and Selection – Case AnalysisTechnology development -R&D management - New product and process developmentTechnology
+Transfer and Technology/Innovation Eco-systems","Presentation
+of a group case study on Technology Management Framework of a Manufacturing
+Company",on-site,English,3,Doç. Dr. Nihan Yıldırım,Doç. Dr. Deniz Tunçalp,ITU Ayazağa Campusİstanbul,Management and administrationPersonal skills and developmentWork skills,,November 2022,ITU03,https://register.athensnetwork.eu/courses/course-show/2640,Turkey
+58,Universidad Politecnica de Madrid,Madrid and its history through the analysis of the most emblematic buildings,"No prior
+knowledge is required to complete this course.","The main objectives are:-To Learn about the origin and evolution of the city of Madrid from the creation in the VIII century until today.-To analyze the most emblematic buildings in the city, on which we will work drawing them and trying to know their history.-To learn about the Spanish and Madrilenian culture","Monday14th (6 h)10.00 h.MAIN HALL
+of the “Escuela Técnica Superior de Edificación de Madrid (ETSEM)” which is
+located at the following address: Avenida de Juan de Herrera nº 6, Madrid
+28040.(Meeting
+Point: MAIN HALL of the “Escuela Técnica Superior de Edificación de Madrid” located
+at the ground floor).10.15 h -
+12.30 hVisiting
+the ETSEM facilities.Professor Mª Aurora Flórez de la Colina13 h -
+13.30 h. (P0-P4)Brief
+presentation: Introduction to the historic and urban evolution of Madrid, at
+the ETSEM P0-P4 classroom (ground floor).Professor Pilar C. Izquierdo14.30 h - 17.30 hStroll
+through Madrid and explanation of the origins of the city and its development
+until the 19th century.(Meeting
+Point: Statue of Philip IV at the center of the “Plaza de Oriente” Square, in
+front of the Royal Palace)Professor
+Pilar C. IzquierdoTuesday15
+th(6 h)10.00h - 13
+h.Stroll
+through Madrid and explanation of its evolution since 19th century to nowadays.(Meeting
+Point: main entrance of the Royal Botanical Garden at Murillo Square nº2, near
+the Prado Museum).Professor Pilar C. Izquierdo14.30 h - 17.30 h.Madrid-Río:
+Walk along the banks of the Manzanares river and explanation of the
+construction works done to cover the M-30 motorway.(Meeting
+Point: main entrance to the church of “San Antonio de la Florida”, at “Glorieta
+de San Antonio de la Florida, s/n”).Professor Mª Aurora Flórez de la ColinaWednesday 16 th(6 h)10.00 h. –
+13.00h. (P0-P4)Theory
+class about the drawing importance to understand the Architecture and Practice
+(Watercolor).(Meeting
+Point: Classroom P0-P4 of the “Escuela Técnica Superior de Edificación de
+Madrid” located at the ground floor).Professor
+Mercedes Valiente14.30 h -
+17.30 h. (P2.I1/2).Preparation
+of the work that students must perform about the urban evolution of the city.(Meeting
+Point: Computer labs of the ETSEM, Second Floor (P2.I1/2).Professor Mª Aurora Flórez de la ColinaThursday 17 th (6 h)10.00 h -
+12.30 h.Some
+examples of Architecture and a perspective of it though the drawing.Drawing
+practice at “Plaza Mayor”, the Mayor Square of Madrid.(Meeting
+Point: Statue of Philip III at the center of the Mayor Square of Madrid)Professor
+Mercedes Valiente14.30 h -
+17.30 hVisit and
+drawing practice at the “Cibeles Palace” (Former Palace of Communications,
+located at the Cibeles Square nº1).(Meeting
+Point: Main entrance of the Cibeles Palace)Professor
+Mercedes ValienteFriday 18 th (6 h)10.00 h -
+16.00 hPreparation
+of the work that students must perform about the urban evolution of the city.(Meeting
+Point: Computer labs of the ETSEM, Second Floor (P2.I3 ?)Professor Mª Aurora Flórez de la Colina","To be
+evaluates the students must do a paper (maximum 20 pages including an index,
+photographs and bibliographical references), about the most relevant aspects of
+the History and urbanístic evolution of the city of Madrid.the paper must be sent to the professors by
+email during the week following the end of the course.",on-site,English,2,Pilar C. Izquierdo,"Pilar Izquierdo Gracia, Mercedes Valiente López, Mª Aurora Flórez de la Colina","ETS de Edificación. Avda. Juan de Herrera, 6Madrid",Architecture and town planningHistory and archaeologySociology and cultural studies,,November 2022,UPM101,https://register.athensnetwork.eu/courses/course-show/2641,Spain
+59,Universidad Politecnica de Madrid,Spectral signatures: from foods to fuels,"Basic
+chemistry","This
+course encompasses the understanding of the equipment, the analysis of variety
+of target examples (food, soil, fuel) with a special emphasis in spectral
+signature definition and corresponding analysis, and on what is feasible
+compared to utopic views.","Lectures:
+30 hTheoretical:
+10 hPractical:
+20 h1.Principles on electro-magnetic interaction2.Interferometers, AOTF and grating grids3.Laboratory sessions (3)4.Spectra acquisition5.Spectra pre-treatment6.Unsupervised analysis7.Supervised analysis8.Presentation of results9.Calibration transfer10.Spectral challenge (Searching for a spectral treasure)11.What you’re proposing","The
+evaluation will be based on the results of the spectral challenge which will be
+faced by multidisciplinary teams of four to 5 people",on-site,English,2,Pilar Barreiro,"Pilar Barreiro, Belén Diezma, Natalia Hernández Sánchez, Eva Cristina Correa Hernando","ETSI Ingenierí­a Agronómica, Alimentaria y de BiosistemasMadrid",BiochemistryBiologyChemical engineering and processesChemistryEnvironmental protection technologyEnvironmental sciencesFood processingMathematics,,November 2022,UPM107,https://register.athensnetwork.eu/courses/course-show/2642,Spain
+60,Universidad Politecnica de Madrid,Physical Computing based on Open Software and Hardware Platforms,"Basic knowledge in analog and digital electronics.Basic programming knowledge (Java, Python or C++).The student must bring his own laptop.","Physical computing describes handmade prototyping, including art, design or DIY hobby projects that use sensors and microcontrollers to translate analog inputs to a software system, and/or control electro-mechanical devices and instrumentation such as motors, servos, lighting or other hardware.This project-based course introduces the student to physical computing, by means of low-cost and open hardware platforms such as Arduino, and programming languages such as Processing. The course will consist mainly in practical sessions, with some theoretical sessions. After introductory lab sessions, the students will develop a project. This project will be proposed by the professors, and it will be scientifically oriented, including different topics such as robotics, optical communications and photonics.The objectives of the course are:Acquire knowledge in the different existing available possibilities to create projects according to our necessities.Acquire knowledge in Arduino and Processing programming languages.Acquire knowledge in user interaction/timing programming strategies.Work in pairs. Organize the work.Create your own project.","Theoretical sessions (8 hours):Introduction to physical computingArduino ProgrammingThe Processing LanguageProject Proposals
+PracticalPractical Sessions (22 hours)","The evaluation will be performed by means of the presentation of a Report per group, including a short description of the project created with schematics, codes and photographs.",on-site,English,3,Antonio Pérez-Serrano,"Antonio Pérez Serrano, Xabier Quintana Arregui, Manuel Caño García, Javier Pereiro García, Pablo de la Rosa del Val, Pablo López Querol y Clara Quevedo Galán.","ETSI Telecomunicación, Avd. Complutense 30Madrid",Computer useElectronics and automationSoftware and applications development and analysis,,November 2022,UPM115,https://register.athensnetwork.eu/courses/course-show/2643,Spain
+61,Universidad Politecnica de Madrid,EXERCISE IS MEDICINE: from theory to practice," Familiarity with physical activity, motor skills and some basic exercise physiology terms. Light motor and physical skills (basic fitness). Sports clothes for exercise will be necessary every day."," To present the Exercise is Medicine® world initiative. To introduce current assessment of physical activity, physical fitness, sedentary behavior and other health-related aspects. To provide tools for self-management of a physical activity programme according to WHO recommendations. To focus on opportunities of research and business for engineers and biosciences professionals on this area. To provide the opportunity to become a health-promoter at the workplace as suggested by WHO. To create a broad awareness of the benefits that physical activity offers for health and treatment.","Monday, 14th of November: (from 09:00 to 15:00h):Presentation: (15min) 09:00 to 09:30h: (Internacional room)Technical Visit (1h. 30 min.): 09:30 to 11:00h. Gymnastic museum, INEF-UPM. Guided visit to the National High-performance Sport Center (Instalaciones del Consejo Superior de Deportes).Project design (30 min.): 11:30 to 12:00h (IT room) Where do we come from? Where are we? Physical activity and fitness project design (Groups 5-6 people)Theory (2h.): 12:00 to 13:00h (IT room) Exercise is Medicine® initiative worldwide. The benefits of physical exercise and better physical fitness for health. Chronic diseases related to Physical inactivity.Laboratory (2h.): 13:00 to 15:00h (604 room) Physiology lab: Exercise Ergo spirometry (VO2max) for healthy subjects. Maximal Wingate test.Tuesday, 15th of November: (from 09:00 to 15:00h):Theory (1h.): 09:00 to 10:00h (IT room) Estimated physical strength fitness assessment (1RM).Gym practice (2h.): (10.30 to 12:00h.): (Gym) Biomechanics lab: Electromyography Estimated physical strength fitness assessment (1RM).Laboratory practice (3h.); (Biomechanic Lab): 12:00 to 15:00h. Gait analysis and exercise technical assessment.• New technologies and analysis in ParalympicsWednesday, 16th of November: (from 09:00 to 15:00h):Theory (1h. 30min.): 09:00 to 10:30h (IT room) Exercise and physical fitness technology. Exercise thermography analysis.Gym practice (2h): 11:00 to 13:00h (IT room) Thermography analysis image pre and post exercise.Practice (2h.): 13:30 to 14:30h (IT room) Self-processed data and image thermography analysis before and after than exercise effort.Project design (30 min.): 14:30 to 15:00h (IT room) Physical activity and fitness project design (Groups 5-6 people)Thursday, 17th of November: (from 09:00 to 15:00h):Theory (2h): 09:00 to 11:00h (IT room) Body composition and nutrition assessment. Use of the Food Pyramid and nutritional assessment. Physical fitness and allergiesGym practice (2h) :11:00 a 13:00h (DEXA room, 6th floor and GYM) Body composition by bioimpedance analysis (TANITA Corp, BC-418MA, Tokio, Japan) and DEXA. Self-estimated physical strength fitness assessment (1RM).Project design (2h): 13:00 to 15:00h (IT room) Proposal of project design related to Physical activity and fitness app design (Groups 5-6 people)Friday, 18th of November: (from 09:00 to 15:00h):Exercise practice (2h.): 9:00 to 11:00h (Body expression room). Physical fitness assessment: Tools out of lab.
+Theory (2h.): 11:00 to 13:00h (IT room) Physical activity and nutritional guidelines.Project designs presentations (2h.): 13:00 to 15:00h (Aula Magna room) Presentation of proposals for project designs (10 minutes group presentations and 5 minutes for questions).", Presentation of proposals for project designs (10 minutes group presentations and 5 minutes for questions). Self-assessment by students and teacher by a rubric table. Minimum mark: 5 (1-10 points). Physical fitness assessment practices (Each student is going to give their results to the Athens course responsible face to face by the paper format given the first day. Deadline: 18th of November). Minimum mark: 5 (1-10 points).,on-site,English,1,Prof. Dr. MARCELA GONZÁLEZ GROSS,"• Prof. Dr. Marcela González Gross
+• Prof. Dr. Margarita Pérez Ruiz
+• Prof. Dr. Manuel Sillero Quintana
+• Prof. Dr. Pedro José Benito Peinado
+• Prof. Dr. Enrique Navarro Cabello
+• Prof. Dr. Javier Pérez Tejero
+• Dr. Eva Gesteiro Alejos
+• Dr. Sergio Calonge Pascual
+• PhD student. Lisset Pantoja Arévalo
+• PhD student. Jaime López-Seoane Puente
+• PhD student Javier Rueda Ojeda
+• Julio Sebastián González (administrative secretary)
+• GIE InnoSyR","Facultad de Ciencias de la Actividad Física y del Deporte-INEF C/Martin Fierro, 7. 28040. Madrid (Spain).MADRID",BiologyComputer useEconomicsFood processingMedical diagnostic and treatment technologyPersonal skills and developmentPolitical science and civicsPsychologySociology and cultural studies,,November 2022,UPM126,https://register.athensnetwork.eu/courses/course-show/2644,Spain
+62,Universidad Politecnica de Madrid,Basic knowledge in construction and facilities in Spain,"· General knowledge on the
+  construction and facilities sector.· Participative attitude.","“The Foreman Builder
+has very important role in the building sector. Due to his professional and
+technical background and his involvement on construction process, is a figure
+closely related to the Civil Engineers who perform the same function in other
+countries, especially the European Union and the United States and Canada.”The main
+objective is to figure outdesign and the
+application of construction skills and kwowing better the Spanish culture. as well as to develop the objectives od sustainable development from our field","The course takes place in the ETSEM
+  Workshop of Facilities and Construction Museum that have scale models and
+  simulators, equipments, etc.https://www.edificacion.upm.es/aulataller.htmlhttps://www.edificacion.upm.es/departamentos/construcciones/aula_museo.htm1. Welcome to the
+  participants and introduction to the course2. Guided tour
+  Construction Museum. Group work development3. Guided visit
+  Classroom Facilities Workshop. Group work development4. Resolution of
+  construction details, detail of installations and interior design.5. Sharing of
+  activities and work done","Students will be evaluated on the
+  basis of drawings and written work of the buildings and their facilities.
+  They will in groups prepare a poster and it presentation.",on-site,English,2,Patricia Aguilera Benito (patricia.aguilera@upm.es),"Patricia Aguilera Benito, Isabel Bach Buendía, Carolina Piña Ramírez,","Escuela Técnica Superior de Edificación (ETSEM) - Avda. Juan de Herrera, 6 - 28040 Madrid https://www.edificacion.upm.es/Madrid","Architecture and town planningBuilding and civil engineeringElectricity and energyFashion, interior and industrial designMaterials (glass, paper, plastic and wood)",,November 2022,UPM132,https://register.athensnetwork.eu/courses/course-show/2645,Spain
+63,Universidad Politecnica de Madrid,Spanish Contemporary Social and Political Issues through its Constitution,None,"Insight on Spanish
+  Contemporary Social and Political IssuesSocial Sciences
+  MethodologiesBasics on
+  Comparative Constitutional Law","1.Historical
+  background: 1492 to present2.Constitutional Law basics: Spanish 1978, other international and
+  historical references3.Contemporary socioeconomical context in Spain4.Political offer and electoral results5.Spanish Media6.Main social and political agenda: territorial, economical,
+  institutional reforms…7.Conferences and dialogue with political representatives, journalists…8.Debates among students9.Visites to institutions","10-pages document to
+  be sent by e-mail before 30 days after the end of the course: either about a
+  deeper analysis of one of the issues from the programme, or about a
+  comparative regard from another country such as the students’ one.",on-site,English,1,Víctor Gómez Frías,"Víctor Gómez Frías.
+Guest speakers: political representatives, journalists…","Escuela Técnica Superior de Ingenieros Industriales, c/ José Gutiérrez Abascal 2 (Madrid) (tbcMadrid",History and archaeologyPersonal skills and developmentPolitical science and civicsSociology and cultural studies,,November 2022,UPM134,https://register.athensnetwork.eu/courses/course-show/2646,Spain
+64,Universidad Politecnica de Madrid,USE OF VIDEO TOOLS FOR THE ANALYSIS OF HUMAN MOVEMENT AND SPORT TECHNIQUES,"Preferably
+students should bring their own laptop","1.To explain the main video resources
+and tools for the analysis of human movement.2.To
+describe the methodological steps for the calculation of spatiotemporal
+parameters about human movement.3.To
+examine the main spatiotemporal and notational parameters employed in the
+analysis of sport techniques.4.To describe the main applications of
+video analysis for human health.","Session 1:
+Introduction to video analysis (theory + practice) 4 hour-Main
+devices and settings for video filming.-Ethics
+consideration for video filming of human movement.-Application
+of video analysis in the sports context.-Applications
+of video analysis for human health.-Temporal
+or semi-quantitative analysis of human movement.Session 2:
+Methodological aspects for the quantitative analysis of human movement (theory
++ practice) 4 hour-Calibration
+procedures for video analysis-Reconstruction
+of spatial coordinates from screen coordinates-Variables
+calculation-Error
+measurementSession 3:
+Application of video tools to the analysis of performance during team sports
+(theory + practice) 4 hour-Bases
+for notational analysis of team sports.-Types
+of parameters during match analysis of team sports.-Key
+aspects of team sports performance using video analysis.Session 4:
+Application of video tools to the analysis of human movement for health (theory
++ practice) 4 hour-Static
+posture analysis-Gait
+analysis-Asymmetries
+analysis-Patterns
+of coordination and movement variabilitySession 5:
+In-class quiz + development of an individual project on the application of human
+movement analysis with video tools. (practice) 4 hour","Two parts:a)In-class quiz on the last day
+(60-min)b)    Development of a small project on the
+application of human movement analysis with video tools.",on-site,English,1,Santiago Veiga Fernández (Santiago.veiga@upm.es),Jorge Lorenzo Calvo (jorge.lorenzo@upm.es),"Facultad de Ciencias de la Actividad Física y del Deporte (INEF)  C/ Martín Fierro,7. 28040 MadridMadrid",Audio-Visual techniques and media productionPersonal skills and developmentPhysicsSoftware and applications development and analysis,,November 2022,UPM141,https://register.athensnetwork.eu/courses/course-show/2647,Spain
+65,Universidad Politecnica de Madrid,Geological Cross-Sections,"Basic
+knowledge and interest in earth sciences","The
+main objective is to practice drawing geological cross-sections and to learn
+the main uses of this revealing tool. The geological cross-sections allow to
+deduce the geological history and the location of the different materials in
+the study area. In order to achieve this objective, it is necessary to study
+the main geological structures, to know how to interpret geological maps, in
+addition to know how to integrate all the information into a graphic
+representation.","Day 1.
+Introduction to cartography and geological mapsGeographic coordinate systems.Scales and topographic reliefs.Geological outcrops.Structural elements.Geological maps, symbols and keys.Practice 1. Draw topographic profiles.Field trip introduction.Day 2.
+Field TripGeological structures.Main Igneous, Metamorphic and Sedimentary rocks.Soil formation.Day 3.
+Geological cross-sections of horizontal and folded materialsPractice 2. Sedimentary environments.Practice 3. Concordant and discordant contacts.Types of folds.Practice 4. Cross-sections with different folds.Day 4.
+Geological section on fractured materialsFault types.Practice 5. Cross-section with normal faults.Practice 6. Cross-section with reverse faults.Day 5.
+Geological histories and cross sectionsReview of
+practices 1-6.Final Exam.","The
+final exam consists of drawing a geological cross-section from a geological map
+(in a similar way to the rest of the practices) and interpreting the geological
+history of a second geological cross-section. Students will have the option to
+correct their mistakes and submit the results within 72 hours after the exam.",on-site,English,2,Ignacio Mariscal Sancho (i.mariscal@upm.es),Daniel Vazquez Tarrio (daniel.vtarrio@upm.es) y Chiquinquirá Hontoria Fernández (c.hontoria@upm.es),"ETS de Ingeniería Agronómica, Alimentaria y de Biosistemas . Avda. Puerta de Hierro, 2 28040-Madrid (Spain)Madrid",Earth SciencesEnvironmental sciencesMining and extraction,,November 2022,UPM142,https://register.athensnetwork.eu/courses/course-show/2648,Spain
+66,Universidad Politecnica de Madrid,LASERS: FROM QUANTUM FOUNDATIONS TO ENGINEERING APPLICATIONS,"Electromagnetism,
+Basic Structure of Matter","Presentation of Laser FoundationsPresentation of different types of LasersPresentation of basic mechanisms of Laser
+     radiation interaction with matterPresentation of a panoramic catalogue of
+     optical, metrological, analytical and high energy laser applicationsPresentation of representative applications of
+high power lasers in industry, with associate robotic and material
+characterization developments","Day 1:
+Laser Foundations: From Quantum Theory to Active Medium and Beam Building. (T)Day 2: Different
+Types of Lasers and Application Systems (T+V)Day 3:
+Principles of the Interaction of Laser Radiation with Matter (T)Day 4: Panoramic
+View of Lasers Applications in Engineering (T+P)Day 5: Particularized Study of Characteristic
+Laser Applications + Final Test","Final Test QuestionnaireMonographic work on a selected subject of the
+Program",on-site,English,4,José Luis OCAÑA (jlocana@etsii.upm.es),"Ignacio ANGULO (Ignacio.angulo@upm.es)
+Francisco CORDOVILLA (francisco.cordovilla.baro@upm.es)
+Angel GARCÍA-BELTRÁN (agarcia@etsii.upm.es)","ETS de Ingenieros Industriales Dept. of Applied Physics and Materials Engineering C/ José Gutiérrez Abascal, 2 28006 MadridMadrid",Electricity and energyElectronics and automationMechanics and metal tradesPhysics,,November 2022,UPM143,https://register.athensnetwork.eu/courses/course-show/2649,Spain
+67,Universidad Politecnica de Madrid,"Sensors, trees and plants against air, water and soil pollution in big cities",None,"This course
+is issued within the framework of the ATHENS’s courses aiming at the
+dissemination and the promotion of Medicinal and aromatics plants (MAPs) and
+natural products.Knowledge update: MAPs & essential oils
+(EOs) are mainly produced in Southern countries but in in large amounts used in
+Northern countries where there is a real lack of knowledge by potential
+end-users in many sectors concerned (pharmaceuticals, cosmetics, food and
+beverages, phytopharmacy, etc.). In response to the professional sector: There
+is a market niche to share the promotion of MAPs & EO in different sectors
+as an opportunity of entrepreneurship and sustainability against the climatic
+change","Day 1Topic 1.
+Introduction and conceptsTopic 2.
+Classification of pollutantsDay 2Topic 3.
+Pollution in big cities and natural environmentTopic 4.
+Trees and plants for air pollutants mitigationDay 3Topic 5. Monitoring
+of pollution (Arboretum of the faculty)Day 4Topic 6. Type
+of sensorsDay 5Laboratory practices (DIY sensors for air and
+water quality)","Projects
+& presentations: students are allowed to submit it by email until after the
+course sessions end but no later than 30 days",on-site,English,1,Prof. Carlos Calderón-Guerrero (carlos.calderon@upm.es ),,"Faculty of Forest Engineering and Natural Resources Technical University of Madrid. Madrid (SPAIN) Address: C. de José Antonio Novais, 10, 28040 MadridMadrid","BiologyChemistryEarth SciencesEconomicsEnvironmental sciencesForestryMotor vehicles, ships and aircraftNatural environments and wildlifeSoftware and applications development and analysis",,November 2022,UPM144,https://register.athensnetwork.eu/courses/course-show/2650,Spain
+68,Universidad Politecnica de Madrid,MADRID 1972-2022 Architecture and urbanscape: an analytic approach,"-Interest
+in critical understanding of the modernist phenomena in architecture, as well
+as curiosity of knowing one of its peripherical European approaches.-Graphic
+skills enough to address critical approaches and express ideas on architecture.-Capacity
+to read architecture or urban design, both in-site visits and technical
+documents.-Broad
+cultural and social interest.Analytical and critical orientation.","(1)In-depth reading of the most
+significant architecture and urban design made in Madrid in the last 50 years.(2)Exploring advanced methodologies to
+express critical ideas in architecture and urbanscape.(3)   Deepening knowledge about Madrid and Spanish modern
+architecture experiences, through different cultural and interdisciplinary approaches.","The
+workshop will address the most significant architecture and urban design of the
+last five decades in Madrid, from Rafael Moneo´s Bankinter building to Norman
+Foster´s intervention in an old industrial warehouse for Acciona campus. To ensure
+a comprehensive understanding of these 50 years and, at the same time, endeavor
+in-depth readings of its complexity, we will combine short lectures with
+laboratory times and visits to the buildings. They will be combined as follows:Day 1-Introductory
+lecture: Madrid and its postmodern-Laboratory-In
+site visitDay 2-In
+site visit-Lecture
+2: Supermodernism and poetical new modernism-LaboratoryDay 3-Laboratory-Lecture
+3: Alternative postmodern-Review
+workshopDay 4-In
+site visit-Lecture
+4: Rehab-LaboratoryDay 5-Laboratory
+and print-Final
+presentation and review","Final
+presentation and work file (to be delivered by e-mail 7 days after the end of
+the workshop)",on-site,English,3,Angel Cordero Ampuero Profesor Contratado Doctor (Associated Professor),"-	Angel Cordero Ampuero (angel.cordero@upm.es)
+-	Héctor Navarro Martínez (hector.navarro@upm.es)
+-	Marta Muñoz Martín (marta.munozm@upm.es)",Escuela Técnica Superior de Arquitectura de Madrid (ETSAM) Avda Juan de Herrera 4 28040 Madrid (Spain)Madrid,"Architecture and town planningAudio-Visual techniques and media productionFashion, interior and industrial designHistory and archaeologyPhilosophy and ethics",,November 2022,UPM145,https://register.athensnetwork.eu/courses/course-show/2651,Spain
+69,Universidad Politecnica de Madrid,Introduction to CFD with OpenFOAM,"Basic
+  notions of Fluid Mechanics, such as Navier-Stokes and energy equations. Some
+  Programmation Skills.","The course
+aims to introduce the use of the free CFD simulation code OpenFOAM by means of
+a case-based learning methodology.A practical approach will be followed to learn how to perform CFD simulations with OpenFOAM, using examples of laminar and turbulent flows, heat transfer, and multiphase
+    flows. Techniques for the simulation of the fluid and energy equations will be covered. The course will allow the students to acquire a general and relevant background in the mesh generation, selection of numerical methods, visualization and validation
+    of simulations that will be useful in any other CFD software. The course will cover all the basic and practical aspects of OpenFOAM simulation with OpenFOAM: from learning to handle the Linux operating system and preparing cases for models already
+    implemented in the software to programming new models.","1.A basic introduction toLinux: terminal commands, scripts2.Introduction to OpenFoam:
+distributions, model selection, cases preparation, dictionaries, basic meshing,
+boundary conditions, initial conditions, basic meshing,residuals, running of tutorials, visualization with Paraview3.Numerical methods in OpenFOAM: VoF
+method, spatial and temporal discretization schemes, linear solvers,
+SIMPLE/PISO/PIMPLE algorithms, convergence4.Advanced CFD simulation in OpenFOAM:
+convective heat transfer modeling,turbulence modeling with RANS & LES models,multiphase flows modelingWriting customized solvers with OpenFOAM",Evaluation basedon a work at home to simulate an advanced case.,on-site,English,4,Santiago Madruga,,"Universidad Politécnica de Madrid ETSI Aeronáutica y del Espacio Depto. Matemática Aplicada  Plaza Cardenal Cisneros 3, 28040, Madrid, SpainMadrid","Earth SciencesMotor vehicles, ships and aircraftPersonal skills and developmentPhysics",,November 2022,UPM146,https://register.athensnetwork.eu/courses/course-show/2652,Spain
+70,Universidad Politecnica de Madrid,INTRODUCTION TO TECH DIPLOMACY: THE NEW GEOPOLITICS OF TECHNOLOGY,"No
+prerequisitesThere are
+several types of target participants who will benefit from their participation
+in the course:(a)higher education students, especially those of European Union institutions who do not automatically come
+    into contact with EU studies, such as those in scientific and technological degrees and/or particularly interested in building an international profile beyond the EU(b)researchers and faculty involved in international projects beyond the EU who are not automatically aware
+    of the international implications derived from their work, especially those from all the EELISA partners(c)staff in international departments and units at HEIs","Deep
+transformations of international relationships together with the rapid
+evolution of innovations are leading to renewed geopolitical rivalries and
+fragmentation. Understanding the rationale and implications of these
+innovations in the international sphere and putting them into the context of
+European sovereignty so they can be the subject of education and dissemination
+is precisely the rationale for this proposal of an ATHENS activity.In fact,
+there is an increasing demand for experts in a particular domain, but able to
+understand and manage the challenges of new technologies while reflecting and
+reviewing their impact on European values. Vice versa, technologists and
+scientists need to be aware on how developments could reshape the delicate
+balance of international relationships and what makes us, Europeans, unique.Within this
+framework, this course is part of the Jean Monnet Chair on Technology and
+Science Diplomacy for European Sovereignty (TechDip) hold at UPM. It is also
+part of the activities of the Technology Diplomacy and International
+Cooperation Community of EELISA European University.It is
+expected that students who are admitted to the program will achieve as learning
+outcomes:a)the ability to understand how technological developments work, with a specific focus on their
+    governance and international spillovers,b)the ability to think critically and analyse different use cases for technology and science delivery
+    in economy and society, andc)the ability to understand the unique advantages of the European approach to technology and science.","1- The new
+geopolitics of Artificial Intelligence: the case of China2-
+Technological universities and the international cycle of innovation. The cases
+of China and Russia3-
+Cybersecurity: state of the art and challenges4- The
+challenges of artificial intelligence in the international context: data spaces5- International initiatives in artificial
+intelligence and digital sovereignty.The
+European perspective","Participation
+will be evaluated from two constituents: contributions to discussions during
+sessions (20%) and team-working on a practical assignment based on real technology
+and innovation challenges across Europe with international spillovers (80%).The teamwork will be evaluated from the quality
+of the work, its ability to frame the EU human-centric approach and its impact.",on-site,English,2,CLAUDIO FEIJOO,"Claudio Feijoo, José Miguel Atienza, Gianluca Misuraca","Escuela de Ingenieros de Caminos, Canales y Puertos Edificio Retiro.  Calle Alfonso XII, 3 y 5, 28014 Madrid, España Autobuses Lineas 10 14 26 32 C1 N9. Parada Basílica de Atocha Metro Linea 1. Parada Atocha Cercanias C1 C2 C4 C10. Parada AtochaMadrid",Computer useDatabase and network design and administrationEconomicsMilitary and defenceOccupational Health and safetyPolitical science and civicsSoftware and applications development and analysisTransport services,,November 2022,UPM147,https://register.athensnetwork.eu/courses/course-show/2653,Spain
+71,Warsaw University of Technology,Sound: Hearing and Acoustical Measurements,"Basic knowledge of engineering, physics and mathematics.","Acoustics is a branch of physics and technology related to the sense of hearing. In this course hearing and sound perception will be discussed with reference to physical characteristics of sound, properties of wave propagation, and procedures of sound measurement and analysis. Lectures will cover various dimensions of sound perception (loudness, pitch and time phenomena, binaural hearing), certain hearing models, measurement parameters specifically designed to represent perceived attributes of sound, and basic measurement for predicting the perceptual quantities. A part of the course will be devoted to practicum in acoustical measurements.","Hearing SystemStructure:External and middle ear, Inner ear, Basic physiological mechanisms of hearing,Hearing:Absolute thresholds, masking patterns, forward masking, frequency selectivity and masking, psychophysical tuning curves, the concept of auditory filter, loudness, equal loudness contours, scaling of loudness, nonlinear distortion, temporal processing in the auditorysystem, pitch perception, timbre perception, localization of sounds, binaural unmasking, models of auditory perceptionSpeech:Production and perception,Noise:Noise control, effects of noise on man, hearing loss, hearing aids.Acoustical measurementsGeneral:Fundamental acoustic quantities, sound wave propagation, waves and vibrations,Sound measuring instrumentation:Microphones, calibration, sound level meters, spectrum analyzers for acoustic signals,Measurements:sound pressure level measurements, sound intensity measurements, psychoacoustical measurement procedures, signal detection theory in psychoacoustical measurements, speech intelligibility measurements, physical measures developed to represent the perceived attributes of sound, sound quality assessment.Selected applicationsAudio coders, assessment of speech intelligibility in communication systems, assessment of the quality of reproduced sound.PracticumIt is expected that practicum will include measurements of perceptual attributes of sound (e.g. loudness, thresholds, masked thresholds), and physical sound quantities (e.g. sound pressure level, sound intensity). Visits to acoustical/sound engineering laboratories are also forseen.Suggested referencesW. Hartmann:Signals, Sound, and Sensation; Springer, 1997.J. Blauert:Communication Acoustics; Springer 2005.D. R. Raichel:The Science and Applications of Acoustics; Springer , 2000.D. C. Emanuel, Tomasz Letowski:Hearing Science; Lippincott, Wiliams and Wilkins; 2009.J. Blauert, Ning Xiang:Acoustics for Engineers; Springer, 2008.T. Rossing (editor):Springer Handbook of Acoustics, Springer, 2007.T. Rossing, Neville H. Fletcher:Principles of Vibration and Sound; Springer, 2004.C.HarrisC.Harris (editor):Handbook of Acoustical Measurements and Noise Control, Mcgraw-Hill, 1997","Active participation in the course(compulsoryattendance of classes, participation in practical exercises, etc).Evaluation test at the end of the course.",on-site,English,3,Prof. dr hab. inż. Jan Żera,,"Faculty of Electronics and Information Technology, Nowowiejska str. 15/19Warsaw, Poland",Electronics and automation,,November 2022,WUT10,https://register.athensnetwork.eu/courses/course-show/2655,Poland
+72,Ecole des Ponts ParisTech,Mergers and Acquisition,None,"This course is designed to develop participants’ knowledge of the
+mostly financial and strategic aspects surrounding M&A activity, and to
+equip them with techniques ad a framework to analyze and participate in the
+arrangement of mergers, acquisitions and other forms of corporate restructuring.This course is particularly relevant for participants who want to
+pursue careers as financial managers in companies or as specialists in
+investment banking, private equity, and consulting firms.Students completing this course should notably be able to:Recognize the various forms of corporate
+restructuring and their potential valueUnderstand motives and strategies for such
+transactions and who does what in a transactionGain insight in the M&A process, including
+structuring, negotiation, valuation and post-merger issues, and including cross
+border issuesContribute on either the client or advisory side","After a
+rapid review of relevant corporate finance concepts, the course introduces the
+concept of value and the theories of corporate restructuring activity, and
+discusses the controversy over the benefits of M&A. The course also deals
+with aspects of friendly deals and hostile takeovers, and with other forms of
+corporate restructuring including LBOs. It moves then to a very practical
+review of all aspects of the M&A process, leveraging the experience of a
+number of practitioners, and of cross border M&A. Case studies allow to
+wrap up all the concepts and to review valuation techniques. Finally, a review
+of the M&A organisation and roles at global and boutique players supports
+career discussions with the class.In this
+module, a combination of lectures, class discussions, exercises and case
+studies will be used. Thus, for the class to work well, all participants are
+expected to have read the assigned cases and be prepared to share and defend
+their analyses and recommendations.Prior to class, participants mustread and prepare the
+cases that will be discussed. They are also invited to read selected articlesto be provided as
+part of your reading package as well as the relevant chapters of the course
+book (PG= Patrick Gaughan) and recommended book (SM=Scott Moeller)","40% : Participation in the discussion of case studies and questions in class60% : Final test, Multiple Choice Question",on-site,English,3,Marc KITTEN,Marc KITTEN,"6 et 8 avenue Blaise-Pascal, Cité DescartesChamps-sur-Marne","Finance, banking and insuranceManagement and administrationWork skills",,November 2022,ENPC01,https://register.athensnetwork.eu/courses/course-show/2656,France
+73,Ecole des Ponts ParisTech,Real estate economics,Basics of macro and micro economics,"L'objectif de ce cours est d'apporter les
+notions économiques essentielles à la compréhension du fonctionnement et à
+l'analyse économique et financière des marchés immobiliers résidentiels et non
+résidentiels. Longtemps réduite à la seule question du financement public du
+logement, l'analyse économique de l'immobilier est aujourd'hui diversifiée et relève
+à la fois des approches micro-économiques classiques, comme des approches
+macro-économiques et méso-économiques.L'immobilier doit être considéré à la fois
+comme une activité économique qui se produit, se consomme, s'échange, se
+finance et se gère, tout en tenant compte de ses propres spécificités. Notre
+analyse de l'économie immobilière se propose de fournir une réflexion de base
+pour aborder le développement et les mutations récentes des différents marchés
+immobiliers, au travers de questions et de problématiques sur la formation des
+prix immobiliers, l'articulation entre les marchés immobiliers, les marchés
+fonciers et les marchés financiers, ou sur les stratégies économiques et
+financières des différents acteurs concernés.The objective of this course is to provide the
+economic notions essential to the understanding of the functioning and the
+economic and financial analysis of the residential and non-residential real estate
+markets. For a long time reduced to the sole question of public financing of
+housing, the economic analysis of real estate is now diversified and includes
+both classical microeconomic approaches and macroeconomic and mesoeconomic
+approaches.Real estate must be considered as an economic activity
+that is produced, consumed, traded, financed and managed, while taking into
+account its own specificities. Our analysis of the real estate economy aims to
+provide a basic reflection on the development and recent mutations of the
+different real estate markets, through questions and issues on the formation of
+real estate prices, the articulation between real estate markets, land markets
+and financial markets, or on the economic and financial strategies of the different
+actors involved.","-Les fonctions économiques de l'immobilier-Acteurs et stratégies immobilières.-La formation des prix immobiliers et l'analyse des
+marchés immobiliers.-Cycles et crises immobilières.-Le marché de l'investissement immobilier.-Les indicateurs et l'analyse des marchés
+immobiliers d'entreprise.-Etude de cas de décision d'investissement
+immobilier (sur ordinateur)9 cours de 3 heures-Property
+investment & markets: introduction, definitions and dynamics-Introduction
+to the course, basics and dynamics of real estate and real estate market-Real
+estate four-quadrant model, real estate investment process, institutional
+analysis-Real
+estate market and analysis (macro- and micro)-Real
+estate investment analysi-Case
+study analysis9 sessions of 3 hours","Deux rapports de 10 pages
+par personne sur un des sujets donnés en classe (un sur l’immobilier
+résidentiel, et un sur l’immobilier non-résidentiel)Une note de contrôle
+continu et participation en classe -2, -1, 0, +1 à +2 à la note finale.Two 10-page essays per student on 2 topics (one about
+residential real estate, one about non-residential real estate)Participation that modulate the grades of the essays :
+-2, -1, 0, +1 to +2 to the final grade",on-site,French,3,Ingrid NAPPI,Ingrid NAPPI - Sabine BAIETTO-BEYSSON,"6 et 8 avenue Blaise-Pascal, Cité DescartesChamps-sur-Marne",Architecture and town planningBuilding and civil engineeringEconomics,,November 2022,ENPC02,https://register.athensnetwork.eu/courses/course-show/2657,France
+74,Ecole des Ponts ParisTech,Conceiving eco-districts,None,"Le cours vise à initier les étudiants aux
+compétences, techniques et outils pour l'écoconception de projets
+d'écoquartiers (en "" greenfield "" ou en réhabilitation), en
+développant une vision transverse sur les domaines du bâtiment, du transport et
+de la biodiversité.Ceci donne lieu aux objectifs pédagogiques
+suivants:-diagnostiquer
+: initiation aux méthodes pour établir un diagnostic environnemental dans les
+différents domaines (biodiversité, mobilité, bâtiment);-évaluer :
+découvrir les méthodes et techniques et apprendre à mobiliser les outils pour
+évaluer un projet (ou une partie de projet) d'aménagement dans les mêmes
+domaines précités;-éco-concevoir
+: se servir des 2 compétences précédentes pour définir un projet adapté à un
+territoire d'étude et en évaluer les impacts environnementaux.La partie mini-projet vise à mobiliser les
+compétences apprises lors du module et à les appliquer sur un cas d'étude réel,
+et développer un certain nombre de compétences transférables, en particulier
+les 2 suivantes :-travailler en
+mode projet ;-travailler en
+équipe.L'atteinte des objectifs pédagogiques
+ci-dessus reposera en grande partie sur la mobilisation de méthodes et d'outils
+d'écoconception développés au sein du Lab Recherche Environnement, programme de
+recherche mené par ParisTech avec le soutien de VinciThe course aims to introduce students to the skills,
+techniques and tools for the eco-design of eco-neighborhood projects
+(greenfield or brownfield projects), by developing a transversal vision on the
+fields of building, transport and biodiversity.This gives rise to the following educational
+objectives:-diagnose:
+initiation into methods for establishing an environmental diagnosis in the
+various fields (biodiversity, mobility, building);-evaluate:
+discover the methods and techniques and learn to use the tools to evaluate a
+development project (or part of a project) in the aforementioned areas;-eco-design:
+use the 2 previous skills to define a project suited to a study area and assess
+its environmental impacts.The mini-project part aims to mobilize the skills
+learned during the module and apply them to a real study case, and develop a
+certain number of transferable skills, in particular the following two:-work in
+project mode;-work in a
+team.Achieving the above educational objectives will
+largely be based on the mobilization of eco-design methods and tools developed
+within the Environmental Research Lab, a research program led by ParisTech with
+the support of VINCI.","Les
+éléments suivants seront abordés lors des interventions et des TDs :-présentation des enjeux de l'écoconception des quartiers-introduction à l'analyse de cycle de vie et application à l'écoconception
+de bâtiments-écoconception et biodiversité urbaine-écoconception et mobilitéLe module
+alternera présentations en format magistral, TD pour apprendre à manipuler les
+outils d'écoconception et séances dédiées au mini-projet.The
+following elements will be discussed during the lectures and tutorial classes:-presentation of the challenges of neighborhood eco-design-introduction to life cycle analysis and application to building
+eco-design-eco-design and urban biodiversity-eco-design and mobilityThe module will alternate presentations in lecture format, tutorial
+classes to learn how to use eco-design tools and sessions dedicated to the
+mini-project.","Présentation
+orale en groupe du mini-projetOral presentation of the mini-projects in groups",on-site,"French, with some presentations in English",3,Nicolas COULOMBEL - Tatiana SEREGINA,Nicolas COULOMBEL - Tatiana SEREGINA,"6 et 8 avenue Blaise-Pascal, Cité DescartesChamps-sur-Marne",Architecture and town planningBuilding and civil engineeringEnvironmental sciencesTransport services,,November 2022,ENPC03,https://register.athensnetwork.eu/courses/course-show/2658,France
+75,Arts et Métiers ParisTech,Polymers and Composites (Properties and Durability),"The course is, indeed, an initiation to polymer science and application for students knowing a little about materials and the mechanics of materials.","Polymers have an important influence on our life. It is practically impossible to show a field which is not affected by polymers. The development of polymers helped the industry to propose new and high performance materials like composites, biopolymers…The use of these materials asks a rich and deep knowledge about the properties of these different types of polymers used for manufacturing of industrial parts: Physical, thermal and mechanical properties.In this course we try to give this knowledge to our young European Engineers.","It is a 5-day course (Monday to Friday) for a total duration of 30 hours.During this course different aspects will be developed:Basic knowledge of polymers, biopolymers and compositesRheology of polymersPolymers and composites in industryLife time predictionEffect of aging on properties of materials - polymers and composites during processing (injection molding, extrusion, rotational molding…)Analytical methods : differential scanning calorimetric, infra-red spectrometry, thermo-mechanical analysis, rheometry, mechanical tests",The students will present a short report on selected topics of the course at the end of program.,on-site,English,4,Abbas TCHARKHTCHI,,"155, bd de l'Hopital - 75013 Paris - FranceParis","Materials (glass, paper, plastic and wood)",,November 2022,ENSAM1,https://register.athensnetwork.eu/courses/course-show/2659,France
+76,Arts et Métiers ParisTech,Introduction to Musculoskeletal and Osteoarticular Biomechanics,Basic knowledge in mechanics.,"This course will be an introduction to the application of the mechanical principles to the study of the biomechanical behaviour of musculoskeletal and articular systems of human body. It will present clinical and mechanical aspects and will include both experimental and numerical approaches. The final aim of the musculoskeletal and articular biomechanics is to better understand the mechanical behaviour of intact, injured, pathologic of restored human body segments, to help in the design of implants and prostheses, and to help the clinicians in therapeutics strategies.",It is a 5-day course (Monday to Friday):Introduction to the Musculoskeletal and Articular BiomechanicsFunctional Anatomy: Spine - Shoulder - Hip - KneeClinical Problems and Osteoarticular ImplantsBiomechanical Behaviour of TissuesArticular Kinematics - TheoryArticular Kinematics - In Vivo Experimental Analyses - ApplicationsArticular Dynamics - Segmental Models - ApplicationIn Vitro Experimental Analyses of the Biomechanical Behaviour of Corporal Segments and of ImplantsNormalization of Implants EvaluationBiomechanical Finite Element Models: GeneralitiesBiomechanical Finite Element Models: ApplicationsThe Bone Remodelling Process: Presentation - Simulation - Applications.Visit of the biomechanical experimental and numerical facilities with practical demonstrations.,Final written test (1 h 30) on Friday afternoon.,on-site,English,4,Nathalie MAUREL and Amadou DIOP,,155 bd de l'Hopital - 75013 Paris - FranceParis,Mechanics and metal tradesMedical diagnostic and treatment technology,,November 2022,ENSAM6,https://register.athensnetwork.eu/courses/course-show/2660,France
+77,Universidad Politecnica de Madrid,5th centenary of the first circumnavigation of the World,None,"Introduce the
+  students to this important milestone in Spanish history, a key event in universal
+  history","LessonsThe world at the beginning of S.XVI. The discovery of AmericaThe Portuguese and Spanish empires. The Treaty of Tordesillas 1494The economic impact of international spice trade. Moluccas IslandsCommerce and NavigationAn opportunity for the epic. Objectives of the expeditionThe organisation of a maritime expedition. Economic factorsThe Capitulations. 22 March 1518The
+  shipsThe crew and the important peopleA voyage or an adventure. 10 August 1519 - 8 September 1522Epilogue. Consequences and new world orderVisitsNaval Museum – “We were the first” expositionNational Center for Geographic Information – “The maps and the first
+  circumnavigation of the World. Magellan and Elcano’s voyage”AGNYEE – Replicating the adventure 2019-2022– PROS ship(virtual visit)LecturesTargeting micro plastics in the oceansTeamwork – cooperative, gets along with other, supportive, leadershipCommunication – oral speaking, presenting, writing",Team work and presentation,on-site,English,2,Prof. Dr. David Díaz –,"Prof. Dr. Rodrigo Pérez, Prof. Dr. Alberto Camarero, Dr. Jesús Valle, Dr. Ángel Fernández, D. Diego Fernández",ETSI Naval. Av de la Complutense s/n. 28040Madrid,"EconomicsHistory and archaeologyManagement and administrationMilitary and defenceMotor vehicles, ships and aircraftPersonal skills and developmentSociology and cultural studiesTransport services",,November 2022,UPM133,https://register.athensnetwork.eu/courses/course-show/2661,Spain
+78,Télécom Paris,Image Processing,"Basic knowledge in signal processing, applied mathematics, and probability.
+Basic knowledge of Python or Matlab.","The objective of this course is to provide students with an introduction to
+digital image processing techniques and applications, from fundamental,
+algorithmic and practical points of view.In addition to a series of lectures, practical works sessions are organized to
+guide the students towards a better understanding of the theoretical concepts
+and the implementation of the various image processing methods on real-case
+images. During the week, a team project will also give the students the
+opportunity to discuss, practice and develop their skills in the image
+processing domain. Practical works and project will be done in computer rooms
+with PC workstations using Python with jupyter notebooks.Theoretical lectures represent about half of the course, the other half
+being reserved to the practical works and team project.Programme to
+be followed:The lectures will cover the following topics:- linear filtering,- radiometry, colorimetry- Bayesian analysis- restoration and patch-based methods- segmentation,- mathematical morphology,- applications in medical imaging, introduction to computer graphics.",,"The last afternoon is dedicated to evaluations (presentation of the
+project, questions on the courses) and concluding discussions.",on-site,English,4,Florence TUPIN,Professors from the Signal and Image Departement of Telecom ParisTech,19 place Marguerite Perey91120 Palaiseau,Mathematics,,November 2022,TP01,https://register.athensnetwork.eu/courses/course-show/2662,France
+79,Télécom Paris,Social Emergence in Complex Systems,"All lectures and all materials are in English,
+so we expect students to be fluent in English. Lab work sessions are based on
+software written in Python. Mastery of the Python language is not required, but
+students who attend this course will be fluent in procedural object-oriented
+programming (Java, C++, Python or equivalent). They will get some knowledge of
+Python by themselves before the Athens week.","The existence of
+complex social organization is often a mystery. What would bring individuals
+(people, social insects, birds, artificial agents...) to favor collective
+benefit rather than short-term selfish payoff? This is the""hard
+problem""of sociality: the return on investment in the collective is
+divided by the size of the group, while selfish gains are retained in full.The emergence of
+sociality is crucial, not only to understandanimal and human societies,
+but also to gain a new insight into many aspects of thedigital life(social media, open-source software communities, Internet technical forums,
+cooperation among artificial agents, human-computer verbal interaction,
+acceptability of AI).This course will
+explore the conditions for stable social behavior. You will be usingcomputer
+simulationsto study various phenomena (cooperation, coordination, sharing,
+collective problem solving, communication, charity). You will manipulate
+severaltheoretical models(including kin selection, reciprocity and
+social signaling) that are used to explain these phenomena.","The course will
+cover several social phenomena, including: collective decision, the cocktail
+party effect, scale-free social networks, the hawk-dove dilemma, cooperation in
+insect societies, emergence of segregationism, altruism, the ""tragedy of
+the commons"", the ""green-beard"" effect, social coordination,
+suicide ""for the group"", honest communication, charity and
+competitive helping.Several theoretical
+models will be studied, including preferential attachment, kin selection, the
+Prisoner’s dilemma, the handicap principle, social signaling. Several of these
+models derive from applyingGame Theoryto social dilemma.Computer simulations
+will includegenetic algorithmsto simulate natural evolution, and
+various basic multi-agent techniques to study collective behavior.AudienceIf
+you are curious about social phenomena and think that theoretical modeling and
+computer simulation are powerful tools to approach them, then you will enjoy
+the course.PrerequisitesAll
+lectures and all materials are in English, so we expect students to be fluent
+in English. Lab work sessions are based on software written in Python. Mastery
+of the Python language is not required, but students who attend this course
+will be fluent in some procedural object-oriented programming language (Java,
+C++, Python or equivalent). They will get some knowledge of Python by
+themselves before theAthensweek.","The
+course consists in lectures alternately with practical work on machines.
+Students are asked to work on the software platform used to study social
+phenomena and to perform slight modifications in one of the case studies to
+develop their own personal (micro )project.Students
+will be evaluated based on the following tasks:Answers
+     during Lab work sessionsSmall
+     open question quizA 5 min. presentation of their
+     personal projectA short written description of
+     their personal project (+ source files)",on-site,English,4,Jean-Louis DESSALLES,,19 place Marguerite Perey91120 Palaiseau,Mathematics,,November 2022,TP09,https://register.athensnetwork.eu/courses/course-show/2663,France
+80,Télécom Paris,"From cloud datacenters to mobile edge computing (MEC): architectures, innovative services, and open challenges","Basic knowledge in
+fix and radio-mobile networks, IoT, computer architecture, optimization
+techniques.","The TPT20 course aims to outline the fundamental concepts, application
+domains and open research topics inherent to Cloud virtualization, both in
+large datacenters and in mobile edge environment. Mobile edge corresponds to the
+periphery of radio-cellular networks where both fix and mobile users and IoT
+devices are connected. Teaching an ATHENS session is challenging on two
+aspects: how to introduce a new scientific topic in a successive five days session?
+How to satisfy the expectations of an international audience with diverse scientific
+backgrounds and cultures? The added-value of the TPT20 curriculum is two-fold.
+First, it introduces some of the most significant and up-to-date evolutions of
+Cloud computing, in terms of hardware architecture and service management. Secondly,
+it alternates didactic courses with lab sessions. As it is the case since the
+first edition of the TPT20 course, my colleagues MrSteven Eychenne(Ing. @IBM-France)
+and MrCédric LENINIVIN(Ing. @Nexedi) both help me in this
+challenging task.In a first step, we propose a brief state of the art on CPU and hardware
+architectures. The performance criteria of a blade server (the basic computing
+unit within a datacenter) are analyzed (CPU speed, multithread vs. multicore, energy
+consumption etc.). We describe then into details the rationale of the typical 2D-fat-tree
+optical backplane network architecture of a datacenter. The pros and cons of
+this architecture are discussed in reference to the potentialities of all-optical
+technologies. The basic rationale of virtual machines (VM) assignment to
+physical machines (PM) and migration strategies is presented via bin packing
+theory. After these preliminary considerations, the evolution from hypervisors
+to Virtual Containers (VC) such as Kubernetes and Docker is briefly discussed. An
+original focus is dedicated to the impact of heat dissipation onto real-time VM
+migrations. In this perspective, we show how a Pareto optimization approach can
+be considered. We conclude this first section by a brief presentation ofCloud
+standardizationbodies and the three Cloud business
+models considered up to now.The second part of
+this course deals with the most innovative aspect of the Cloud domain, namelyCloud Radio
+Access Networks(CRAN) andMobile Edge Computing(MEC). CRAN refers to the innovative access infrastructure
+that will enable to deport Cloud intelligence close to fix/mobile end-users,
+including IoT sensors/actuators.Autonomous vehicles(AV) and more extensively,Intelligent Transportation Systems(ITS), the first two pillar applications of 5G, rely on
+Cloud and IoT. In this perspective, we depict into details the basic principles
+ofDigital Radio-over-Fiber(D-RoF) and the two underlying standards, namelyCPRIandOBSAI.In our
+conclusion, we depict the open perspectives offered by 5G/MEC for future
+intelligent transportation systems (ITS).",,Evaluation exam with all documents,on-site,English,4,Maurice GAGNAIRE,Mr Steven Eychenne (Ing. @ IBM-France) and Mr Cédric LENINIVIN (Ing. @ Nexedi),19 place Marguerite Perey91120 Palaiseau,Mathematics,,November 2022,TP20,https://register.athensnetwork.eu/courses/course-show/2664,France
+81,Télécom Paris,Practice in deep learning,Good knowledge of Python / Jupyter notebook.Good knowledge in probability.,Learn the basics of supervised machine learning (regression andclassification with multilayer sigmoid networks)Experiment with deep convolutional networks with image classificationand generation.,"Day 1: Welcome and introduction to neural networks in Python/KerasDay 2: Convolutional neural networksDay 3: Deep architectures, generative modelsDay 4: Recurrent neural networksDay 5: Structured and unstructured pruning for deep neural
+      networks, Ecam xam in the afternoon + question time",,on-site,English,3,Enzo Tartaglione,Attilio Fiandrotti,19 place Marguerite Perey91120 Palaiseau,Mathematics,,November 2022,TP40,https://register.athensnetwork.eu/courses/course-show/2665,France
+82,Télécom Paris,User Experience Design sprint,,"Most engineer learn how to design a system from a technical
+perspective, in this class you will learn to design from the user perspective. In
+this course, through a practice-based approach, lectures, step-by-step
+instructions and exercises, students will learn multiples design and
+sketching methods.  These methods
+are useful to design, express, refine, present and discuss your (and others’)
+design ideas about user experiences, service design and application design.
+This course will help you to build (1) a culture of experience-based design (2)
+skills to better express your design of a service, a system and application
+graphically. Knowing how to draw is not a requirement for this class. 
+
+During this class, you will learn to answer these questions:How to design an
+     application / service from the user perspective?What is a sketch?
+     And what's the point of sketching user interface?How sketching
+     can help you to design better systems, services and applications?How to do
+     sketch based sampling, storyboards, paper prototype, a
+     user interface wire frame, make an application mock up?",,"To validate this class you need to invest time in your homework !
+
+  The class is based on a personal project, 
+make it happen!
+  The evaluation of the student work is based on the following ranking:Homework:     25 %Projects:         55 %Pop up quiz:   10 %Participation:   10 %The evaluation of the project will be based on:The
+       prof appreciation of your oral presentationA
+       peer review of your presentation and projectAnd
+       prof appreciation of your final report",on-site,English,4,Samuel Huron,Samuel Huron and an associate professor,19 place Marguerite Perey91120 Palaiseau,"Fashion, interior and industrial design",,November 2022,TP41,https://register.athensnetwork.eu/courses/course-show/2666,France
+83,Télécom Paris,Managing Communication in an International Context,"It's better if your take you laptopParticipants
+must have an intermediate to good level of English to assure comprehension and
+effective participation.","It's better if you take your laptopThe ability to successfully communicate in an international context
+requires both the knowledge of differing social norms as well as the ability to
+self-reflect in order to anticipate, mediate, and rectify cultural
+misunderstandings. Both theoretical and practical, this five-day course
+provides insight and strategies for overcoming various intercultural
+communication issues as well as incorporates key interpersonal skills such as
+relationship building and conflict management.The course will begin with a brief background of popular and modern models
+of intercultural communication from Edward Hall’s classic Iceberg (1976) to
+Chia Suan Chong’s ADAPT Model (2018). Then, students will be given the
+opportunity to test out the models themselves all the while sharing and
+discussing intercultural experiences. Next, the students will be given the
+opportunity to reflect on their own communication styles as well as use
+strategies for conflict management during two, highly interactive debates and
+role-plays. And finally, on the last day, students will work in teams to design
+intercultural sketches that they can share with the entire group. By the end of
+the course, students will be able to observe, analyze, and grow in multiple
+international contexts.","It's better if you take your laptopDay
+1: Breaking the ice; verbal and non-verbal communication; an introduction to
+Tuckman’s stages of group development; artistic awareness in a cultural
+context.Day 2: A brief background of popular and modern models of intercultural
+communication: Hall’s Iceberg (1976), Bennett and Stillings’ Describe,
+Interpret, and Evaluate Model (1977); Chia Suan Chong’s ADAPT Model (2018); Top
+10 Skills for Intercultural Communication to Cultivate; and sharing cultural artifacts.Day 3: Communication Styles and The DISC Model; influencing and persuading-
+debating toget out of your comfort zone.Day 4: The Marshmallow
+Challenge; the notion of losing face; the conflict management principles of
+Bell (2002) and Hart (2009); an interactive role-play.Day 5: Teamwork: designing and presenting intercultural sketches.","It's better if you take your laptopA three-part, guided, cultural awareness journal due by lunchtime on the
+fourth day: Students will be given specific tasks to carry out on Days 1, 2,
+and 3 (going to a museum in Paris, interviewing a French person, and writing
+about one aspect of French culture that they didn’t expect to encounter).
+Students will be given specific questions to foster self-reflection. They will
+be evaluated on the quantity and quality of their analysis.",on-site,English B2,3,Bethany Cagnol,"Bethany Cagnol, Verena Galganek, Burgelis Melania, Oberg Zachary",19 place Marguerite Perey91120 Palaiseau,Work skills,,November 2022,TP05,https://register.athensnetwork.eu/courses/course-show/2667,France
+84,Télécom Paris,Fundamentals of Data Compression and Data Transfer,"The student should have attended an introductory but full course on 
+probability. The student is not supposed to have attended a digital 
+communications class but should be mathematically inclined.","This is an introductory information theory course that
+articulates around the question “How to store and transmit information
+efficiently?”. The course will also survey state-of-the-art code constructions
+and algorithms.","Day
+1,2 : Source coding and entropy, local decodabilityDay
+3,4 : Channel codingDay 5 : Rate distortion",Yes,on-site,English,4,Aslan Tchamkerten,,19 place Marguerite Perey91120 Palaiseau,Mathematics,,November 2022,TP42 Palaiseau,https://register.athensnetwork.eu/courses/course-show/2668,France
+85,Technische Universität München,Biomechanics for Impact and Crash Safety (TUM),"Basic knowledge of Engineering Mechanics, Structural Analysis, and Material Modelling","Students should acquire competences in:Understanding biomechanics for safety, crash analysis, and protectionUnderstanding impact mechanicsUnderstanding crash test configurationsConducting discussions w.r.t. crash","Lectures
+(L), Guest lectures/industry (GL), Self-directed/group work (SW), tutorials (T)Monday:Introduction into crashworthiness (L)Introduction into biomechanics (L)Crash regulations / consumer tests (L)Basic crash mechanics (T, SW)Tuesday:Vulnerable road users (GL, AUDI)Restraint systems/airbags/belts (GL, BMW)Injury criteria (L)Preparation of group presentations (T, SW)Wednesday:Dummies & Human models (L/GL, BMW)Soft tissue modelling (L)Exercises on biomechanics (T)Round table “crash/autonomous driving” (SW)Thursday:Verification & Validation (L)Technical visit, e.g. crash test facility (GL)Preparation of group presentations (T, SW)Friday:Student presentations on selected topic (SW)Round table on ethics, future challenges (SW)Closing discussion
+(SW)",Individual contribution to a group presentation on a selected topic (biomechanics / crash),on-site,English,3,Prof. Dr.-Ing. Fabian Duddeck (TUM); Prof. Dr.-Ing. Steffen Peldschus (LMU),"Felicitas Lanzl, Paolo Ascia, et al.
+Guest lecturers from industry (BMW, AUDI, …)","Arcisstr. 21, 80333 Munich, GermanyMunich","BiologyMathematicsMechanics and metal tradesMedical diagnostic and treatment technologyMotor vehicles, ships and aircraftOccupational Health and safetyPhysics",,November 2022,TUM 1122-01,https://register.athensnetwork.eu/courses/course-show/2669,Germany
+86,Ecole des Ponts ParisTech,Uncertainty Quantification in Numerical Simulations,"Basic mathematics at final year of bachelor level
+knowledge in probability and statistics (linear algebra, optimization, cumulative
+density functions, parametric estimation, limit theorems, confidence
+intervals).","Uncertainty quantification is used in analysis and
+modeling (e.g. sources of uncertainty in a physical system), optimization and
+operations research (e.g. uncertainties on supply and demand in the modeling of
+a supply chain), vision and machine learning (processing noisy data...), or
+quantitative finance (financial risk management...).Numerical simulation is an essential tool for modeling
+and analyzing complex systems in many scientific fields (physics, biology,
+chemistry, finance, economics, etc.). The expectations associated with it are
+multiple: better identification and control of risks, limitation of the costs
+of real experiments (car crash tests for example), search for cost-performance
+trade-offs, etc. The presence of many sources of uncertainty (on the models,
+their parameters, the reference measurements) nevertheless raises the question
+of the confidence that can be associated with the decisions and predictions
+provided by the simulation.The objective of this course is to present a set of
+mathematical methods to model, propagate and analyze these uncertainties in
+numerical simulations.At the end of the module, students will-know the
+theoretical foundations of the usual methods of uncertainty quantification;-be able
+to implement these methods (using R) on concrete case studies","Modeling of uncertaintiesUncertainty propagation (quadrature and Monte Carlo
+methods)Sensitivity analysisRisk analysisSolving inverse problems in the presence of
+uncertaintiesData filtering and assimilationThe course is divided into 10 sessions of 3 hours.
+Each session starts with a 1h30 lecture, and ends with a 1h30 numerical practical
+works. During the last session, the practical work will be replaced by an exam",Written exam during the last session.,on-site,English,3,Guillaume PERRIN,Guillaume PERRIN,"6 et 8 avenue Blaise-Pascal, Cité DescartesChamps-sur-Marne",MathematicsStatistics,,November 2022,ENPC04,https://register.athensnetwork.eu/courses/course-show/2670,France
+87,Ecole des Ponts ParisTech,Energy transition: technologies and policies interactions,None,"The 2015 Paris agreement on climate change sets a
+long-term goal to maintain the global average temperature increase well below
+2C above pre-industrial levels. To comply with this target, the EU aims to
+rapidly cut its carbon emission and become carbon neutral by 2050.The aim of this course is to understand how
+technologies and policies interact within and between sectors and to identify
+trade-offs between options and across time-periods. The course aims to show
+that the energy transition is a complex, systemic and geopolitical process. The
+focus will be on Europe and the course will try to adopt whenever possible a
+comparative approach.At the end of the course, students will be able:-To define the different energy production and
+consumption scenarii and their impact on climate change-To provide orders of magnitude related to different
+energy technologies-To identify policy and technology trade-offs of
+decarbonation scenarii at the sectoral level","The course will combine lectures, conferences, debates
+and tutored projects on a specific technology or group of technologies. The number
+of students is limited to 30 (25 from the ATHENS network and 5 from ENPC)ProgramDay 1: introduction to energy transition·AM: Energy production and consumption – history,
+trends and trajectories 2050 [IEA]: questioning technological choices, irreversibilities,
+temporalityof change technological choices,terms of innovation, investments, social constraints. n·PM: En-ROADS simulationDay 2: sectorial challenges of the energy transition·AM: introduction to the challenges of energy
+transition: CO2emissions, trajectories, regulation, innovation and
+technologies per sector.·PM: introduction to team work – 1 subject per sector,
+coached by “sectorial” contributors (one on technical aspects, one on
+socio-economic aspects) providing more insights about the given sector.Day 3: Team work·AM & PM: coached team work·PM+ : Objectives – each group is capable of presenting
+something.Day 4: from technologies to policies·AM: first restitution in front of the other groups to
+identify what to refine (20 minutes per group)·PM: complementary coached work in teamsDay 5: Panel and presentations·AM: complementary coached work in teams·PM: levers of change to reach carbon neutrality - panel
+discussion (with experts from CIRED…)·PM+: poster exhibition and presentationTutored
+projectThe tutored project will serve as the backbone of the
+course. It consists of a 5-student team project addressing technological
+choices for a given energy trajectory. Each group will be given a sector with a
+particular technology / subject and will analyze the implication in terms of
+innovation, investments, social and geopolitical constraintsThe suggested subjects are:-Biogas in the energy sector-Metallurgy / steel production with hydrogen-Energy efficiency and renovation in the building
+sector-Low carbon concrete-Sea transport (hydrogen or ammonia)-Batteries for urban mobilityEach sectoral project involves a tutoring staff
+composed of two experts (professionals or researchers), with expertise on
+respectively technical and socio-economic issues.","Poster presentation: presenting a A0 that assesses a
+specific energy technology through different aspects.The poster’s structure will be the following:-Technology description and use cases-Economics of technological development and potential
+for mainstreaming-Geopolitics aspects-Risk analysis-Concurrent technologies",on-site,English,3,Myriam SAADE & Paul RAMBACH,"Pierre BERTRAND, Louis-François DURRET, Emeric FORTIN, Thierry HOMMEL","6 et 8 avenue Blaise-Pascal, Cité DescartesChamps-sur-Marne","Architecture and town planningBuilding and civil engineeringEconomicsElectricity and energyEnvironmental protection technologyMaterials (glass, paper, plastic and wood)Natural environments and wildlifePolitical science and civics",,November 2022,ENPC05,https://register.athensnetwork.eu/courses/course-show/2671,France
+88,Politecnico di Milano,Using the geographical information systems for the quantitative and qualitative landscape analysis,"Some basic knowledge about landscape theoriesThe course is mainly addressing Architects, Urban Planners and Civil/Environmental EngineersRequirements: computer","Developing skills in the
+spatDeveloping
+skills in thespacial quantitative and qualitative analysis of landscape through the use of
+Gis tools.Landscape
+    is “an area, as perceived by people, whose character is the result of the action and interaction of natural and/or human factors” (Council of Europe, European Landscape Convention, 2000). The changing conditions of this complex factor that determines
+    the variability of our local and national contexts can be effectively measured thanks to quantitative and qualitative indicators, which could be calculated using Gis, thanks to elements of geostatistics and numeric cartography. This course will illustrate,
+    then, the speculative basics of the need of using Gis for the quantitative and qualitative landscape analysis.","Monday morning(3 hrs of frCOURSE AGENDA:Monday9:15-11:15:Overview of the course
+and introduction to the definition of landscape as “an area, as perceived by
+people, whose character is the result of the action and interaction of natural
+and/or human factors” (European Landscape Convention, 2000).11:15-12:15:Groups definition, course
+assignment presentation, discussion and database sharing.12:15-14:15:Lunch break.14:15-17:15:Overviewof Gis software use for the landscape
+analysis. Introduction to the use of ArcGis: basic commands (adding layers to a
+map, adding data stored as spreadsheet or file data to a map, changing map
+symbols and colors) with practical exercises.Tuesday9:15-12:15: Numeric cartography
+basics for the Gis software use. Elements introducing the use of spatial
+cartographic data for the landscape analysis. Practical exercises.12:15-14:15:Lunch break.14:15-17:15:Introduction to the use
+of ArcGis: preparing and managing databases for the landscape analysis with
+practical exercises. Features and use of ArcGis and the geospatial analysis
+tools. Practical exercises.Wednesday9:15-12:15: Case studies and possible use of the landscape
+analysis in the planning tools. Practical exercises.12:15-14:15:Lunch break.14:15-17:15: Using ArcGis for the landscape
+analysis. Main qualitative and quantitative indicators to be calculated for the
+landscape analysis. Practical exercises.Thursday9:15-12:15: Elements of
+geostatistics for the landscape analysis. Introduction to the multivariate
+statistics (cluster analysis) and other statistical tools for the geographic
+analysis. Practical exercises.12:15-14:15:Lunch break.14:15-17:15: Database collection,
+organization and management for the quantitative and qualitative landscape
+analysis. Elements about data collection and examples of existing databases. Practical
+exercises.Friday9:15-12:15: Using ArcGis for the
+geostatistic analysis. Practical exercises.12:15-14:15:Lunch break.14:15-15:15: Exam.15:15-15:45: Exams correction.15:45-17:15: Final discussion, informal
+farewells.",Written exam,on-site,English,3,Alessandra Pandolfi,,POLITECNICO DI MILANOMilan,Architecture and town planning,,November 2022,POLI25,https://register.athensnetwork.eu/courses/course-show/2672,Italy
+89,Politecnico di Milano,Modernity and Critic Modernity and Warm modernity. Architectural Concept and landscape icon.,,"Issue:The workshop and the
+theory classes proposed within it, aim to develop an experimental approach to
+the urban design project. The starting point will be the Warm Modernity
+research and it will be update thanks to new external contributes, that will
+help to critically read some modern models within the Indian context in order
+to stimulate their contemporary reinterpretation.Contents:In the nature of the new
+utopia of participatory planning and design exist an approach at times
+motivated by noble ideals that has had to reckon with a harsh and unforgiving
+reality; at others driven by ideology in an paternalistic attempt to banish the
+specter of poverty; or finally an effort driven by a sense of personal
+responsibility to find a new way out of a history of oppression.The history of living in
+the democratic cities of the world seems to have been played out between Europe
+and the United States.Christopher Alexander,
+Giancarlo de Carlo, the Smithsons and Cedric Price brought a breath of fresh
+air to the world of architecture, in the name of a sharing of the goals and
+aims of design. They were the ones who laid the foundations for today’s idea of
+an open-source architecture.This wind of change and
+hope comes from faraway, however, springing out of a new dialogue in the
+tropical belt of the planet, out of the efforts to bring democratic modernity
+to postcolonial territories in South Asia and Africa.We can dismiss this
+postcolonial modernity or we can seek to understand its complexity and grasp
+the feverish yearnings that underpin it. In any case we have to live with its
+reality and its global consequences.What are we talking about
+when we speak of participatory architecture?Design thinkingTheme:An incremental
+project for a city for 80.000 habitants, working at theneighborhood unit’sscale.
+The exercise start from the critical reading of Otto Koenigsberger’s protocol
+(1948) for the city of BhubaneswarThe participant has to
+imagine and design the spatial device of 1 neighborhood unit, taking care of
+social integration, public administration and the predictable city’s growth. It
+has to be considered that it will realistically double its population in 25
+years.","Project detailsContext: Orissa, India.Dimension of the
+Neighborhood Unit: 800x800m.People of the Unit: 7000
+at the foundation of the city < max 14.000 after 25 years.Tools: activation of
+participatory architecture in the concept/construction/administration/economy
+of the city.",Protocol draft of minimum a text of 3000 caracters with guideline plan.,on-site,English,4,"Prof. Ingrid Paoletti, Maddalena d'Alfonso",,ON LINE,Architecture and town planning,,November 2022,POLI09_bis,https://register.athensnetwork.eu/courses/course-show/2673,Italy
+90,Technische Universität München,Selected aspects of seismic analysis,"Physics, Mathematics, Mechanics, Structural Analysis, Basics of Dynamics",Understanding seismic analysis of structures looking at selected aspects.Basics of seismic analysis and soil-structure interaction analysis (SSI) for seismic design with examples  (Dr.-Ing. Francesca Taddei)Basics of structural vibration control with examples (Prof. Linda Giresini)Basics of seismic risk analysis of structures with examples (Prof. Ali Khansefid),"By the end of this course, you will be able to:Describe the seismic design philosophyDifferentiate between different methods for the computation of the seismic response of building-soil systemsEvaluate the seismic response of an exemplary building-soil systems with simple models based on the learned methods, using computer programsDescribe the seismic behavior of masonry structures and assess the earthquake-induced damage on existing structuresUnderstand the out-of-plane performance of masonry walls in existing buildings and analyze a case study with numerical and analytical methods, using computer programsDesign tie-rods as traditional earthquake resistant devices to counteract OOP modes in masonry buildingsDescribe basic concepts of seismic risk assessment and mitigationUnderstand vibration control systems as a seismic risk mitigation approachEvaluate the seismic response of a building with/without seismic isolation system",Digital report,on-site,English,2,Dr.-Ing. Francesca Taddei,"Prof. Linda Giresini, Prof. Ali Khansefid","Arcisstr. 21, 80333 Munich, GermanyMunich",Building and civil engineering,,November 2022,TUM 1122-02,https://register.athensnetwork.eu/courses/course-show/2674,Germany
+91,Politecnico di Milano,Rigidity in Softness: Aggregated Reinforced Knitted Architecture (ARKA),"Required Skills: Basic knowledge of Grasshopper, Passion for learning-by-doing, Digital
+fabrication","RKA is a cross-collaborative workshop between the Stuckeman Center for Design
+Computing (SCDC) at The Pennsylvania State University and the Department of
+Architecture, Built Environment, and Construction (DABC) of Politecnico di Milano.Architecture can make use of the potential of natural aggregates that can modify themselves in
+response to environmental change. Instead of failing, they adjust the equilibrium to equilibrium to
+accommodate the new condition. Dieriches (2022) defined Aggregate architecture as “a system
+consisting of large numbers of loose elements that are observed and modulated by the architect
+on the particle- or system-level to perform one or more typically architectural tasks.”This workshop, originating from a biomimetic approach, will explore the generation of ultralightweight
+external secondary facade skin through the utilization of knitted textiles and fiberreinforced
+polymer composites. The design methodology will investigate the optimal use of Fiber
+Reinforced Polimers (FRP) as secondary structures and the behavior and potential of knitted
+textiles for developing shading systems.The aim of the workshop is to investigate and evaluate
+the potential of combining knitted textiles with fibrous structures to create ultra-lightweight,
+optimized hybrid systems for architectural applications.The workshop is divided into three parts, where the main computational design approach will be
+conducted alongside some practical exercise, allowing the participants to become more confident
+with the special membrane-based construction materials and the textile-hybrid structural
+concepts.The first two parts will be conducted by the use of Grasshopper (Rhino Plugin)Firstly,
+the design and optimization of fibrous secondary structures will be explored, and secondly, the
+shape and density of knitted textiles will be evaluated considering the environmental analysis for
+the shading system. After finalizing the design in the digital world (software), the instructors will
+focus on simple and manual fabrication in the real world.
+Knitted textiles are new materials in architecture. While these materials have been dominant in
+the garment industry for many years, in the last two decades, knits have found their way into
+architecture in the shape of outdoor pavilions and building components like shadings. With the
+shift of production technology toward computer-numerical control (CNC) machines, it became
+possible to program knitted textiles digitally differentiating the material composition locally, thus
+optimizing it for specific applications.
+On the other hand, although FRPs have been known for several decades, they have recently
+won the attention of the building industry thanks to their unique properties such as lightweight,
+good tensile properties, etc. Even though this material is unique, we continue to use it in the
+form of traditional structural materials such as wood and steel.This workshop presents the use of two unique materials with totally different characteristics and
+properties to generate a lightweight shading system. The final system is not FRP or knitted textile
+alone, but it will be a combination of these two materials. A unique architectural system with,
+components that can be reusable at the end of their service life.The cross-disciplinary workshop can be followed by both students and graduated students from
+different academic levels (bachelor's, master's, …). Both computational design practices and
+experimental physical trials (with knitted fabrics and architectural textiles for facades) at labs will
+be conducted along the week.The participants will first learn the structural design and optimization of fibrous structures through
+the use of the Grasshopper platform and Python code.Secondly, they will get familiar with
+daylighting analysis of facade and design of man-made knitted textiles according to the
+constraints defined during analysis, again in Grasshopper. At this step, the participants not only
+are introduced to the design and analysis but also learn about current fabrication methods (e.g.,
+robotic fabrication for fibrous structures and fabrication of knitted textiles on industrial CNC
+machines).In the last step, after finalizing the final form of the shading system, the participants
+will be asked to start to investigate the relationship between knitted textiles and FRP as a
+structural material.
+The final form will be divided into several parts (depending on the number of participants), and
+each one of them will have to knit and fabricate manually the given part.To ensure the unity of
+the fabrication process and final shape, the instructors will provide a fabrication kit with
+requirements for each participant prior to the workshop. Materials for the preliminary maquette and for final fabrication process will be provided by the
+teaching staff.",,prototyping,on-site,English,2,"Alessandra Zanelli, Full professor of Technology of Architecture, And Design of Ultra-lightweight Building Systems","Alessandra Zanelli, Full professor of Technology of Architecture,
+And Design of Ultra-lightweight Building Systems
+Instructors (Alphabetical Order):
+Amirhossein Ahmadnia, PhD Candidate, ABC Department, Politecnico di Milano
+Maria Anishchenko, Ph.D. Candidate, ABC Department, Politecnico di Milano,
+Farzaneh Oghazian, Ph.D. Candidate, Design Computing, Penn State University
+Hosting Laboratories","Politecnico di Milano, campus Leonardo, p.zza Leonardo Da Vinci 32, MilanoMilan","Architecture and town planningBuilding and civil engineeringFashion, interior and industrial design",,November 2022,POLI42,https://register.athensnetwork.eu/courses/course-show/2675,Italy
+92,Politecnico di Milano,Global warming and Ecological Milan! 9th Edition,"course
+for Architects, designers, and creative thinkersREQUIRED
+graphic skills, video making practice","Every
+catastrophe could be also considered positively as an opportunity, to learn
+from, enjoy its anticipation and live through if the society is ready for.
+Today, it is inevitable that every city around the world has to face directly
+or indirectly the 21st-century impact of global warming. Milan maybe
+may not seem to be in the front line, yet, it has all potentials to become one
+of the frontiers of resilience.The
+course will analyze the main parameters of global warming and Milan case
+reactions and anticipations, in both public and institutional levels. As all
+collective and individual decisions and actions, fashionable or modest count,
+Milan case will be explored from diverse and cross disciplinary point of views.
+The course will criticize in specific the evolution of last 15 years of Milan
+toward resilience scenarios especially during covid-19 pandemic and post
+pandemic period.The
+student will work on a short research (visual and/or textual) essay to be
+agreed with the professor. The subject will be related to contemporary Milan
+response to global warming, with a specific focus on daily routines. It will
+include research, images and short movies. The evaluation will consider the
+layout quality of the research work.The
+student will conceptualize a critical reflection and the hypothesis of target
+group(s). The steps of investigation and documentation on will be planned in
+advance with the professor. The student will represent, through graphic work,
+the outcomes of the research essay. Graphic and scientific quality will also be
+considered in the evaluation of the work.","Presentation of the courseGlobal warming issues and
+concerns20th century MilanGlobal warming concernsGreen MilanSustainability and resilienceGlobal warming and daily lifeMilan Architecture and Global
+warmingMilan Architects and Global
+warmingMilan activists and Global
+warmingSpecific interviewBIBLIOGRAPHY""Think
+like a forest. Diluting the boundaries between nature and city"",ZARCH:
+Journal of interdisciplinary studies in Architecture and Urbanism,14 (June
+2020): 14-31. digital version: 2387-0346.https://doi.org/10.26754/ojs_zarch/zarch.2020144441""Eat
+the City"" inEcoweek: the Book #1:
+50 Voices for Sustainability, ed. E. Messinas & D. Price, Athens:
+Ecovweek.Org, 2017.Elizabeth
+Kolbert,The Sixth Extinction. An
+Unnatural History, London: Bloomsbury, 2014.Richard
+Ingersoll, ""The Ecology Question and Architecture"", inThe SAGE Handbook of Architectural Theory,
+London: 2012.Peter
+Calthorpe,Urbanism in the Age of Climate
+Change, Washington: Island Press, 2011.Paul
+Hawken, Amory Lovins, L. Hunter Lovins,Natural
+Capitalism: Creating the Next Industrial Revolution, Boston: Little, Brown
+and Company, 1999.Further
+readings will be given according the chosen research.","The
+students will present the outcomes of their research essay. Graphic and
+scientific quality will also be considered in the evaluation of the work as
+well as effectiveness of their communications’ contents.",on-site,English,3,Arian Heidari Afshari (arian.heidari@polimi.it),Arian Heidari Afshari (arian.heidari@polimi.it),"Politecnico di Milano, campus Leonardo, p.zza Leonardo Da Vinci 32, MilanoMilan",Architecture and town planningEnvironmental sciencesSociology and cultural studies,,November 2022,POLI37,https://register.athensnetwork.eu/courses/course-show/2676,Italy
+93,Universidad Politecnica de Madrid,The Hidden House,"Basic spatial and drawing notions.Each student should bring his/her own laptop.Each of them should bring several photocopies with plans and sections, at different scales and
+sizes, of a singular project they are interested in. No matter the size, program or location.","The way we look at things offers a wide range of possibilities and hidden projects.Just changing the way we face the beginning of a new project by using the lens of an
+architect, combined with non-conscious techniques and activities, will produce alternative
+scenarios to develop controlled objects.Hand drawing and model making combined with digital tools will produce all the technical
+documents needed to explain the Hidden House Project.","30h Hands-on Workshop
+5 days.Day 1Presentation. Course and students.From specific to generic and unknown.Day 2Building proto-spaces.Site visit. Architectural route 1.Day 3Inhabiting the volume.Day 4Intensification day.Site visit. Architectural route 2.Day 5Collective review.The end as a new beginning.",Hands-on workshop. No exam.,on-site,English,3,"Néstor Montenegro Mateos, Javier Mosquera González",(UPM/ETSAM Associate Professor) Participating professors: Grupo4! UPM/ETSAM Design Studio Unit,"ESCUELA TÉCNICA SUPERIOR DE ARQUITECTURA DE MADRID Avenida Juan de Herrera, 4. 28040Madrid",Architecture and town planningPersonal skills and development,,November 2022,UPM138,https://register.athensnetwork.eu/courses/course-show/2677,Spain
+94,AgroParisTech,Sciences citoyennes. Quand les citoyens produisent du savoir,,"Les objectifs:- comprendre les différents lieux et pratiques des 
+sciences citoyennes- les saisir dans leur historicité et leur diversité- recevoir des notions théoriques pour comprendre les enjeux sociaux, 
+politiques et éthiques","Ce cours examine les lieux et les pratiques des « sciences citoyennes ».
+ Il s'agira de regarder de plus près les citoyens qui, en dehors des 
+institutions scientifiques traditionnelles, produisent des connaissances
+ scientifiques et technologiques. D'un côté, le cours se penchera sur 
+les domaines depuis longtemps ouverts aux amateurs, comme l'histoire 
+naturelle et l'astronomie. De l'autre, les nouveaux lieux de fabrication
+ du savoir qui ont émergé ces dernières années seront aussi discutés : 
+hackerspaces, laboratoires de biologie de garage, fablabs, hackathons, 
+etc.",,on-site,Français,3,Emmanuel KESSOUS,,"22, place de l'Agronomie 91120 Palaiseau PalaiseauPalaiseau",Political science and civicsSociology and cultural studies,,November 2022,AGROPT29,https://register.athensnetwork.eu/courses/course-show/2678,France

@@ -69,3 +69,5 @@ https://register.athensnetwork.eu/courses/course-show/2408/
 https://register.athensnetwork.eu/courses/course-show/2442/
 https://register.athensnetwork.eu/courses/course-show/2512/
 https://register.athensnetwork.eu/courses/course-show/2513/
+https://register.athensnetwork.eu/courses/course-show/2634
+https://register.athensnetwork.eu/courses/course-show/2665
