@@ -6,6 +6,7 @@ import pandas as pd
 from collections import Counter
 import numpy
 import tqdm
+import pycountry
 
 def addCountries(input_df):
     solved_queries_places = {}
@@ -45,9 +46,10 @@ def addCountries(input_df):
                 countries.append(solved_queries_lat_lon[(latid, longit)])
             elif (latid, longit) not in solved_queries_lat_lon:
                 sleep(randint(1 * 100, 2 * 100) / 100)
-                location = geolocator.reverse(latid + "," + longit, language="en")
+                location = geolocator.reverse(latid + "," + longit, language="en", addressdetails=True)
                 if location is not None:
-                    new_country = location.raw["address"]["country"]
+                    new_country_code = location.raw["address"]["country_code"]
+                    new_country = pycountry.countries.get(alpha_2=new_country_code).name
                     countries.append(new_country)
                     solved_queries_lat_lon[(latid, longit)] = new_country
                 else:

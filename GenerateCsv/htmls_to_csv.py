@@ -25,7 +25,7 @@ def clean_df_befor_saving(df):
     new_colnames = {'Unnamed: 0': 'No.',
                     'Session:': 'When',
                     'Institution:': 'Where',
-                    'Course takes place:': 'How',
+                    'Type of course:': 'How', # previously: Course takes place
                     'Course title:': 'What',
                     'Course code:': 'Code',
                     'Minimum year of study:': 'Min. year',
