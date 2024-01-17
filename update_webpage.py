@@ -2,8 +2,8 @@ import shutil
 import os
 
 def main():
-    shutil.copyfile("results_2023_2_web.html", os.path.join("docs", "index.html"))
-    shutil.copyfile("results_2023_2_table.html", os.path.join("docs", "table.html"))
+    shutil.copyfile("results_2024_1_web.html", os.path.join("docs", "index.html"))
+    shutil.copyfile("results_2024_1_table.html", os.path.join("docs", "table.html"))
 
 
 if __name__ == '__main__':

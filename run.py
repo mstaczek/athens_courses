@@ -11,8 +11,8 @@ def create_html_webpage_from_links(links, htmls, csv, result, result_table):
 
 
 if __name__ == '__main__':
-    year = 2023
-    session_no_this_year = 2
+    year = 2024
+    session_no_this_year = 1
     links = f"GenerateCsv/links_{year}_{session_no_this_year}.txt"
     htmls = f"GenerateCsv/html_downloads_{year}_{session_no_this_year}"
     csv = f"results_{year}_{session_no_this_year}.csv"
